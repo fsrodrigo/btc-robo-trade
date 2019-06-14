@@ -3,19 +3,23 @@ npm i express
 npm i xmlhttprequest
 npm i node-datetime
 */
-var util = require('./utils');
-var apiRequest = require('./api-requests');
-var modules = require('./modules');
-var server = require('./server');
+var util = require('./utils/utils');
+var apiRequest = require('./api-requests/btcTrade-api-requests');
+var modulesExternal = require('./app-modules/foreign-operations-modules');
+var modulesBtcTrade = require('./app-modules/btcTrade-operations-modules');
+var server = require('./api_server/server');
 
 
 util.showLog("App Started...");
 
-function app() {
-    modules.checkVariationPrice();
-    modules.getPrice();
-    //modules.deleteBefore24H();
+function monitoringExternal() {
+    modulesExternal.checkVariationPrice();
+    modulesExternal.getPrice();
+}
 
+function monitoringBtcTrade() {
+    modulesBtcTrade.checkVariationPrice();
+    modulesBtcTrade.getPrice();
 }
 
 function recursive() {
@@ -23,10 +27,10 @@ function recursive() {
     server.startServer();
 
     setInterval(() => {
-        app()
+        monitoringBtcTrade()
     }, 5000);
 }
 
+//apiRequest.getPrice();
 
-//modules.checkVariationPrice();
 recursive();

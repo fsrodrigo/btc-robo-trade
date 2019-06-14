@@ -1,0 +1,17 @@
+{
+    "name": "btc-robo-trade",
+    "version": "1.0.0",
+    "description": "This is a btc trade Robot.. Nothing more.",
+    "main": "app.js",
+    "dependencies": {
+        "express": "^4.17.1",
+        "node-datetime": "^2.1.2",
+        "xmlhttprequest": "^1.8.0"
+    },
+    "devDependencies": {},
+    "scripts": {
+        "test": "echo \"Error: no test specifed\" && exit 1"
+    },
+    "author": "Rodrigo F.",
+    "license": "ISC"
+}
