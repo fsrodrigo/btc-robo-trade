@@ -2,7 +2,7 @@ module.exports = {
 
     showLog: function(msg) {
         console.log(msg);
-        this.saveInFile('log.txt', msg, 'a');
+        this.saveInFile('log.txt', '\n' + this.getDate(0) + ' - ' + msg, 'a');
     },
 
     saveInFile: function(file, msg, flag) {
@@ -36,9 +36,19 @@ module.exports = {
         return dataFile;
     },
 
-    getDate: function() {
+    getDate: function(offset) {
         var dateTime = require('node-datetime');
         var dt = dateTime.create();
+        dt.offsetInDays(offset);
         return dt.format('Y-m-d H:M:S');
+    },
+
+    getVariacaoPercent: function(newPrice, oldPrice) {
+        delta = newPrice - oldPrice;
+        percentual = (delta * 100) / oldPrice;
+        return percentual.toFixed(2);
+
     }
 };
+
+//module.exports.getVariacaoPercent(1000, 1100);

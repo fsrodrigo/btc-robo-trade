@@ -1,3 +1,8 @@
+/* INSTALAR AS SEGUINTES DEPENDÊNCIAS:
+npm i express
+npm i xmlhttprequest
+npm i node-datetime
+*/
 var util = require('./utils');
 var apiRequest = require('./api-requests');
 var modules = require('./modules');
@@ -7,8 +12,10 @@ var server = require('./server');
 util.showLog("App Started...");
 
 function app() {
+    modules.checkVariationPrice();
     modules.getPrice();
-    modules.getVariationPrice();
+    //modules.deleteBefore24H();
+
 }
 
 function recursive() {
@@ -21,6 +28,5 @@ function recursive() {
 }
 
 
-
-
+//modules.checkVariationPrice();
 recursive();

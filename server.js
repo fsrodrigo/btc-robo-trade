@@ -16,6 +16,9 @@ apiApp.get("/low", (req, res, next) => {
 apiApp.get("/high", (req, res, next) => {
     res.json(modules.getHighPrice());
 });
+apiApp.get("/avarege", (req, res, next) => {
+    res.json(modules.getAvaregePrice());
+});
 
 module.exports = {
     startServer: function() {

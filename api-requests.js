@@ -8,7 +8,7 @@ module.exports = {
         var xmlHttp = new XMLHttpRequest();
         xmlHttp.open("GET", url, false);
         xmlHttp.send(null);
-        //util.showLog("Return of request: " + xmlHttp.status);
+        util.showLog("Retorno da Requisição: " + xmlHttp.status);
         var json = JSON.parse(xmlHttp.responseText);
         return {
             httpResponseStatus: xmlHttp.status,
@@ -20,5 +20,5 @@ module.exports = {
 };
 
 function getPriceSpecifyCurrency(currency, json) {
-    return json[currency].last;
+    return json[currency].last.toFixed(2);
 }
