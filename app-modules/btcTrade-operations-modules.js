@@ -6,14 +6,14 @@ var fileHighPrice = './db_resources/btcTrade/highPrice.json';
 var fileAvaregePrice = './db_resources/btcTrade/avaregePrice.json';
 var fileLastPrice = './db_resources/btcTrade/lastPrice.json';
 var fileVariationPercent = './db_resources/btcTrade/variationPercent.json';
-
+var corretora = "BtcTrade - ";
 module.exports = {
 
     getPrice: function() {
         var priceNow = apiRequest.getPrice();
         if (priceNow.httpResponseStatus == 200) {
             deleteBefore24H();
-            util.showLog("Bitcoin agora na BtcTrade R$: " + priceNow.httpResponseText);
+            util.showLog(corretora + "Bitcoin agora R$: " + priceNow.httpResponseText);
             util.saveInFile(filePriceHistory, ',\n"' +
                 util.getDate(0) + '" : ' +
                 priceNow.httpResponseText, 'a');
@@ -21,7 +21,7 @@ module.exports = {
             saveLastPrice(priceNow.httpResponseText);
 
         } else {
-            util.showLog("Não foi possível obter o valor. Response code of request: " +
+            util.showLog(corretora + "Não foi possível obter o valor na BtcTrade. Response code of request: " +
                 priceNow.httpResponseStatus);
         }
     },
@@ -30,10 +30,10 @@ module.exports = {
         var variation = '{\n' + util.readFileSync(filePriceHistory) + '\n}';
         variation = checkVariationPrice(JSON.parse(variation));
 
-        util.showLog('Variação obtida...');
-        util.showLog('Low: ' + variation.low);
-        util.showLog('High: ' + variation.high);
-        util.showLog('Avarege: ' + variation.avarege);
+        util.showLog(corretora + 'Variação obtida...');
+        util.showLog(corretora + 'Low: ' + variation.low);
+        util.showLog(corretora + 'High: ' + variation.high);
+        util.showLog(corretora + 'Avarege: ' + variation.avarege);
 
         lowPrice = '{\n' + '"lowPrice" : ' + variation.low + '\n}';
         highPrice = '{\n' + '"highPrice" : ' + variation.high + '\n}';
@@ -45,31 +45,31 @@ module.exports = {
 
     getLowPrice: function() {
         var json = util.readFileSync(fileLowPrice);
-        util.showLog('Requisição: getLowPrice = ' + json);
+        util.showLog(corretora + 'Requisição: getLowPrice = ' + json);
         return JSON.parse(json);
     },
 
     getHighPrice: function() {
         var json = util.readFileSync(fileHighPrice);
-        util.showLog('Requisição: getHighPrice = ' + json);
+        util.showLog(corretora + 'Requisição: getHighPrice = ' + json);
         return JSON.parse(json);
     },
 
     getLastPrice: function() {
         var json = util.readFileSync(fileLastPrice);
-        util.showLog('Requisição: getLastPrice = ' + json);
+        util.showLog(corretora + 'Requisição: getLastPrice = ' + json);
         return JSON.parse(json);
     },
 
     getAvaregePrice: function() {
         var json = util.readFileSync(fileAvaregePrice);
-        util.showLog('Requisição: getAvaregePrice = ' + json);
+        util.showLog(corretora + 'Requisição: getAvaregePrice = ' + json);
         return JSON.parse(json);
     },
 
     getVariationPercent: function() {
         var json = util.readFileSync(fileVariationPercent);
-        util.showLog('Requisição: getVariationPercent = ' + json);
+        util.showLog(corretora + 'Requisição: getVariationPercent = ' + json);
         return JSON.parse(json);
     },
 
@@ -80,7 +80,7 @@ module.exports = {
 };
 
 function saveLastPrice(lastPrice) {
-    util.showLog('Salvando o ultimo preço obtido... ' + lastPrice);
+    util.showLog(corretora + 'Salvando o ultimo preço obtido... ' + lastPrice);
     lastPrice = '{\n' + '"lastPrice" : ' + lastPrice + '\n}';
     util.saveInFile(fileLastPrice, lastPrice, 'w');
 }
@@ -116,7 +116,7 @@ function deleteBefore24H() {
             lastLine = '"' + keys[keys.length - 1] + '" : ' + json[keys[keys.length - 1]];
     });
     util.saveInFile(filePriceHistory, valuesLast24H + lastLine, 'w');
-    util.showLog('Limpeza efetuada dos registros obtidos antes de: ' + dateLasts24H);
+    util.showLog(corretora + 'Limpeza efetuada dos registros obtidos antes de: ' + dateLasts24H);
 }
 
 function getPercentVariationLastPrice(newPrice) {
@@ -127,7 +127,7 @@ function getPercentVariationLastPrice(newPrice) {
         oldPrice = json[x];
     }
     percentual = util.getVariacaoPercent(newPrice, oldPrice);
-    util.showLog('Variação do ultimo preço: ' + percentual + '%');
+    util.showLog(corretora + 'Variação do ultimo preço: ' + percentual + '%');
     json = '{\n' + '"variationPercent" : ' + percentual + '\n}';
     util.saveInFile(fileVariationPercent, json, 'w');
 }

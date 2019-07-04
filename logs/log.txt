@@ -31563,3 +31563,2309 @@ App Started...Bitcoin agora $: 8368.88Bitcoin agora $: 8368.88Bitcoin agora $: 8
 2019-07-03 18:17:26 - Bitcoin agora na BtcTrade R$: 43800.00
 2019-07-03 18:17:26 - Variação do ultimo preço: 0.00%
 2019-07-03 18:17:26 - Salvando o ultimo preço obtido... 43800.00
+2019-07-04 08:46:36 - App Started...
+2019-07-04 08:46:41 - Variação obtida...
+2019-07-04 08:46:41 - High: 11499.23
+2019-07-04 08:46:41 - Avarege: 11345.03
+2019-07-04 08:46:41 - Retorno da Requisição: 200
+2019-07-04 08:46:41 - Low: 11052.67
+2019-07-04 08:46:41 - Limpeza efetuada dos registros obtidos antes de: 2019-07-03 08:46:41
+2019-07-04 08:46:41 - Bitcoin agora $: 11780.54
+2019-07-04 08:46:41 - Variação do ultimo preço: 6.29%
+2019-07-04 08:46:41 - Salvando o ultimo preço obtido... 11780.54
+2019-07-04 08:46:41 - Variação obtida...
+2019-07-04 08:46:41 - Low: 11052.67
+2019-07-04 08:46:41 - High: 43800.00
+2019-07-04 08:46:41 - Avarege: 11475.37
+2019-07-04 08:46:42 - Retorno da Requisição da API BitcoinTrade: 200
+2019-07-04 08:46:42 - Limpeza efetuada dos registros obtidos antes de: 2019-07-03 08:46:42
+2019-07-04 08:46:42 - Bitcoin agora na BtcTrade R$: 44900.04
+2019-07-04 08:46:42 - Variação do ultimo preço: 2.51%
+2019-07-04 08:46:42 - Salvando o ultimo preço obtido... 44900.04
+2019-07-04 08:46:46 - Variação obtida...
+2019-07-04 08:46:46 - Low: 11052.67
+2019-07-04 08:46:46 - High: 11780.54
+2019-07-04 08:46:46 - Avarege: 11355.37
+2019-07-04 08:46:46 - Retorno da Requisição: 200
+2019-07-04 08:46:46 - Limpeza efetuada dos registros obtidos antes de: 2019-07-03 08:46:46
+2019-07-04 08:46:46 - Bitcoin agora $: 11782.01
+2019-07-04 08:46:46 - Variação do ultimo preço: 0.01%
+2019-07-04 08:46:46 - Salvando o ultimo preço obtido... 11782.01
+2019-07-04 08:46:46 - Variação obtida...
+2019-07-04 08:46:46 - Low: 11052.67
+2019-07-04 08:46:46 - High: 44900.04
+2019-07-04 08:46:46 - Avarege: 11517.28
+2019-07-04 08:46:47 - Retorno da Requisição da API BitcoinTrade: 200
+2019-07-04 08:46:47 - Limpeza efetuada dos registros obtidos antes de: 2019-07-03 08:46:47
+2019-07-04 08:46:47 - Bitcoin agora na BtcTrade R$: 44900.04
+2019-07-04 08:46:47 - Variação do ultimo preço: 0.00%
+2019-07-04 08:46:47 - Salvando o ultimo preço obtido... 44900.04
+2019-07-04 08:46:51 - Variação obtida...
+2019-07-04 08:46:51 - Low: 11052.67
+2019-07-04 08:46:51 - High: 11782.01
+2019-07-04 08:46:51 - Avarege: 11355.56
+2019-07-04 08:46:51 - Retorno da Requisição: 200
+2019-07-04 08:46:51 - Limpeza efetuada dos registros obtidos antes de: 2019-07-03 08:46:51
+2019-07-04 08:46:51 - Bitcoin agora $: 11780.54
+2019-07-04 08:46:51 - Variação do ultimo preço: -0.01%
+2019-07-04 08:46:51 - Salvando o ultimo preço obtido... 11780.54
+2019-07-04 08:46:51 - Variação obtida...
+2019-07-04 08:46:51 - Low: 11052.67
+2019-07-04 08:46:51 - High: 44900.04
+2019-07-04 08:46:51 - Avarege: 11532.40
+2019-07-04 08:46:52 - Retorno da Requisição da API BitcoinTrade: 200
+2019-07-04 08:46:52 - Limpeza efetuada dos registros obtidos antes de: 2019-07-03 08:46:52
+2019-07-04 08:46:52 - Bitcoin agora na BtcTrade R$: 44900.04
+2019-07-04 08:46:52 - Variação do ultimo preço: 0.00%
+2019-07-04 08:46:52 - Salvando o ultimo preço obtido... 44900.04
+2019-07-04 08:46:56 - Variação obtida...
+2019-07-04 08:46:56 - Low: 11052.67
+2019-07-04 08:46:56 - High: 11782.01
+2019-07-04 08:46:56 - Avarege: 11355.76
+2019-07-04 08:46:57 - Retorno da Requisição: 200
+2019-07-04 08:46:57 - Limpeza efetuada dos registros obtidos antes de: 2019-07-03 08:46:57
+2019-07-04 08:46:57 - Bitcoin agora $: 11780.54
+2019-07-04 08:46:57 - Variação do ultimo preço: 0.00%
+2019-07-04 08:46:57 - Salvando o ultimo preço obtido... 11780.54
+2019-07-04 08:46:57 - Variação obtida...
+2019-07-04 08:46:57 - Low: 11052.67
+2019-07-04 08:46:57 - High: 44900.04
+2019-07-04 08:46:57 - Avarege: 11547.51
+2019-07-04 08:46:57 - Retorno da Requisição da API BitcoinTrade: 200
+2019-07-04 08:46:57 - Limpeza efetuada dos registros obtidos antes de: 2019-07-03 08:46:57
+2019-07-04 08:46:57 - Bitcoin agora na BtcTrade R$: 44900.04
+2019-07-04 08:46:57 - Variação do ultimo preço: 0.00%
+2019-07-04 08:46:57 - Salvando o ultimo preço obtido... 44900.04
+2019-07-04 08:47:01 - Variação obtida...
+2019-07-04 08:47:01 - Low: 11052.67
+2019-07-04 08:47:01 - High: 11782.01
+2019-07-04 08:47:01 - Avarege: 11355.95
+2019-07-04 08:47:01 - Retorno da Requisição: 200
+2019-07-04 08:47:01 - Limpeza efetuada dos registros obtidos antes de: 2019-07-03 08:47:01
+2019-07-04 08:47:01 - Bitcoin agora $: 11756.86
+2019-07-04 08:47:01 - Variação do ultimo preço: -0.20%
+2019-07-04 08:47:01 - Salvando o ultimo preço obtido... 11756.86
+2019-07-04 08:47:01 - Variação obtida...
+2019-07-04 08:47:01 - Low: 11052.67
+2019-07-04 08:47:01 - High: 44900.04
+2019-07-04 08:47:01 - Avarege: 11562.60
+2019-07-04 08:47:02 - Retorno da Requisição da API BitcoinTrade: 200
+2019-07-04 08:47:02 - Limpeza efetuada dos registros obtidos antes de: 2019-07-03 08:47:02
+2019-07-04 08:47:02 - Bitcoin agora na BtcTrade R$: 44900.04
+2019-07-04 08:47:02 - Variação do ultimo preço: 0.00%
+2019-07-04 08:47:02 - Salvando o ultimo preço obtido... 44900.04
+2019-07-04 08:47:06 - Variação obtida...
+2019-07-04 08:47:06 - Low: 11052.67
+2019-07-04 08:47:06 - High: 11782.01
+2019-07-04 08:47:06 - Avarege: 11356.14
+2019-07-04 08:47:06 - Retorno da Requisição: 200
+2019-07-04 08:47:06 - Limpeza efetuada dos registros obtidos antes de: 2019-07-03 08:47:06
+2019-07-04 08:47:06 - Bitcoin agora $: 11756.86
+2019-07-04 08:47:06 - Variação do ultimo preço: 0.00%
+2019-07-04 08:47:06 - Salvando o ultimo preço obtido... 11756.86
+2019-07-04 08:47:06 - Variação obtida...
+2019-07-04 08:47:06 - Low: 11052.67
+2019-07-04 08:47:06 - High: 44900.04
+2019-07-04 08:47:06 - Avarege: 11577.68
+2019-07-04 08:47:07 - Retorno da Requisição da API BitcoinTrade: 200
+2019-07-04 08:47:07 - Limpeza efetuada dos registros obtidos antes de: 2019-07-03 08:47:07
+2019-07-04 08:47:07 - Bitcoin agora na BtcTrade R$: 44900.04
+2019-07-04 08:47:07 - Variação do ultimo preço: 0.00%
+2019-07-04 08:47:07 - Salvando o ultimo preço obtido... 44900.04
+2019-07-04 08:47:11 - Variação obtida...
+2019-07-04 08:47:11 - Low: 11052.67
+2019-07-04 08:47:11 - High: 11782.01
+2019-07-04 08:47:11 - Avarege: 11356.32
+2019-07-04 08:47:11 - Retorno da Requisição: 200
+2019-07-04 08:47:11 - Limpeza efetuada dos registros obtidos antes de: 2019-07-03 08:47:11
+2019-07-04 08:47:11 - Bitcoin agora $: 11756.86
+2019-07-04 08:47:11 - Variação do ultimo preço: 0.00%
+2019-07-04 08:47:11 - Salvando o ultimo preço obtido... 11756.86
+2019-07-04 08:47:11 - Variação obtida...
+2019-07-04 08:47:11 - Low: 11052.67
+2019-07-04 08:47:11 - High: 44900.04
+2019-07-04 08:47:11 - Avarege: 11592.74
+2019-07-04 08:47:12 - Retorno da Requisição da API BitcoinTrade: 200
+2019-07-04 08:47:12 - Limpeza efetuada dos registros obtidos antes de: 2019-07-03 08:47:12
+2019-07-04 08:47:12 - Bitcoin agora na BtcTrade R$: 44900.04
+2019-07-04 08:47:12 - Variação do ultimo preço: 0.00%
+2019-07-04 08:47:12 - Salvando o ultimo preço obtido... 44900.04
+2019-07-04 08:47:16 - Variação obtida...
+2019-07-04 08:47:16 - Low: 11052.67
+2019-07-04 08:47:16 - High: 11782.01
+2019-07-04 08:47:16 - Avarege: 11356.50
+2019-07-04 08:47:16 - Retorno da Requisição: 200
+2019-07-04 08:47:16 - Limpeza efetuada dos registros obtidos antes de: 2019-07-03 08:47:16
+2019-07-04 08:47:16 - Bitcoin agora $: 11756.86
+2019-07-04 08:47:16 - Variação do ultimo preço: 0.00%
+2019-07-04 08:47:16 - Salvando o ultimo preço obtido... 11756.86
+2019-07-04 08:47:16 - Variação obtida...
+2019-07-04 08:47:16 - Low: 11052.67
+2019-07-04 08:47:16 - High: 44900.04
+2019-07-04 08:47:16 - Avarege: 11607.79
+2019-07-04 08:47:17 - Retorno da Requisição da API BitcoinTrade: 200
+2019-07-04 08:47:17 - Limpeza efetuada dos registros obtidos antes de: 2019-07-03 08:47:17
+2019-07-04 08:47:17 - Bitcoin agora na BtcTrade R$: 44900.04
+2019-07-04 08:47:17 - Variação do ultimo preço: 0.00%
+2019-07-04 08:47:17 - Salvando o ultimo preço obtido... 44900.04
+2019-07-04 08:47:21 - Variação obtida...
+2019-07-04 08:47:21 - Low: 11052.67
+2019-07-04 08:47:21 - High: 11782.01
+2019-07-04 08:47:21 - Avarege: 11356.68
+2019-07-04 08:47:21 - Retorno da Requisição: 200
+2019-07-04 08:47:21 - Limpeza efetuada dos registros obtidos antes de: 2019-07-03 08:47:21
+2019-07-04 08:47:21 - Bitcoin agora $: 11756.86
+2019-07-04 08:47:21 - Variação do ultimo preço: 0.00%
+2019-07-04 08:47:21 - Salvando o ultimo preço obtido... 11756.86
+2019-07-04 08:47:21 - Variação obtida...
+2019-07-04 08:47:21 - Low: 11052.67
+2019-07-04 08:47:21 - High: 44900.04
+2019-07-04 08:47:21 - Avarege: 11622.83
+2019-07-04 08:47:22 - Retorno da Requisição da API BitcoinTrade: 200
+2019-07-04 08:47:22 - Limpeza efetuada dos registros obtidos antes de: 2019-07-03 08:47:22
+2019-07-04 08:47:22 - Bitcoin agora na BtcTrade R$: 44900.04
+2019-07-04 08:47:22 - Variação do ultimo preço: 0.00%
+2019-07-04 08:47:22 - Salvando o ultimo preço obtido... 44900.04
+2019-07-04 08:52:26 - App Started...
+2019-07-04 08:52:31 - Internacional - Variação obtida...
+2019-07-04 08:52:31 - Internacional - High: 11782.01
+2019-07-04 08:52:31 - Internacional - Avarege: 11356.87
+2019-07-04 08:52:32 - Retorno da Requisição: 200
+2019-07-04 08:52:31 - Internacional - Low: 11052.67
+2019-07-04 08:52:32 - Internacional - Limpeza efetuada dos registros obtidos antes de: 2019-07-03 08:52:32
+2019-07-04 08:52:32 - Internacional - Bitcoin agora $: 11743.55
+2019-07-04 08:52:32 - Internacional - Variação do ultimo preço: -0.11%
+2019-07-04 08:52:32 - Internacional - Salvando o ultimo preço obtido... 11743.55
+2019-07-04 08:52:32 - BtcTrade - Variação obtida...
+2019-07-04 08:52:32 - BtcTrade - Low: 11052.67
+2019-07-04 08:52:32 - BtcTrade - High: 44900.04
+2019-07-04 08:52:32 - BtcTrade - Avarege: 11637.85
+2019-07-04 08:52:32 - Retorno da Requisição da API BitcoinTrade: 200
+2019-07-04 08:52:32 - BtcTrade - Limpeza efetuada dos registros obtidos antes de: 2019-07-03 08:52:32
+2019-07-04 08:52:32 - BtcTrade - Bitcoin agora R$: 44770.00
+2019-07-04 08:52:32 - BtcTrade - Variação do ultimo preço: -0.29%
+2019-07-04 08:52:32 - BtcTrade - Salvando o ultimo preço obtido... 44770.00
+2019-07-04 08:52:36 - Internacional - Variação obtida...
+2019-07-04 08:52:36 - Internacional - Low: 11052.67
+2019-07-04 08:52:36 - Internacional - High: 11782.01
+2019-07-04 08:52:36 - Internacional - Avarege: 11357.04
+2019-07-04 08:52:37 - Retorno da Requisição: 200
+2019-07-04 08:52:37 - Internacional - Limpeza efetuada dos registros obtidos antes de: 2019-07-03 08:52:37
+2019-07-04 08:52:37 - Internacional - Bitcoin agora $: 11743.55
+2019-07-04 08:52:37 - Internacional - Variação do ultimo preço: 0.00%
+2019-07-04 08:52:37 - Internacional - Salvando o ultimo preço obtido... 11743.55
+2019-07-04 08:52:37 - BtcTrade - Variação obtida...
+2019-07-04 08:52:37 - BtcTrade - Low: 11052.67
+2019-07-04 08:52:37 - BtcTrade - High: 44900.04
+2019-07-04 08:52:37 - BtcTrade - Avarege: 11652.80
+2019-07-04 08:52:37 - Retorno da Requisição da API BitcoinTrade: 200
+2019-07-04 08:52:37 - BtcTrade - Limpeza efetuada dos registros obtidos antes de: 2019-07-03 08:52:37
+2019-07-04 08:52:37 - BtcTrade - Bitcoin agora R$: 44770.00
+2019-07-04 08:52:37 - BtcTrade - Variação do ultimo preço: 0.00%
+2019-07-04 08:52:37 - BtcTrade - Salvando o ultimo preço obtido... 44770.00
+2019-07-04 08:52:41 - Internacional - Variação obtida...
+2019-07-04 08:52:41 - Internacional - Low: 11052.67
+2019-07-04 08:52:41 - Internacional - High: 11782.01
+2019-07-04 08:52:41 - Internacional - Avarege: 11357.22
+2019-07-04 08:52:42 - Retorno da Requisição: 200
+2019-07-04 08:52:42 - Internacional - Limpeza efetuada dos registros obtidos antes de: 2019-07-03 08:52:42
+2019-07-04 08:52:42 - Internacional - Bitcoin agora $: 11743.55
+2019-07-04 08:52:42 - Internacional - Variação do ultimo preço: 0.00%
+2019-07-04 08:52:42 - Internacional - Salvando o ultimo preço obtido... 11743.55
+2019-07-04 08:52:42 - BtcTrade - Variação obtida...
+2019-07-04 08:52:42 - BtcTrade - Low: 11052.67
+2019-07-04 08:52:42 - BtcTrade - High: 44900.04
+2019-07-04 08:52:42 - BtcTrade - Avarege: 11667.74
+2019-07-04 08:52:42 - Retorno da Requisição da API BitcoinTrade: 200
+2019-07-04 08:52:42 - BtcTrade - Limpeza efetuada dos registros obtidos antes de: 2019-07-03 08:52:42
+2019-07-04 08:52:42 - BtcTrade - Salvando o ultimo preço obtido... 44770.00
+2019-07-04 08:52:42 - BtcTrade - Bitcoin agora R$: 44770.00
+2019-07-04 08:52:42 - BtcTrade - Variação do ultimo preço: 0.00%
+2019-07-04 08:52:46 - Internacional - Variação obtida...
+2019-07-04 08:52:46 - Internacional - Low: 11052.67
+2019-07-04 08:52:46 - Internacional - High: 11782.01
+2019-07-04 08:52:46 - Internacional - Avarege: 11357.39
+2019-07-04 08:52:47 - Retorno da Requisição: 200
+2019-07-04 08:52:47 - Internacional - Limpeza efetuada dos registros obtidos antes de: 2019-07-03 08:52:47
+2019-07-04 08:52:47 - Internacional - Bitcoin agora $: 11750.09
+2019-07-04 08:52:47 - Internacional - Variação do ultimo preço: 0.06%
+2019-07-04 08:52:47 - Internacional - Salvando o ultimo preço obtido... 11750.09
+2019-07-04 08:52:47 - BtcTrade - Variação obtida...
+2019-07-04 08:52:47 - BtcTrade - Low: 11052.67
+2019-07-04 08:52:47 - BtcTrade - High: 44900.04
+2019-07-04 08:52:47 - BtcTrade - Avarege: 11682.67
+2019-07-04 08:52:48 - Retorno da Requisição da API BitcoinTrade: 200
+2019-07-04 08:52:48 - BtcTrade - Limpeza efetuada dos registros obtidos antes de: 2019-07-03 08:52:48
+2019-07-04 08:52:48 - BtcTrade - Bitcoin agora R$: 44770.00
+2019-07-04 08:52:48 - BtcTrade - Variação do ultimo preço: 0.00%
+2019-07-04 08:52:48 - BtcTrade - Salvando o ultimo preço obtido... 44770.00
+2019-07-04 08:52:51 - Internacional - Variação obtida...
+2019-07-04 08:52:51 - Internacional - Low: 11052.67
+2019-07-04 08:52:51 - Internacional - High: 11782.01
+2019-07-04 08:52:51 - Internacional - Avarege: 11357.57
+2019-07-04 08:52:52 - Retorno da Requisição: 200
+2019-07-04 08:52:52 - Internacional - Limpeza efetuada dos registros obtidos antes de: 2019-07-03 08:52:52
+2019-07-04 08:52:52 - Internacional - Bitcoin agora $: 11743.55
+2019-07-04 08:52:52 - Internacional - Variação do ultimo preço: -0.06%
+2019-07-04 08:52:52 - Internacional - Salvando o ultimo preço obtido... 11743.55
+2019-07-04 08:52:52 - BtcTrade - Variação obtida...
+2019-07-04 08:52:52 - BtcTrade - Low: 11052.67
+2019-07-04 08:52:52 - BtcTrade - High: 44900.04
+2019-07-04 08:52:52 - BtcTrade - Avarege: 11697.58
+2019-07-04 08:52:52 - Retorno da Requisição da API BitcoinTrade: 200
+2019-07-04 08:52:52 - BtcTrade - Limpeza efetuada dos registros obtidos antes de: 2019-07-03 08:52:52
+2019-07-04 08:52:52 - BtcTrade - Bitcoin agora R$: 44770.00
+2019-07-04 08:52:52 - BtcTrade - Variação do ultimo preço: 0.00%
+2019-07-04 08:52:52 - BtcTrade - Salvando o ultimo preço obtido... 44770.00
+2019-07-04 08:52:56 - Internacional - Variação obtida...
+2019-07-04 08:52:56 - Internacional - Low: 11052.67
+2019-07-04 08:52:56 - Internacional - High: 11782.01
+2019-07-04 08:52:56 - Internacional - Avarege: 11357.75
+2019-07-04 08:52:57 - Retorno da Requisição: 200
+2019-07-04 08:52:57 - Internacional - Limpeza efetuada dos registros obtidos antes de: 2019-07-03 08:52:57
+2019-07-04 08:52:57 - Internacional - Bitcoin agora $: 11750.09
+2019-07-04 08:52:57 - Internacional - Variação do ultimo preço: 0.06%
+2019-07-04 08:52:57 - Internacional - Salvando o ultimo preço obtido... 11750.09
+2019-07-04 08:52:57 - BtcTrade - Variação obtida...
+2019-07-04 08:52:57 - BtcTrade - Low: 11052.67
+2019-07-04 08:52:57 - BtcTrade - High: 44900.04
+2019-07-04 08:52:57 - BtcTrade - Avarege: 11712.48
+2019-07-04 08:52:58 - Retorno da Requisição da API BitcoinTrade: 200
+2019-07-04 08:52:58 - BtcTrade - Limpeza efetuada dos registros obtidos antes de: 2019-07-03 08:52:58
+2019-07-04 08:52:58 - BtcTrade - Bitcoin agora R$: 44770.00
+2019-07-04 08:52:58 - BtcTrade - Variação do ultimo preço: 0.00%
+2019-07-04 08:52:58 - BtcTrade - Salvando o ultimo preço obtido... 44770.00
+2019-07-04 08:53:01 - Internacional - Variação obtida...
+2019-07-04 08:53:01 - Internacional - Low: 11052.67
+2019-07-04 08:53:01 - Internacional - High: 11782.01
+2019-07-04 08:53:01 - Internacional - Avarege: 11357.92
+2019-07-04 08:53:02 - Retorno da Requisição: 200
+2019-07-04 08:53:02 - Internacional - Limpeza efetuada dos registros obtidos antes de: 2019-07-03 08:53:02
+2019-07-04 08:53:02 - Internacional - Bitcoin agora $: 11744.06
+2019-07-04 08:53:02 - Internacional - Variação do ultimo preço: -0.05%
+2019-07-04 08:53:02 - Internacional - Salvando o ultimo preço obtido... 11744.06
+2019-07-04 08:53:02 - BtcTrade - Variação obtida...
+2019-07-04 08:53:02 - BtcTrade - Low: 11052.67
+2019-07-04 08:53:02 - BtcTrade - High: 44900.04
+2019-07-04 08:53:02 - BtcTrade - Avarege: 11727.36
+2019-07-04 08:53:02 - Retorno da Requisição da API BitcoinTrade: 200
+2019-07-04 08:53:02 - BtcTrade - Limpeza efetuada dos registros obtidos antes de: 2019-07-03 08:53:02
+2019-07-04 08:53:02 - BtcTrade - Bitcoin agora R$: 44959.00
+2019-07-04 08:53:02 - BtcTrade - Variação do ultimo preço: 0.42%
+2019-07-04 08:53:02 - BtcTrade - Salvando o ultimo preço obtido... 44959.00
+2019-07-04 08:53:06 - Internacional - Variação obtida...
+2019-07-04 08:53:06 - Internacional - Low: 11052.67
+2019-07-04 08:53:06 - Internacional - High: 11782.01
+2019-07-04 08:53:06 - Internacional - Avarege: 11358.10
+2019-07-04 08:53:07 - Retorno da Requisição: 200
+2019-07-04 08:53:07 - Internacional - Limpeza efetuada dos registros obtidos antes de: 2019-07-03 08:53:07
+2019-07-04 08:53:07 - Internacional - Bitcoin agora $: 11744.06
+2019-07-04 08:53:07 - Internacional - Variação do ultimo preço: 0.00%
+2019-07-04 08:53:07 - Internacional - Salvando o ultimo preço obtido... 11744.06
+2019-07-04 08:53:07 - BtcTrade - Variação obtida...
+2019-07-04 08:53:07 - BtcTrade - Low: 11052.67
+2019-07-04 08:53:07 - BtcTrade - High: 44959.00
+2019-07-04 08:53:07 - BtcTrade - Avarege: 11742.32
+2019-07-04 08:53:08 - Retorno da Requisição da API BitcoinTrade: 200
+2019-07-04 08:53:08 - BtcTrade - Limpeza efetuada dos registros obtidos antes de: 2019-07-03 08:53:08
+2019-07-04 08:53:08 - BtcTrade - Bitcoin agora R$: 44959.00
+2019-07-04 08:53:08 - BtcTrade - Variação do ultimo preço: 0.00%
+2019-07-04 08:53:08 - BtcTrade - Salvando o ultimo preço obtido... 44959.00
+2019-07-04 08:53:11 - Internacional - Variação obtida...
+2019-07-04 08:53:11 - Internacional - Low: 11052.67
+2019-07-04 08:53:11 - Internacional - High: 11782.01
+2019-07-04 08:53:11 - Internacional - Avarege: 11358.28
+2019-07-04 08:53:12 - Retorno da Requisição: 200
+2019-07-04 08:53:12 - Internacional - Limpeza efetuada dos registros obtidos antes de: 2019-07-03 08:53:12
+2019-07-04 08:53:12 - Internacional - Bitcoin agora $: 11744.06
+2019-07-04 08:53:12 - Internacional - Variação do ultimo preço: 0.00%
+2019-07-04 08:53:12 - Internacional - Salvando o ultimo preço obtido... 11744.06
+2019-07-04 08:53:12 - BtcTrade - Variação obtida...
+2019-07-04 08:53:12 - BtcTrade - Low: 11052.67
+2019-07-04 08:53:12 - BtcTrade - High: 44959.00
+2019-07-04 08:53:12 - BtcTrade - Avarege: 11757.26
+2019-07-04 08:53:12 - Retorno da Requisição da API BitcoinTrade: 200
+2019-07-04 08:53:12 - BtcTrade - Limpeza efetuada dos registros obtidos antes de: 2019-07-03 08:53:12
+2019-07-04 08:53:12 - BtcTrade - Bitcoin agora R$: 44959.00
+2019-07-04 08:53:12 - BtcTrade - Variação do ultimo preço: 0.00%
+2019-07-04 08:53:12 - BtcTrade - Salvando o ultimo preço obtido... 44959.00
+2019-07-04 08:53:16 - Internacional - Variação obtida...
+2019-07-04 08:53:16 - Internacional - Low: 11052.67
+2019-07-04 08:53:16 - Internacional - High: 11782.01
+2019-07-04 08:53:16 - Internacional - Avarege: 11358.45
+2019-07-04 08:53:17 - Retorno da Requisição: 200
+2019-07-04 08:53:17 - Internacional - Limpeza efetuada dos registros obtidos antes de: 2019-07-03 08:53:17
+2019-07-04 08:53:17 - Internacional - Bitcoin agora $: 11744.06
+2019-07-04 08:53:17 - Internacional - Variação do ultimo preço: 0.00%
+2019-07-04 08:53:17 - Internacional - Salvando o ultimo preço obtido... 11744.06
+2019-07-04 08:53:17 - BtcTrade - Variação obtida...
+2019-07-04 08:53:17 - BtcTrade - Avarege: 11772.19
+2019-07-04 08:53:17 - BtcTrade - Low: 11052.67
+2019-07-04 08:53:17 - Retorno da Requisição da API BitcoinTrade: 200
+2019-07-04 08:53:17 - BtcTrade - High: 44959.00
+2019-07-04 08:53:17 - BtcTrade - Limpeza efetuada dos registros obtidos antes de: 2019-07-03 08:53:17
+2019-07-04 08:53:17 - BtcTrade - Salvando o ultimo preço obtido... 44959.00
+2019-07-04 08:53:17 - BtcTrade - Bitcoin agora R$: 44959.00
+2019-07-04 08:53:17 - BtcTrade - Variação do ultimo preço: 0.00%
+2019-07-04 08:53:21 - Internacional - Variação obtida...
+2019-07-04 08:53:21 - Internacional - Low: 11052.67
+2019-07-04 08:53:21 - Internacional - High: 11782.01
+2019-07-04 08:53:21 - Internacional - Avarege: 11358.62
+2019-07-04 08:53:22 - Retorno da Requisição: 200
+2019-07-04 08:53:22 - Internacional - Limpeza efetuada dos registros obtidos antes de: 2019-07-03 08:53:22
+2019-07-04 08:53:22 - Internacional - Bitcoin agora $: 11744.06
+2019-07-04 08:53:22 - Internacional - Variação do ultimo preço: 0.00%
+2019-07-04 08:53:22 - Internacional - Salvando o ultimo preço obtido... 11744.06
+2019-07-04 08:53:22 - BtcTrade - Variação obtida...
+2019-07-04 08:53:22 - BtcTrade - Low: 11052.67
+2019-07-04 08:53:22 - BtcTrade - High: 44959.00
+2019-07-04 08:53:22 - BtcTrade - Avarege: 11787.10
+2019-07-04 08:53:22 - Retorno da Requisição da API BitcoinTrade: 200
+2019-07-04 08:53:22 - BtcTrade - Limpeza efetuada dos registros obtidos antes de: 2019-07-03 08:53:22
+2019-07-04 08:53:22 - BtcTrade - Bitcoin agora R$: 44959.00
+2019-07-04 08:53:22 - BtcTrade - Variação do ultimo preço: 0.00%
+2019-07-04 08:53:22 - BtcTrade - Salvando o ultimo preço obtido... 44959.00
+2019-07-04 08:53:26 - Internacional - Variação obtida...
+2019-07-04 08:53:26 - Internacional - High: 11782.01
+2019-07-04 08:53:26 - Internacional - Avarege: 11358.80
+2019-07-04 08:53:27 - Retorno da Requisição: 200
+2019-07-04 08:53:26 - Internacional - Low: 11052.67
+2019-07-04 08:53:27 - Internacional - Limpeza efetuada dos registros obtidos antes de: 2019-07-03 08:53:27
+2019-07-04 08:53:27 - Internacional - Bitcoin agora $: 11744.06
+2019-07-04 08:53:27 - Internacional - Variação do ultimo preço: 0.00%
+2019-07-04 08:53:27 - Internacional - Salvando o ultimo preço obtido... 11744.06
+2019-07-04 08:53:27 - BtcTrade - Variação obtida...
+2019-07-04 08:53:27 - BtcTrade - Low: 11052.67
+2019-07-04 08:53:27 - BtcTrade - High: 44959.00
+2019-07-04 08:53:27 - BtcTrade - Avarege: 11802.00
+2019-07-04 08:53:27 - Retorno da Requisição da API BitcoinTrade: 200
+2019-07-04 08:53:27 - BtcTrade - Limpeza efetuada dos registros obtidos antes de: 2019-07-03 08:53:27
+2019-07-04 08:53:27 - BtcTrade - Bitcoin agora R$: 44959.00
+2019-07-04 08:53:27 - BtcTrade - Variação do ultimo preço: 0.00%
+2019-07-04 08:53:27 - BtcTrade - Salvando o ultimo preço obtido... 44959.00
+2019-07-04 08:53:31 - Internacional - Variação obtida...
+2019-07-04 08:53:31 - Internacional - Low: 11052.67
+2019-07-04 08:53:31 - Internacional - High: 11782.01
+2019-07-04 08:53:31 - Internacional - Avarege: 11358.97
+2019-07-04 08:53:32 - Retorno da Requisição: 200
+2019-07-04 08:53:32 - Internacional - Limpeza efetuada dos registros obtidos antes de: 2019-07-03 08:53:32
+2019-07-04 08:53:32 - Internacional - Bitcoin agora $: 11744.06
+2019-07-04 08:53:32 - Internacional - Variação do ultimo preço: 0.00%
+2019-07-04 08:53:32 - Internacional - Salvando o ultimo preço obtido... 11744.06
+2019-07-04 08:53:32 - BtcTrade - Variação obtida...
+2019-07-04 08:53:32 - BtcTrade - Low: 11052.67
+2019-07-04 08:53:32 - BtcTrade - High: 44959.00
+2019-07-04 08:53:32 - BtcTrade - Avarege: 11816.89
+2019-07-04 08:53:32 - Retorno da Requisição da API BitcoinTrade: 200
+2019-07-04 08:53:32 - BtcTrade - Limpeza efetuada dos registros obtidos antes de: 2019-07-03 08:53:32
+2019-07-04 08:53:32 - BtcTrade - Bitcoin agora R$: 44800.03
+2019-07-04 08:53:32 - BtcTrade - Variação do ultimo preço: -0.35%
+2019-07-04 08:53:32 - BtcTrade - Salvando o ultimo preço obtido... 44800.03
+2019-07-04 08:53:36 - Internacional - Variação obtida...
+2019-07-04 08:53:36 - Internacional - Low: 11052.67
+2019-07-04 08:53:36 - Internacional - High: 11782.01
+2019-07-04 08:53:36 - Internacional - Avarege: 11359.15
+2019-07-04 08:53:37 - Retorno da Requisição: 200
+2019-07-04 08:53:37 - Internacional - Limpeza efetuada dos registros obtidos antes de: 2019-07-03 08:53:37
+2019-07-04 08:53:37 - Internacional - Bitcoin agora $: 11744.06
+2019-07-04 08:53:37 - Internacional - Variação do ultimo preço: 0.00%
+2019-07-04 08:53:37 - Internacional - Salvando o ultimo preço obtido... 11744.06
+2019-07-04 08:53:37 - BtcTrade - Variação obtida...
+2019-07-04 08:53:37 - BtcTrade - Low: 11052.67
+2019-07-04 08:53:37 - BtcTrade - High: 44959.00
+2019-07-04 08:53:37 - BtcTrade - Avarege: 11831.70
+2019-07-04 08:53:37 - Retorno da Requisição da API BitcoinTrade: 200
+2019-07-04 08:53:37 - BtcTrade - Limpeza efetuada dos registros obtidos antes de: 2019-07-03 08:53:37
+2019-07-04 08:53:37 - BtcTrade - Bitcoin agora R$: 44800.03
+2019-07-04 08:53:37 - BtcTrade - Variação do ultimo preço: 0.00%
+2019-07-04 08:53:37 - BtcTrade - Salvando o ultimo preço obtido... 44800.03
+2019-07-04 08:53:41 - Internacional - Variação obtida...
+2019-07-04 08:53:41 - Internacional - Low: 11052.67
+2019-07-04 08:53:41 - Internacional - High: 11782.01
+2019-07-04 08:53:41 - Internacional - Avarege: 11359.32
+2019-07-04 08:53:42 - Retorno da Requisição: 200
+2019-07-04 08:53:42 - Internacional - Limpeza efetuada dos registros obtidos antes de: 2019-07-03 08:53:42
+2019-07-04 08:53:42 - Internacional - Bitcoin agora $: 11744.06
+2019-07-04 08:53:42 - Internacional - Variação do ultimo preço: 0.00%
+2019-07-04 08:53:42 - Internacional - Salvando o ultimo preço obtido... 11744.06
+2019-07-04 08:53:42 - BtcTrade - Variação obtida...
+2019-07-04 08:53:42 - BtcTrade - Low: 11052.67
+2019-07-04 08:53:42 - BtcTrade - High: 44959.00
+2019-07-04 08:53:42 - BtcTrade - Avarege: 11846.49
+2019-07-04 08:53:42 - Retorno da Requisição da API BitcoinTrade: 200
+2019-07-04 08:53:42 - BtcTrade - Limpeza efetuada dos registros obtidos antes de: 2019-07-03 08:53:42
+2019-07-04 08:53:42 - BtcTrade - Bitcoin agora R$: 44800.03
+2019-07-04 08:53:42 - BtcTrade - Variação do ultimo preço: 0.00%
+2019-07-04 08:53:42 - BtcTrade - Salvando o ultimo preço obtido... 44800.03
+2019-07-04 08:53:46 - Internacional - Variação obtida...
+2019-07-04 08:53:46 - Internacional - Low: 11052.67
+2019-07-04 08:53:46 - Internacional - High: 11782.01
+2019-07-04 08:53:46 - Internacional - Avarege: 11359.50
+2019-07-04 08:53:47 - Retorno da Requisição: 200
+2019-07-04 08:53:47 - Internacional - Limpeza efetuada dos registros obtidos antes de: 2019-07-03 08:53:47
+2019-07-04 08:53:47 - Internacional - Bitcoin agora $: 11750.27
+2019-07-04 08:53:47 - Internacional - Variação do ultimo preço: 0.05%
+2019-07-04 08:53:47 - Internacional - Salvando o ultimo preço obtido... 11750.27
+2019-07-04 08:53:47 - BtcTrade - Variação obtida...
+2019-07-04 08:53:47 - BtcTrade - Low: 11052.67
+2019-07-04 08:53:47 - BtcTrade - High: 44959.00
+2019-07-04 08:53:47 - BtcTrade - Avarege: 11861.26
+2019-07-04 08:53:47 - Retorno da Requisição da API BitcoinTrade: 200
+2019-07-04 08:53:47 - BtcTrade - Limpeza efetuada dos registros obtidos antes de: 2019-07-03 08:53:47
+2019-07-04 08:53:47 - BtcTrade - Bitcoin agora R$: 44800.03
+2019-07-04 08:53:47 - BtcTrade - Variação do ultimo preço: 0.00%
+2019-07-04 08:53:47 - BtcTrade - Salvando o ultimo preço obtido... 44800.03
+2019-07-04 08:53:51 - Internacional - Variação obtida...
+2019-07-04 08:53:51 - Internacional - Low: 11052.67
+2019-07-04 08:53:51 - Internacional - High: 11782.01
+2019-07-04 08:53:51 - Internacional - Avarege: 11359.67
+2019-07-04 08:53:52 - Retorno da Requisição: 200
+2019-07-04 08:53:52 - Internacional - Limpeza efetuada dos registros obtidos antes de: 2019-07-03 08:53:52
+2019-07-04 08:53:52 - Internacional - Bitcoin agora $: 11744.06
+2019-07-04 08:53:52 - Internacional - Variação do ultimo preço: -0.05%
+2019-07-04 08:53:52 - Internacional - Salvando o ultimo preço obtido... 11744.06
+2019-07-04 08:53:52 - BtcTrade - Variação obtida...
+2019-07-04 08:53:52 - BtcTrade - Low: 11052.67
+2019-07-04 08:53:52 - BtcTrade - High: 44959.00
+2019-07-04 08:53:52 - BtcTrade - Avarege: 11876.03
+2019-07-04 08:53:52 - Retorno da Requisição da API BitcoinTrade: 200
+2019-07-04 08:53:52 - BtcTrade - Limpeza efetuada dos registros obtidos antes de: 2019-07-03 08:53:52
+2019-07-04 08:53:52 - BtcTrade - Bitcoin agora R$: 44800.03
+2019-07-04 08:53:52 - BtcTrade - Salvando o ultimo preço obtido... 44800.03
+2019-07-04 08:53:52 - BtcTrade - Variação do ultimo preço: 0.00%
+2019-07-04 08:53:56 - Internacional - Variação obtida...
+2019-07-04 08:53:56 - Internacional - Low: 11052.67
+2019-07-04 08:53:56 - Internacional - High: 11782.01
+2019-07-04 08:53:56 - Internacional - Avarege: 11359.85
+2019-07-04 08:53:57 - Retorno da Requisição: 200
+2019-07-04 08:53:57 - Internacional - Limpeza efetuada dos registros obtidos antes de: 2019-07-03 08:53:57
+2019-07-04 08:53:57 - Internacional - Bitcoin agora $: 11744.06
+2019-07-04 08:53:57 - Internacional - Variação do ultimo preço: 0.00%
+2019-07-04 08:53:57 - Internacional - Salvando o ultimo preço obtido... 11744.06
+2019-07-04 08:53:57 - BtcTrade - Variação obtida...
+2019-07-04 08:53:57 - BtcTrade - Low: 11052.67
+2019-07-04 08:53:57 - BtcTrade - High: 44959.00
+2019-07-04 08:53:57 - BtcTrade - Avarege: 11890.78
+2019-07-04 08:53:58 - Retorno da Requisição da API BitcoinTrade: 200
+2019-07-04 08:53:58 - BtcTrade - Limpeza efetuada dos registros obtidos antes de: 2019-07-03 08:53:58
+2019-07-04 08:53:58 - BtcTrade - Bitcoin agora R$: 44800.03
+2019-07-04 08:53:58 - BtcTrade - Variação do ultimo preço: 0.00%
+2019-07-04 08:53:58 - BtcTrade - Salvando o ultimo preço obtido... 44800.03
+2019-07-04 08:54:01 - Internacional - Variação obtida...
+2019-07-04 08:54:01 - Internacional - Low: 11052.67
+2019-07-04 08:54:01 - Internacional - High: 11782.01
+2019-07-04 08:54:01 - Internacional - Avarege: 11360.02
+2019-07-04 08:54:02 - Retorno da Requisição: 200
+2019-07-04 08:54:02 - Internacional - Limpeza efetuada dos registros obtidos antes de: 2019-07-03 08:54:02
+2019-07-04 08:54:02 - Internacional - Bitcoin agora $: 11756.31
+2019-07-04 08:54:02 - Internacional - Variação do ultimo preço: 0.10%
+2019-07-04 08:54:02 - Internacional - Salvando o ultimo preço obtido... 11756.31
+2019-07-04 08:54:02 - BtcTrade - Variação obtida...
+2019-07-04 08:54:02 - BtcTrade - Low: 11052.67
+2019-07-04 08:54:02 - BtcTrade - High: 44959.00
+2019-07-04 08:54:02 - BtcTrade - Avarege: 11905.52
+2019-07-04 08:54:03 - Retorno da Requisição da API BitcoinTrade: 200
+2019-07-04 08:54:03 - BtcTrade - Limpeza efetuada dos registros obtidos antes de: 2019-07-03 08:54:03
+2019-07-04 08:54:03 - BtcTrade - Bitcoin agora R$: 44800.03
+2019-07-04 08:54:03 - BtcTrade - Variação do ultimo preço: 0.00%
+2019-07-04 08:54:03 - BtcTrade - Salvando o ultimo preço obtido... 44800.03
+2019-07-04 08:54:06 - Internacional - Variação obtida...
+2019-07-04 08:54:06 - Internacional - High: 11782.01
+2019-07-04 08:54:06 - Internacional - Avarege: 11360.20
+2019-07-04 08:54:07 - Retorno da Requisição: 200
+2019-07-04 08:54:06 - Internacional - Low: 11052.67
+2019-07-04 08:54:07 - Internacional - Limpeza efetuada dos registros obtidos antes de: 2019-07-03 08:54:07
+2019-07-04 08:54:07 - Internacional - Bitcoin agora $: 11756.31
+2019-07-04 08:54:07 - Internacional - Variação do ultimo preço: 0.00%
+2019-07-04 08:54:07 - Internacional - Salvando o ultimo preço obtido... 11756.31
+2019-07-04 08:54:07 - BtcTrade - Variação obtida...
+2019-07-04 08:54:07 - BtcTrade - Low: 11052.67
+2019-07-04 08:54:07 - BtcTrade - High: 44959.00
+2019-07-04 08:54:07 - BtcTrade - Avarege: 11920.24
+2019-07-04 08:54:07 - Retorno da Requisição da API BitcoinTrade: 200
+2019-07-04 08:54:07 - BtcTrade - Limpeza efetuada dos registros obtidos antes de: 2019-07-03 08:54:07
+2019-07-04 08:54:07 - BtcTrade - Bitcoin agora R$: 44770.00
+2019-07-04 08:54:07 - BtcTrade - Variação do ultimo preço: -0.07%
+2019-07-04 08:54:07 - BtcTrade - Salvando o ultimo preço obtido... 44770.00
+2019-07-04 08:54:11 - Internacional - Variação obtida...
+2019-07-04 08:54:11 - Internacional - Low: 11052.67
+2019-07-04 08:54:11 - Internacional - High: 11782.01
+2019-07-04 08:54:11 - Internacional - Avarege: 11360.38
+2019-07-04 08:54:12 - Retorno da Requisição: 200
+2019-07-04 08:54:12 - Internacional - Limpeza efetuada dos registros obtidos antes de: 2019-07-03 08:54:12
+2019-07-04 08:54:12 - Internacional - Bitcoin agora $: 11750.27
+2019-07-04 08:54:12 - Internacional - Variação do ultimo preço: -0.05%
+2019-07-04 08:54:12 - Internacional - Salvando o ultimo preço obtido... 11750.27
+2019-07-04 08:54:12 - BtcTrade - Variação obtida...
+2019-07-04 08:54:12 - BtcTrade - Low: 11052.67
+2019-07-04 08:54:12 - BtcTrade - High: 44959.00
+2019-07-04 08:54:12 - BtcTrade - Avarege: 11934.94
+2019-07-04 08:54:13 - Retorno da Requisição da API BitcoinTrade: 200
+2019-07-04 08:54:13 - BtcTrade - Limpeza efetuada dos registros obtidos antes de: 2019-07-03 08:54:13
+2019-07-04 08:54:13 - BtcTrade - Bitcoin agora R$: 44770.00
+2019-07-04 08:54:13 - BtcTrade - Variação do ultimo preço: 0.00%
+2019-07-04 08:54:13 - BtcTrade - Salvando o ultimo preço obtido... 44770.00
+2019-07-04 08:54:16 - Internacional - Variação obtida...
+2019-07-04 08:54:16 - Internacional - Low: 11052.67
+2019-07-04 08:54:16 - Internacional - High: 11782.01
+2019-07-04 08:54:16 - Internacional - Avarege: 11360.55
+2019-07-04 08:54:17 - Retorno da Requisição: 200
+2019-07-04 08:54:17 - Internacional - Limpeza efetuada dos registros obtidos antes de: 2019-07-03 08:54:17
+2019-07-04 08:54:17 - Internacional - Bitcoin agora $: 11756.31
+2019-07-04 08:54:17 - Internacional - Variação do ultimo preço: 0.05%
+2019-07-04 08:54:17 - Internacional - Salvando o ultimo preço obtido... 11756.31
+2019-07-04 08:54:17 - BtcTrade - Variação obtida...
+2019-07-04 08:54:17 - BtcTrade - High: 44959.00
+2019-07-04 08:54:17 - BtcTrade - Low: 11052.67
+2019-07-04 08:54:17 - BtcTrade - Avarege: 11949.62
+2019-07-04 08:54:17 - Retorno da Requisição da API BitcoinTrade: 200
+2019-07-04 08:54:17 - BtcTrade - Limpeza efetuada dos registros obtidos antes de: 2019-07-03 08:54:17
+2019-07-04 08:54:17 - BtcTrade - Bitcoin agora R$: 44770.00
+2019-07-04 08:54:17 - BtcTrade - Variação do ultimo preço: 0.00%
+2019-07-04 08:54:17 - BtcTrade - Salvando o ultimo preço obtido... 44770.00
+2019-07-04 08:54:21 - Internacional - Variação obtida...
+2019-07-04 08:54:21 - Internacional - Low: 11052.67
+2019-07-04 08:54:21 - Internacional - High: 11782.01
+2019-07-04 08:54:21 - Internacional - Avarege: 11360.73
+2019-07-04 08:54:22 - Retorno da Requisição: 200
+2019-07-04 08:54:22 - Internacional - Limpeza efetuada dos registros obtidos antes de: 2019-07-03 08:54:22
+2019-07-04 08:54:22 - Internacional - Bitcoin agora $: 11756.31
+2019-07-04 08:54:22 - Internacional - Variação do ultimo preço: 0.00%
+2019-07-04 08:54:22 - Internacional - Salvando o ultimo preço obtido... 11756.31
+2019-07-04 08:54:22 - BtcTrade - Variação obtida...
+2019-07-04 08:54:22 - BtcTrade - Low: 11052.67
+2019-07-04 08:54:22 - BtcTrade - High: 44959.00
+2019-07-04 08:54:22 - BtcTrade - Avarege: 11964.30
+2019-07-04 08:54:22 - Retorno da Requisição da API BitcoinTrade: 200
+2019-07-04 08:54:22 - BtcTrade - Limpeza efetuada dos registros obtidos antes de: 2019-07-03 08:54:22
+2019-07-04 08:54:22 - BtcTrade - Bitcoin agora R$: 44770.00
+2019-07-04 08:54:22 - BtcTrade - Variação do ultimo preço: 0.00%
+2019-07-04 08:54:22 - BtcTrade - Salvando o ultimo preço obtido... 44770.00
+2019-07-04 08:54:26 - Internacional - Variação obtida...
+2019-07-04 08:54:26 - Internacional - Low: 11052.67
+2019-07-04 08:54:26 - Internacional - High: 11782.01
+2019-07-04 08:54:26 - Internacional - Avarege: 11360.91
+2019-07-04 08:54:27 - Retorno da Requisição: 200
+2019-07-04 08:54:27 - Internacional - Limpeza efetuada dos registros obtidos antes de: 2019-07-03 08:54:27
+2019-07-04 08:54:27 - Internacional - Bitcoin agora $: 11756.31
+2019-07-04 08:54:27 - Internacional - Variação do ultimo preço: 0.00%
+2019-07-04 08:54:27 - Internacional - Salvando o ultimo preço obtido... 11756.31
+2019-07-04 08:54:27 - BtcTrade - Variação obtida...
+2019-07-04 08:54:27 - BtcTrade - Low: 11052.67
+2019-07-04 08:54:27 - BtcTrade - High: 44959.00
+2019-07-04 08:54:27 - BtcTrade - Avarege: 11978.95
+2019-07-04 08:54:27 - Retorno da Requisição da API BitcoinTrade: 200
+2019-07-04 08:54:27 - BtcTrade - Limpeza efetuada dos registros obtidos antes de: 2019-07-03 08:54:27
+2019-07-04 08:54:27 - BtcTrade - Bitcoin agora R$: 44770.00
+2019-07-04 08:54:27 - BtcTrade - Variação do ultimo preço: 0.00%
+2019-07-04 08:54:27 - BtcTrade - Salvando o ultimo preço obtido... 44770.00
+2019-07-04 08:54:31 - Internacional - Variação obtida...
+2019-07-04 08:54:31 - Internacional - Low: 11052.67
+2019-07-04 08:54:31 - Internacional - High: 11782.01
+2019-07-04 08:54:31 - Internacional - Avarege: 11361.09
+2019-07-04 08:54:32 - Retorno da Requisição: 200
+2019-07-04 08:54:32 - Internacional - Limpeza efetuada dos registros obtidos antes de: 2019-07-03 08:54:32
+2019-07-04 08:54:32 - Internacional - Bitcoin agora $: 11756.31
+2019-07-04 08:54:32 - Internacional - Variação do ultimo preço: 0.00%
+2019-07-04 08:54:32 - Internacional - Salvando o ultimo preço obtido... 11756.31
+2019-07-04 08:54:32 - BtcTrade - Variação obtida...
+2019-07-04 08:54:32 - BtcTrade - Low: 11052.67
+2019-07-04 08:54:32 - BtcTrade - High: 44959.00
+2019-07-04 08:54:32 - BtcTrade - Avarege: 11993.60
+2019-07-04 08:54:33 - Retorno da Requisição da API BitcoinTrade: 200
+2019-07-04 08:54:33 - BtcTrade - Limpeza efetuada dos registros obtidos antes de: 2019-07-03 08:54:33
+2019-07-04 08:54:33 - BtcTrade - Bitcoin agora R$: 44770.00
+2019-07-04 08:54:33 - BtcTrade - Variação do ultimo preço: 0.00%
+2019-07-04 08:54:33 - BtcTrade - Salvando o ultimo preço obtido... 44770.00
+2019-07-04 08:54:36 - Internacional - Variação obtida...
+2019-07-04 08:54:36 - Internacional - Low: 11052.67
+2019-07-04 08:54:36 - Internacional - Avarege: 11361.27
+2019-07-04 08:54:36 - Internacional - High: 11782.01
+2019-07-04 08:54:37 - Retorno da Requisição: 200
+2019-07-04 08:54:37 - Internacional - Limpeza efetuada dos registros obtidos antes de: 2019-07-03 08:54:37
+2019-07-04 08:54:37 - Internacional - Bitcoin agora $: 11757.76
+2019-07-04 08:54:37 - Internacional - Variação do ultimo preço: 0.01%
+2019-07-04 08:54:37 - Internacional - Salvando o ultimo preço obtido... 11757.76
+2019-07-04 08:54:37 - BtcTrade - Variação obtida...
+2019-07-04 08:54:37 - BtcTrade - Low: 11052.67
+2019-07-04 08:54:37 - BtcTrade - High: 44959.00
+2019-07-04 08:54:37 - BtcTrade - Avarege: 12008.23
+2019-07-04 08:54:38 - Retorno da Requisição da API BitcoinTrade: 200
+2019-07-04 08:54:38 - BtcTrade - Limpeza efetuada dos registros obtidos antes de: 2019-07-03 08:54:38
+2019-07-04 08:54:38 - BtcTrade - Bitcoin agora R$: 44770.00
+2019-07-04 08:54:38 - BtcTrade - Variação do ultimo preço: 0.00%
+2019-07-04 08:54:38 - BtcTrade - Salvando o ultimo preço obtido... 44770.00
+2019-07-04 08:54:41 - Internacional - Variação obtida...
+2019-07-04 08:54:41 - Internacional - Low: 11052.67
+2019-07-04 08:54:41 - Internacional - High: 11782.01
+2019-07-04 08:54:41 - Internacional - Avarege: 11361.45
+2019-07-04 08:54:42 - Retorno da Requisição: 200
+2019-07-04 08:54:42 - Internacional - Limpeza efetuada dos registros obtidos antes de: 2019-07-03 08:54:42
+2019-07-04 08:54:42 - Internacional - Bitcoin agora $: 11757.76
+2019-07-04 08:54:42 - Internacional - Variação do ultimo preço: 0.00%
+2019-07-04 08:54:42 - Internacional - Salvando o ultimo preço obtido... 11757.76
+2019-07-04 08:54:42 - BtcTrade - Variação obtida...
+2019-07-04 08:54:42 - BtcTrade - Low: 11052.67
+2019-07-04 08:54:42 - BtcTrade - High: 44959.00
+2019-07-04 08:54:42 - BtcTrade - Avarege: 12022.85
+2019-07-04 08:54:43 - Retorno da Requisição da API BitcoinTrade: 200
+2019-07-04 08:54:43 - BtcTrade - Limpeza efetuada dos registros obtidos antes de: 2019-07-03 08:54:43
+2019-07-04 08:54:43 - BtcTrade - Bitcoin agora R$: 44770.00
+2019-07-04 08:54:43 - BtcTrade - Variação do ultimo preço: 0.00%
+2019-07-04 08:54:43 - BtcTrade - Salvando o ultimo preço obtido... 44770.00
+2019-07-04 08:54:46 - Internacional - Variação obtida...
+2019-07-04 08:54:46 - Internacional - Low: 11052.67
+2019-07-04 08:54:46 - Internacional - High: 11782.01
+2019-07-04 08:54:46 - Internacional - Avarege: 11361.62
+2019-07-04 08:54:47 - Retorno da Requisição: 200
+2019-07-04 08:54:47 - Internacional - Limpeza efetuada dos registros obtidos antes de: 2019-07-03 08:54:47
+2019-07-04 08:54:47 - Internacional - Bitcoin agora $: 11757.76
+2019-07-04 08:54:47 - Internacional - Variação do ultimo preço: 0.00%
+2019-07-04 08:54:47 - Internacional - Salvando o ultimo preço obtido... 11757.76
+2019-07-04 08:54:47 - BtcTrade - Variação obtida...
+2019-07-04 08:54:47 - BtcTrade - Low: 11052.67
+2019-07-04 08:54:47 - BtcTrade - High: 44959.00
+2019-07-04 08:54:47 - BtcTrade - Avarege: 12037.46
+2019-07-04 08:54:47 - Retorno da Requisição da API BitcoinTrade: 200
+2019-07-04 08:54:47 - BtcTrade - Limpeza efetuada dos registros obtidos antes de: 2019-07-03 08:54:47
+2019-07-04 08:54:47 - BtcTrade - Bitcoin agora R$: 44770.00
+2019-07-04 08:54:47 - BtcTrade - Variação do ultimo preço: 0.00%
+2019-07-04 08:54:47 - BtcTrade - Salvando o ultimo preço obtido... 44770.00
+2019-07-04 08:54:51 - Internacional - Variação obtida...
+2019-07-04 08:54:51 - Internacional - Low: 11052.67
+2019-07-04 08:54:51 - Internacional - High: 11782.01
+2019-07-04 08:54:51 - Internacional - Avarege: 11361.80
+2019-07-04 08:54:52 - Retorno da Requisição: 200
+2019-07-04 08:54:52 - Internacional - Limpeza efetuada dos registros obtidos antes de: 2019-07-03 08:54:52
+2019-07-04 08:54:52 - Internacional - Bitcoin agora $: 11756.31
+2019-07-04 08:54:52 - Internacional - Variação do ultimo preço: -0.01%
+2019-07-04 08:54:52 - Internacional - Salvando o ultimo preço obtido... 11756.31
+2019-07-04 08:54:52 - BtcTrade - Variação obtida...
+2019-07-04 08:54:52 - BtcTrade - Low: 11052.67
+2019-07-04 08:54:52 - BtcTrade - High: 44959.00
+2019-07-04 08:54:52 - BtcTrade - Avarege: 12052.05
+2019-07-04 08:54:52 - Retorno da Requisição da API BitcoinTrade: 200
+2019-07-04 08:54:52 - BtcTrade - Limpeza efetuada dos registros obtidos antes de: 2019-07-03 08:54:52
+2019-07-04 08:54:52 - BtcTrade - Bitcoin agora R$: 44770.00
+2019-07-04 08:54:52 - BtcTrade - Variação do ultimo preço: 0.00%
+2019-07-04 08:54:52 - BtcTrade - Salvando o ultimo preço obtido... 44770.00
+2019-07-04 08:54:56 - Internacional - Variação obtida...
+2019-07-04 08:54:56 - Internacional - Low: 11052.67
+2019-07-04 08:54:56 - Internacional - High: 11782.01
+2019-07-04 08:54:56 - Internacional - Avarege: 11361.98
+2019-07-04 08:54:57 - Retorno da Requisição: 200
+2019-07-04 08:54:57 - Internacional - Limpeza efetuada dos registros obtidos antes de: 2019-07-03 08:54:57
+2019-07-04 08:54:57 - Internacional - Bitcoin agora $: 11756.31
+2019-07-04 08:54:57 - Internacional - Variação do ultimo preço: 0.00%
+2019-07-04 08:54:57 - Internacional - Salvando o ultimo preço obtido... 11756.31
+2019-07-04 08:54:57 - BtcTrade - Variação obtida...
+2019-07-04 08:54:57 - BtcTrade - Low: 11052.67
+2019-07-04 08:54:57 - BtcTrade - High: 44959.00
+2019-07-04 08:54:57 - BtcTrade - Avarege: 12066.63
+2019-07-04 08:54:57 - Retorno da Requisição da API BitcoinTrade: 200
+2019-07-04 08:54:57 - BtcTrade - Limpeza efetuada dos registros obtidos antes de: 2019-07-03 08:54:57
+2019-07-04 08:54:57 - BtcTrade - Bitcoin agora R$: 44770.00
+2019-07-04 08:54:57 - BtcTrade - Variação do ultimo preço: 0.00%
+2019-07-04 08:54:57 - BtcTrade - Salvando o ultimo preço obtido... 44770.00
+2019-07-04 08:55:01 - Internacional - Variação obtida...
+2019-07-04 08:55:01 - Internacional - Low: 11052.67
+2019-07-04 08:55:01 - Internacional - High: 11782.01
+2019-07-04 08:55:01 - Internacional - Avarege: 11362.16
+2019-07-04 08:55:02 - Retorno da Requisição: 200
+2019-07-04 08:55:02 - Internacional - Limpeza efetuada dos registros obtidos antes de: 2019-07-03 08:55:02
+2019-07-04 08:55:02 - Internacional - Bitcoin agora $: 11756.31
+2019-07-04 08:55:02 - Internacional - Variação do ultimo preço: 0.00%
+2019-07-04 08:55:02 - Internacional - Salvando o ultimo preço obtido... 11756.31
+2019-07-04 08:55:02 - BtcTrade - Variação obtida...
+2019-07-04 08:55:02 - BtcTrade - Low: 11052.67
+2019-07-04 08:55:02 - BtcTrade - High: 44959.00
+2019-07-04 08:55:02 - BtcTrade - Avarege: 12081.20
+2019-07-04 08:55:02 - Retorno da Requisição da API BitcoinTrade: 200
+2019-07-04 08:55:02 - BtcTrade - Limpeza efetuada dos registros obtidos antes de: 2019-07-03 08:55:02
+2019-07-04 08:55:02 - BtcTrade - Bitcoin agora R$: 44770.00
+2019-07-04 08:55:02 - BtcTrade - Variação do ultimo preço: 0.00%
+2019-07-04 08:55:02 - BtcTrade - Salvando o ultimo preço obtido... 44770.00
+2019-07-04 08:55:06 - Internacional - Variação obtida...
+2019-07-04 08:55:06 - Internacional - Low: 11052.67
+2019-07-04 08:55:06 - Internacional - High: 11782.01
+2019-07-04 08:55:06 - Internacional - Avarege: 11362.33
+2019-07-04 08:55:07 - Retorno da Requisição: 200
+2019-07-04 08:55:07 - Internacional - Limpeza efetuada dos registros obtidos antes de: 2019-07-03 08:55:07
+2019-07-04 08:55:07 - Internacional - Bitcoin agora $: 11756.38
+2019-07-04 08:55:07 - Internacional - Variação do ultimo preço: 0.00%
+2019-07-04 08:55:07 - Internacional - Salvando o ultimo preço obtido... 11756.38
+2019-07-04 08:55:07 - BtcTrade - Variação obtida...
+2019-07-04 08:55:07 - BtcTrade - Low: 11052.67
+2019-07-04 08:55:07 - BtcTrade - High: 44959.00
+2019-07-04 08:55:07 - BtcTrade - Avarege: 12095.75
+2019-07-04 08:55:07 - Retorno da Requisição da API BitcoinTrade: 200
+2019-07-04 08:55:07 - BtcTrade - Limpeza efetuada dos registros obtidos antes de: 2019-07-03 08:55:07
+2019-07-04 08:55:07 - BtcTrade - Bitcoin agora R$: 44770.00
+2019-07-04 08:55:07 - BtcTrade - Variação do ultimo preço: 0.00%
+2019-07-04 08:55:07 - BtcTrade - Salvando o ultimo preço obtido... 44770.00
+2019-07-04 08:55:11 - Internacional - Variação obtida...
+2019-07-04 08:55:11 - Internacional - Low: 11052.67
+2019-07-04 08:55:11 - Internacional - High: 11782.01
+2019-07-04 08:55:11 - Internacional - Avarege: 11362.51
+2019-07-04 08:55:12 - Retorno da Requisição: 200
+2019-07-04 08:55:12 - Internacional - Bitcoin agora $: 11756.38
+2019-07-04 08:55:12 - Internacional - Limpeza efetuada dos registros obtidos antes de: 2019-07-03 08:55:12
+2019-07-04 08:55:12 - Internacional - Variação do ultimo preço: 0.00%
+2019-07-04 08:55:12 - Internacional - Salvando o ultimo preço obtido... 11756.38
+2019-07-04 08:55:12 - BtcTrade - Variação obtida...
+2019-07-04 08:55:12 - BtcTrade - Low: 11052.67
+2019-07-04 08:55:12 - BtcTrade - High: 44959.00
+2019-07-04 08:55:12 - BtcTrade - Avarege: 12110.29
+2019-07-04 08:55:12 - Retorno da Requisição da API BitcoinTrade: 200
+2019-07-04 08:55:12 - BtcTrade - Limpeza efetuada dos registros obtidos antes de: 2019-07-03 08:55:12
+2019-07-04 08:55:12 - BtcTrade - Bitcoin agora R$: 44770.00
+2019-07-04 08:55:12 - BtcTrade - Variação do ultimo preço: 0.00%
+2019-07-04 08:55:12 - BtcTrade - Salvando o ultimo preço obtido... 44770.00
+2019-07-04 08:55:16 - Internacional - Variação obtida...
+2019-07-04 08:55:16 - Internacional - Low: 11052.67
+2019-07-04 08:55:16 - Internacional - High: 11782.01
+2019-07-04 08:55:16 - Internacional - Avarege: 11362.69
+2019-07-04 08:55:17 - Retorno da Requisição: 200
+2019-07-04 08:55:17 - Internacional - Limpeza efetuada dos registros obtidos antes de: 2019-07-03 08:55:17
+2019-07-04 08:55:17 - Internacional - Bitcoin agora $: 11756.38
+2019-07-04 08:55:17 - Internacional - Variação do ultimo preço: 0.00%
+2019-07-04 08:55:17 - Internacional - Salvando o ultimo preço obtido... 11756.38
+2019-07-04 08:55:17 - BtcTrade - Variação obtida...
+2019-07-04 08:55:17 - BtcTrade - Low: 11052.67
+2019-07-04 08:55:17 - BtcTrade - High: 44959.00
+2019-07-04 08:55:17 - BtcTrade - Avarege: 12124.82
+2019-07-04 08:55:17 - Retorno da Requisição da API BitcoinTrade: 200
+2019-07-04 08:55:17 - BtcTrade - Limpeza efetuada dos registros obtidos antes de: 2019-07-03 08:55:17
+2019-07-04 08:55:17 - BtcTrade - Bitcoin agora R$: 44770.00
+2019-07-04 08:55:17 - BtcTrade - Variação do ultimo preço: 0.00%
+2019-07-04 08:55:17 - BtcTrade - Salvando o ultimo preço obtido... 44770.00
+2019-07-04 08:55:21 - Internacional - Variação obtida...
+2019-07-04 08:55:21 - Internacional - Low: 11052.67
+2019-07-04 08:55:21 - Internacional - High: 11782.01
+2019-07-04 08:55:21 - Internacional - Avarege: 11362.86
+2019-07-04 08:55:22 - Retorno da Requisição: 200
+2019-07-04 08:55:22 - Internacional - Limpeza efetuada dos registros obtidos antes de: 2019-07-03 08:55:22
+2019-07-04 08:55:22 - Internacional - Bitcoin agora $: 11756.38
+2019-07-04 08:55:22 - Internacional - Variação do ultimo preço: 0.00%
+2019-07-04 08:55:22 - Internacional - Salvando o ultimo preço obtido... 11756.38
+2019-07-04 08:55:22 - BtcTrade - Variação obtida...
+2019-07-04 08:55:22 - BtcTrade - Low: 11052.67
+2019-07-04 08:55:22 - BtcTrade - High: 44959.00
+2019-07-04 08:55:22 - BtcTrade - Avarege: 12139.34
+2019-07-04 08:55:22 - Retorno da Requisição da API BitcoinTrade: 200
+2019-07-04 08:55:22 - BtcTrade - Limpeza efetuada dos registros obtidos antes de: 2019-07-03 08:55:22
+2019-07-04 08:55:22 - BtcTrade - Bitcoin agora R$: 44770.00
+2019-07-04 08:55:22 - BtcTrade - Variação do ultimo preço: 0.00%
+2019-07-04 08:55:22 - BtcTrade - Salvando o ultimo preço obtido... 44770.00
+2019-07-04 08:55:26 - Internacional - Variação obtida...
+2019-07-04 08:55:26 - Internacional - Low: 11052.67
+2019-07-04 08:55:26 - Internacional - High: 11782.01
+2019-07-04 08:55:26 - Internacional - Avarege: 11363.04
+2019-07-04 08:55:27 - Retorno da Requisição: 200
+2019-07-04 08:55:27 - Internacional - Limpeza efetuada dos registros obtidos antes de: 2019-07-03 08:55:27
+2019-07-04 08:55:27 - Internacional - Bitcoin agora $: 11756.38
+2019-07-04 08:55:27 - Internacional - Variação do ultimo preço: 0.00%
+2019-07-04 08:55:27 - Internacional - Salvando o ultimo preço obtido... 11756.38
+2019-07-04 08:55:27 - BtcTrade - Variação obtida...
+2019-07-04 08:55:27 - BtcTrade - Low: 11052.67
+2019-07-04 08:55:27 - BtcTrade - High: 44959.00
+2019-07-04 08:55:27 - BtcTrade - Avarege: 12153.84
+2019-07-04 08:55:27 - Retorno da Requisição da API BitcoinTrade: 200
+2019-07-04 08:55:27 - BtcTrade - Limpeza efetuada dos registros obtidos antes de: 2019-07-03 08:55:27
+2019-07-04 08:55:27 - BtcTrade - Bitcoin agora R$: 44770.00
+2019-07-04 08:55:27 - BtcTrade - Variação do ultimo preço: 0.00%
+2019-07-04 08:55:27 - BtcTrade - Salvando o ultimo preço obtido... 44770.00
+2019-07-04 08:55:31 - Internacional - Variação obtida...
+2019-07-04 08:55:31 - Internacional - Low: 11052.67
+2019-07-04 08:55:31 - Internacional - High: 11782.01
+2019-07-04 08:55:31 - Internacional - Avarege: 11363.22
+2019-07-04 08:55:32 - Retorno da Requisição: 200
+2019-07-04 08:55:32 - Internacional - Limpeza efetuada dos registros obtidos antes de: 2019-07-03 08:55:32
+2019-07-04 08:55:32 - Internacional - Bitcoin agora $: 11758.35
+2019-07-04 08:55:32 - Internacional - Variação do ultimo preço: 0.02%
+2019-07-04 08:55:32 - Internacional - Salvando o ultimo preço obtido... 11758.35
+2019-07-04 08:55:32 - BtcTrade - Variação obtida...
+2019-07-04 08:55:32 - BtcTrade - Low: 11052.67
+2019-07-04 08:55:32 - BtcTrade - High: 44959.00
+2019-07-04 08:55:32 - BtcTrade - Avarege: 12168.33
+2019-07-04 08:55:32 - Retorno da Requisição da API BitcoinTrade: 200
+2019-07-04 08:55:32 - BtcTrade - Limpeza efetuada dos registros obtidos antes de: 2019-07-03 08:55:32
+2019-07-04 08:55:32 - BtcTrade - Bitcoin agora R$: 44770.00
+2019-07-04 08:55:32 - BtcTrade - Variação do ultimo preço: 0.00%
+2019-07-04 08:55:32 - BtcTrade - Salvando o ultimo preço obtido... 44770.00
+2019-07-04 08:55:36 - Internacional - Variação obtida...
+2019-07-04 08:55:36 - Internacional - Low: 11052.67
+2019-07-04 08:55:36 - Internacional - High: 11782.01
+2019-07-04 08:55:36 - Internacional - Avarege: 11363.39
+2019-07-04 08:55:37 - Retorno da Requisição: 200
+2019-07-04 08:55:37 - Internacional - Limpeza efetuada dos registros obtidos antes de: 2019-07-03 08:55:37
+2019-07-04 08:55:37 - Internacional - Bitcoin agora $: 11756.38
+2019-07-04 08:55:37 - Internacional - Variação do ultimo preço: -0.02%
+2019-07-04 08:55:37 - Internacional - Salvando o ultimo preço obtido... 11756.38
+2019-07-04 08:55:37 - BtcTrade - Variação obtida...
+2019-07-04 08:55:37 - BtcTrade - Low: 11052.67
+2019-07-04 08:55:37 - BtcTrade - High: 44959.00
+2019-07-04 08:55:37 - BtcTrade - Avarege: 12182.81
+2019-07-04 08:55:37 - Retorno da Requisição da API BitcoinTrade: 200
+2019-07-04 08:55:37 - BtcTrade - Limpeza efetuada dos registros obtidos antes de: 2019-07-03 08:55:37
+2019-07-04 08:55:37 - BtcTrade - Bitcoin agora R$: 44770.00
+2019-07-04 08:55:37 - BtcTrade - Variação do ultimo preço: 0.00%
+2019-07-04 08:55:37 - BtcTrade - Salvando o ultimo preço obtido... 44770.00
+2019-07-04 08:55:41 - Internacional - Variação obtida...
+2019-07-04 08:55:41 - Internacional - Low: 11052.67
+2019-07-04 08:55:41 - Internacional - High: 11782.01
+2019-07-04 08:55:41 - Internacional - Avarege: 11363.57
+2019-07-04 08:55:42 - Retorno da Requisição: 200
+2019-07-04 08:55:42 - Internacional - Limpeza efetuada dos registros obtidos antes de: 2019-07-03 08:55:42
+2019-07-04 08:55:42 - Internacional - Bitcoin agora $: 11756.38
+2019-07-04 08:55:42 - Internacional - Variação do ultimo preço: 0.00%
+2019-07-04 08:55:42 - Internacional - Salvando o ultimo preço obtido... 11756.38
+2019-07-04 08:55:42 - BtcTrade - Variação obtida...
+2019-07-04 08:55:42 - BtcTrade - Low: 11052.67
+2019-07-04 08:55:42 - BtcTrade - High: 44959.00
+2019-07-04 08:55:42 - BtcTrade - Avarege: 12197.27
+2019-07-04 08:55:42 - Retorno da Requisição da API BitcoinTrade: 200
+2019-07-04 08:55:42 - BtcTrade - Limpeza efetuada dos registros obtidos antes de: 2019-07-03 08:55:42
+2019-07-04 08:55:42 - BtcTrade - Bitcoin agora R$: 44770.00
+2019-07-04 08:55:42 - BtcTrade - Variação do ultimo preço: 0.00%
+2019-07-04 08:55:42 - BtcTrade - Salvando o ultimo preço obtido... 44770.00
+2019-07-04 08:55:46 - Internacional - Variação obtida...
+2019-07-04 08:55:46 - Internacional - Low: 11052.67
+2019-07-04 08:55:46 - Internacional - High: 11782.01
+2019-07-04 08:55:46 - Internacional - Avarege: 11363.74
+2019-07-04 08:55:47 - Retorno da Requisição: 200
+2019-07-04 08:55:47 - Internacional - Limpeza efetuada dos registros obtidos antes de: 2019-07-03 08:55:47
+2019-07-04 08:55:47 - Internacional - Bitcoin agora $: 11756.38
+2019-07-04 08:55:47 - Internacional - Variação do ultimo preço: 0.00%
+2019-07-04 08:55:47 - Internacional - Salvando o ultimo preço obtido... 11756.38
+2019-07-04 08:55:47 - BtcTrade - Variação obtida...
+2019-07-04 08:55:47 - BtcTrade - Low: 11052.67
+2019-07-04 08:55:47 - BtcTrade - High: 44959.00
+2019-07-04 08:55:47 - BtcTrade - Avarege: 12211.72
+2019-07-04 08:55:47 - Retorno da Requisição da API BitcoinTrade: 200
+2019-07-04 08:55:47 - BtcTrade - Limpeza efetuada dos registros obtidos antes de: 2019-07-03 08:55:47
+2019-07-04 08:55:47 - BtcTrade - Bitcoin agora R$: 44770.00
+2019-07-04 08:55:47 - BtcTrade - Variação do ultimo preço: 0.00%
+2019-07-04 08:55:47 - BtcTrade - Salvando o ultimo preço obtido... 44770.00
+2019-07-04 08:55:51 - Internacional - Variação obtida...
+2019-07-04 08:55:51 - Internacional - Low: 11052.67
+2019-07-04 08:55:51 - Internacional - High: 11782.01
+2019-07-04 08:55:51 - Internacional - Avarege: 11363.92
+2019-07-04 08:55:52 - Retorno da Requisição: 200
+2019-07-04 08:55:52 - Internacional - Limpeza efetuada dos registros obtidos antes de: 2019-07-03 08:55:52
+2019-07-04 08:55:52 - Internacional - Bitcoin agora $: 11756.38
+2019-07-04 08:55:52 - Internacional - Variação do ultimo preço: 0.00%
+2019-07-04 08:55:52 - Internacional - Salvando o ultimo preço obtido... 11756.38
+2019-07-04 08:55:52 - BtcTrade - Variação obtida...
+2019-07-04 08:55:52 - BtcTrade - Low: 11052.67
+2019-07-04 08:55:52 - BtcTrade - High: 44959.00
+2019-07-04 08:55:52 - BtcTrade - Avarege: 12226.16
+2019-07-04 08:55:52 - Retorno da Requisição da API BitcoinTrade: 200
+2019-07-04 08:55:52 - BtcTrade - Limpeza efetuada dos registros obtidos antes de: 2019-07-03 08:55:52
+2019-07-04 08:55:52 - BtcTrade - Bitcoin agora R$: 44770.00
+2019-07-04 08:55:52 - BtcTrade - Variação do ultimo preço: 0.00%
+2019-07-04 08:55:52 - BtcTrade - Salvando o ultimo preço obtido... 44770.00
+2019-07-04 08:55:56 - Internacional - Variação obtida...
+2019-07-04 08:55:56 - Internacional - Low: 11052.67
+2019-07-04 08:55:56 - Internacional - High: 11782.01
+2019-07-04 08:55:56 - Internacional - Avarege: 11364.10
+2019-07-04 08:55:57 - Retorno da Requisição: 200
+2019-07-04 08:55:57 - Internacional - Limpeza efetuada dos registros obtidos antes de: 2019-07-03 08:55:57
+2019-07-04 08:55:57 - Internacional - Bitcoin agora $: 11756.38
+2019-07-04 08:55:57 - Internacional - Variação do ultimo preço: 0.00%
+2019-07-04 08:55:57 - Internacional - Salvando o ultimo preço obtido... 11756.38
+2019-07-04 08:55:57 - BtcTrade - Variação obtida...
+2019-07-04 08:55:57 - BtcTrade - Low: 11052.67
+2019-07-04 08:55:57 - BtcTrade - High: 44959.00
+2019-07-04 08:55:57 - BtcTrade - Avarege: 12240.58
+2019-07-04 08:55:57 - Retorno da Requisição da API BitcoinTrade: 200
+2019-07-04 08:55:57 - BtcTrade - Limpeza efetuada dos registros obtidos antes de: 2019-07-03 08:55:57
+2019-07-04 08:55:57 - BtcTrade - Bitcoin agora R$: 44770.00
+2019-07-04 08:55:57 - BtcTrade - Variação do ultimo preço: 0.00%
+2019-07-04 08:55:57 - BtcTrade - Salvando o ultimo preço obtido... 44770.00
+2019-07-04 08:56:01 - Internacional - Variação obtida...
+2019-07-04 08:56:01 - Internacional - Low: 11052.67
+2019-07-04 08:56:01 - Internacional - High: 11782.01
+2019-07-04 08:56:01 - Internacional - Avarege: 11364.27
+2019-07-04 08:56:02 - Retorno da Requisição: 200
+2019-07-04 08:56:02 - Internacional - Limpeza efetuada dos registros obtidos antes de: 2019-07-03 08:56:02
+2019-07-04 08:56:02 - Internacional - Bitcoin agora $: 11756.38
+2019-07-04 08:56:02 - Internacional - Variação do ultimo preço: 0.00%
+2019-07-04 08:56:02 - Internacional - Salvando o ultimo preço obtido... 11756.38
+2019-07-04 08:56:02 - BtcTrade - Variação obtida...
+2019-07-04 08:56:02 - BtcTrade - Low: 11052.67
+2019-07-04 08:56:02 - BtcTrade - High: 44959.00
+2019-07-04 08:56:02 - BtcTrade - Avarege: 12255.00
+2019-07-04 08:56:02 - Retorno da Requisição da API BitcoinTrade: 200
+2019-07-04 08:56:02 - BtcTrade - Limpeza efetuada dos registros obtidos antes de: 2019-07-03 08:56:02
+2019-07-04 08:56:02 - BtcTrade - Bitcoin agora R$: 44770.00
+2019-07-04 08:56:02 - BtcTrade - Variação do ultimo preço: 0.00%
+2019-07-04 08:56:02 - BtcTrade - Salvando o ultimo preço obtido... 44770.00
+2019-07-04 08:56:06 - Internacional - Variação obtida...
+2019-07-04 08:56:06 - Internacional - Low: 11052.67
+2019-07-04 08:56:06 - Internacional - High: 11782.01
+2019-07-04 08:56:06 - Internacional - Avarege: 11364.45
+2019-07-04 08:56:07 - Retorno da Requisição: 200
+2019-07-04 08:56:07 - Internacional - Limpeza efetuada dos registros obtidos antes de: 2019-07-03 08:56:07
+2019-07-04 08:56:07 - Internacional - Bitcoin agora $: 11756.38
+2019-07-04 08:56:07 - Internacional - Variação do ultimo preço: 0.00%
+2019-07-04 08:56:07 - Internacional - Salvando o ultimo preço obtido... 11756.38
+2019-07-04 08:56:07 - BtcTrade - Variação obtida...
+2019-07-04 08:56:07 - BtcTrade - Low: 11052.67
+2019-07-04 08:56:07 - BtcTrade - High: 44959.00
+2019-07-04 08:56:07 - BtcTrade - Avarege: 12269.40
+2019-07-04 08:56:07 - Retorno da Requisição da API BitcoinTrade: 200
+2019-07-04 08:56:07 - BtcTrade - Limpeza efetuada dos registros obtidos antes de: 2019-07-03 08:56:07
+2019-07-04 08:56:07 - BtcTrade - Bitcoin agora R$: 44770.00
+2019-07-04 08:56:07 - BtcTrade - Variação do ultimo preço: 0.00%
+2019-07-04 08:56:07 - BtcTrade - Salvando o ultimo preço obtido... 44770.00
+2019-07-04 08:56:11 - Internacional - Variação obtida...
+2019-07-04 08:56:11 - Internacional - Low: 11052.67
+2019-07-04 08:56:11 - Internacional - High: 11782.01
+2019-07-04 08:56:11 - Internacional - Avarege: 11364.62
+2019-07-04 08:56:12 - Retorno da Requisição: 200
+2019-07-04 08:56:12 - Internacional - Limpeza efetuada dos registros obtidos antes de: 2019-07-03 08:56:12
+2019-07-04 08:56:12 - Internacional - Bitcoin agora $: 11756.38
+2019-07-04 08:56:12 - Internacional - Variação do ultimo preço: 0.00%
+2019-07-04 08:56:12 - Internacional - Salvando o ultimo preço obtido... 11756.38
+2019-07-04 08:56:12 - BtcTrade - Variação obtida...
+2019-07-04 08:56:12 - BtcTrade - Low: 11052.67
+2019-07-04 08:56:12 - BtcTrade - High: 44959.00
+2019-07-04 08:56:12 - BtcTrade - Avarege: 12283.78
+2019-07-04 08:56:12 - Retorno da Requisição da API BitcoinTrade: 200
+2019-07-04 08:56:12 - BtcTrade - Limpeza efetuada dos registros obtidos antes de: 2019-07-03 08:56:12
+2019-07-04 08:56:12 - BtcTrade - Bitcoin agora R$: 44770.00
+2019-07-04 08:56:12 - BtcTrade - Variação do ultimo preço: 0.00%
+2019-07-04 08:56:12 - BtcTrade - Salvando o ultimo preço obtido... 44770.00
+2019-07-04 08:56:16 - Internacional - Variação obtida...
+2019-07-04 08:56:16 - Internacional - Low: 11052.67
+2019-07-04 08:56:16 - Internacional - High: 11782.01
+2019-07-04 08:56:16 - Internacional - Avarege: 11364.80
+2019-07-04 08:56:17 - Retorno da Requisição: 200
+2019-07-04 08:56:17 - Internacional - Limpeza efetuada dos registros obtidos antes de: 2019-07-03 08:56:17
+2019-07-04 08:56:17 - Internacional - Bitcoin agora $: 11740.82
+2019-07-04 08:56:17 - Internacional - Variação do ultimo preço: -0.13%
+2019-07-04 08:56:17 - Internacional - Salvando o ultimo preço obtido... 11740.82
+2019-07-04 08:56:17 - BtcTrade - Variação obtida...
+2019-07-04 08:56:17 - BtcTrade - Low: 11052.67
+2019-07-04 08:56:17 - BtcTrade - High: 44959.00
+2019-07-04 08:56:17 - BtcTrade - Avarege: 12298.16
+2019-07-04 08:56:17 - Retorno da Requisição da API BitcoinTrade: 200
+2019-07-04 08:56:17 - BtcTrade - Limpeza efetuada dos registros obtidos antes de: 2019-07-03 08:56:17
+2019-07-04 08:56:17 - BtcTrade - Bitcoin agora R$: 44899.00
+2019-07-04 08:56:17 - BtcTrade - Variação do ultimo preço: 0.29%
+2019-07-04 08:56:17 - BtcTrade - Salvando o ultimo preço obtido... 44899.00
+2019-07-04 08:56:21 - Internacional - Variação obtida...
+2019-07-04 08:56:21 - Internacional - Low: 11052.67
+2019-07-04 08:56:21 - Internacional - High: 11782.01
+2019-07-04 08:56:21 - Internacional - Avarege: 11364.96
+2019-07-04 08:56:22 - Retorno da Requisição: 200
+2019-07-04 08:56:22 - Internacional - Limpeza efetuada dos registros obtidos antes de: 2019-07-03 08:56:22
+2019-07-04 08:56:22 - Internacional - Bitcoin agora $: 11756.38
+2019-07-04 08:56:22 - Internacional - Variação do ultimo preço: 0.13%
+2019-07-04 08:56:22 - Internacional - Salvando o ultimo preço obtido... 11756.38
+2019-07-04 08:56:22 - BtcTrade - Variação obtida...
+2019-07-04 08:56:22 - BtcTrade - Low: 11052.67
+2019-07-04 08:56:22 - BtcTrade - High: 44959.00
+2019-07-04 08:56:22 - BtcTrade - Avarege: 12312.58
+2019-07-04 08:56:22 - Retorno da Requisição da API BitcoinTrade: 200
+2019-07-04 08:56:22 - BtcTrade - Limpeza efetuada dos registros obtidos antes de: 2019-07-03 08:56:22
+2019-07-04 08:56:22 - BtcTrade - Bitcoin agora R$: 44899.00
+2019-07-04 08:56:22 - BtcTrade - Variação do ultimo preço: 0.00%
+2019-07-04 08:56:22 - BtcTrade - Salvando o ultimo preço obtido... 44899.00
+2019-07-04 08:56:26 - Internacional - Variação obtida...
+2019-07-04 08:56:26 - Internacional - Low: 11052.67
+2019-07-04 08:56:26 - Internacional - High: 11782.01
+2019-07-04 08:56:26 - Internacional - Avarege: 11365.14
+2019-07-04 08:56:27 - Retorno da Requisição: 200
+2019-07-04 08:56:27 - Internacional - Limpeza efetuada dos registros obtidos antes de: 2019-07-03 08:56:27
+2019-07-04 08:56:27 - Internacional - Bitcoin agora $: 11756.38
+2019-07-04 08:56:27 - Internacional - Variação do ultimo preço: 0.00%
+2019-07-04 08:56:27 - Internacional - Salvando o ultimo preço obtido... 11756.38
+2019-07-04 08:56:27 - BtcTrade - Variação obtida...
+2019-07-04 08:56:27 - BtcTrade - Low: 11052.67
+2019-07-04 08:56:27 - BtcTrade - High: 44959.00
+2019-07-04 08:56:27 - BtcTrade - Avarege: 12326.98
+2019-07-04 08:56:27 - Retorno da Requisição da API BitcoinTrade: 200
+2019-07-04 08:56:27 - BtcTrade - Limpeza efetuada dos registros obtidos antes de: 2019-07-03 08:56:27
+2019-07-04 08:56:27 - BtcTrade - Bitcoin agora R$: 44899.00
+2019-07-04 08:56:27 - BtcTrade - Variação do ultimo preço: 0.00%
+2019-07-04 08:56:27 - BtcTrade - Salvando o ultimo preço obtido... 44899.00
+2019-07-04 08:56:31 - Internacional - Variação obtida...
+2019-07-04 08:56:31 - Internacional - Low: 11052.67
+2019-07-04 08:56:31 - Internacional - High: 11782.01
+2019-07-04 08:56:31 - Internacional - Avarege: 11365.31
+2019-07-04 08:56:32 - Retorno da Requisição: 200
+2019-07-04 08:56:32 - Internacional - Limpeza efetuada dos registros obtidos antes de: 2019-07-03 08:56:32
+2019-07-04 08:56:32 - Internacional - Bitcoin agora $: 11756.38
+2019-07-04 08:56:32 - Internacional - Variação do ultimo preço: 0.00%
+2019-07-04 08:56:32 - Internacional - Salvando o ultimo preço obtido... 11756.38
+2019-07-04 08:56:32 - BtcTrade - Variação obtida...
+2019-07-04 08:56:32 - BtcTrade - High: 44959.00
+2019-07-04 08:56:32 - BtcTrade - Avarege: 12341.38
+2019-07-04 08:56:32 - Retorno da Requisição da API BitcoinTrade: 200
+2019-07-04 08:56:32 - BtcTrade - Low: 11052.67
+2019-07-04 08:56:33 - BtcTrade - Limpeza efetuada dos registros obtidos antes de: 2019-07-03 08:56:33
+2019-07-04 08:56:33 - BtcTrade - Bitcoin agora R$: 44899.00
+2019-07-04 08:56:33 - BtcTrade - Variação do ultimo preço: 0.00%
+2019-07-04 08:56:33 - BtcTrade - Salvando o ultimo preço obtido... 44899.00
+2019-07-04 08:56:36 - Internacional - Variação obtida...
+2019-07-04 08:56:36 - Internacional - Low: 11052.67
+2019-07-04 08:56:36 - Internacional - High: 11782.01
+2019-07-04 08:56:36 - Internacional - Avarege: 11365.49
+2019-07-04 08:56:37 - Retorno da Requisição: 200
+2019-07-04 08:56:37 - Internacional - Limpeza efetuada dos registros obtidos antes de: 2019-07-03 08:56:37
+2019-07-04 08:56:37 - Internacional - Bitcoin agora $: 11740.82
+2019-07-04 08:56:37 - Internacional - Variação do ultimo preço: -0.13%
+2019-07-04 08:56:37 - Internacional - Salvando o ultimo preço obtido... 11740.82
+2019-07-04 08:56:37 - BtcTrade - Variação obtida...
+2019-07-04 08:56:37 - BtcTrade - Low: 11052.67
+2019-07-04 08:56:37 - BtcTrade - High: 44959.00
+2019-07-04 08:56:37 - BtcTrade - Avarege: 12355.76
+2019-07-04 08:56:37 - Retorno da Requisição da API BitcoinTrade: 200
+2019-07-04 08:56:37 - BtcTrade - Limpeza efetuada dos registros obtidos antes de: 2019-07-03 08:56:37
+2019-07-04 08:56:37 - BtcTrade - Bitcoin agora R$: 44899.00
+2019-07-04 08:56:37 - BtcTrade - Variação do ultimo preço: 0.00%
+2019-07-04 08:56:37 - BtcTrade - Salvando o ultimo preço obtido... 44899.00
+2019-07-04 08:56:41 - Internacional - Variação obtida...
+2019-07-04 08:56:41 - Internacional - Low: 11052.67
+2019-07-04 08:56:41 - Internacional - High: 11782.01
+2019-07-04 08:56:41 - Internacional - Avarege: 11365.65
+2019-07-04 08:56:42 - Retorno da Requisição: 200
+2019-07-04 08:56:42 - Internacional - Limpeza efetuada dos registros obtidos antes de: 2019-07-03 08:56:42
+2019-07-04 08:56:42 - Internacional - Bitcoin agora $: 11740.82
+2019-07-04 08:56:42 - Internacional - Variação do ultimo preço: 0.00%
+2019-07-04 08:56:42 - Internacional - Salvando o ultimo preço obtido... 11740.82
+2019-07-04 08:56:42 - BtcTrade - Variação obtida...
+2019-07-04 08:56:42 - BtcTrade - Low: 11052.67
+2019-07-04 08:56:42 - BtcTrade - High: 44959.00
+2019-07-04 08:56:42 - BtcTrade - Avarege: 12370.13
+2019-07-04 08:56:42 - Retorno da Requisição da API BitcoinTrade: 200
+2019-07-04 08:56:42 - BtcTrade - Limpeza efetuada dos registros obtidos antes de: 2019-07-03 08:56:42
+2019-07-04 08:56:42 - BtcTrade - Bitcoin agora R$: 44899.00
+2019-07-04 08:56:42 - BtcTrade - Variação do ultimo preço: 0.00%
+2019-07-04 08:56:42 - BtcTrade - Salvando o ultimo preço obtido... 44899.00
+2019-07-04 08:56:46 - Internacional - Variação obtida...
+2019-07-04 08:56:46 - Internacional - Low: 11052.67
+2019-07-04 08:56:46 - Internacional - High: 11782.01
+2019-07-04 08:56:46 - Internacional - Avarege: 11365.82
+2019-07-04 08:56:47 - Retorno da Requisição: 200
+2019-07-04 08:56:47 - Internacional - Limpeza efetuada dos registros obtidos antes de: 2019-07-03 08:56:47
+2019-07-04 08:56:47 - Internacional - Bitcoin agora $: 11747.96
+2019-07-04 08:56:47 - Internacional - Variação do ultimo preço: 0.06%
+2019-07-04 08:56:47 - Internacional - Salvando o ultimo preço obtido... 11747.96
+2019-07-04 08:56:47 - BtcTrade - Variação obtida...
+2019-07-04 08:56:47 - BtcTrade - Low: 11052.67
+2019-07-04 08:56:47 - BtcTrade - High: 44959.00
+2019-07-04 08:56:47 - BtcTrade - Avarege: 12384.48
+2019-07-04 08:56:47 - Retorno da Requisição da API BitcoinTrade: 200
+2019-07-04 08:56:47 - BtcTrade - Limpeza efetuada dos registros obtidos antes de: 2019-07-03 08:56:47
+2019-07-04 08:56:47 - BtcTrade - Bitcoin agora R$: 44899.00
+2019-07-04 08:56:47 - BtcTrade - Variação do ultimo preço: 0.00%
+2019-07-04 08:56:47 - BtcTrade - Salvando o ultimo preço obtido... 44899.00
+2019-07-04 08:56:51 - Internacional - Variação obtida...
+2019-07-04 08:56:51 - Internacional - Low: 11052.67
+2019-07-04 08:56:51 - Internacional - High: 11782.01
+2019-07-04 08:56:51 - Internacional - Avarege: 11365.99
+2019-07-04 08:56:52 - Retorno da Requisição: 200
+2019-07-04 08:56:52 - Internacional - Limpeza efetuada dos registros obtidos antes de: 2019-07-03 08:56:52
+2019-07-04 08:56:52 - Internacional - Bitcoin agora $: 11747.96
+2019-07-04 08:56:52 - Internacional - Variação do ultimo preço: 0.00%
+2019-07-04 08:56:52 - Internacional - Salvando o ultimo preço obtido... 11747.96
+2019-07-04 08:56:52 - BtcTrade - Variação obtida...
+2019-07-04 08:56:52 - BtcTrade - Low: 11052.67
+2019-07-04 08:56:52 - BtcTrade - High: 44959.00
+2019-07-04 08:56:52 - BtcTrade - Avarege: 12398.82
+2019-07-04 08:56:52 - Retorno da Requisição da API BitcoinTrade: 200
+2019-07-04 08:56:52 - BtcTrade - Limpeza efetuada dos registros obtidos antes de: 2019-07-03 08:56:52
+2019-07-04 08:56:52 - BtcTrade - Bitcoin agora R$: 44899.00
+2019-07-04 08:56:52 - BtcTrade - Variação do ultimo preço: 0.00%
+2019-07-04 08:56:52 - BtcTrade - Salvando o ultimo preço obtido... 44899.00
+2019-07-04 08:56:56 - Internacional - Variação obtida...
+2019-07-04 08:56:56 - Internacional - Low: 11052.67
+2019-07-04 08:56:56 - Internacional - High: 11782.01
+2019-07-04 08:56:56 - Internacional - Avarege: 11366.16
+2019-07-04 08:56:57 - Retorno da Requisição: 200
+2019-07-04 08:56:57 - Internacional - Limpeza efetuada dos registros obtidos antes de: 2019-07-03 08:56:57
+2019-07-04 08:56:57 - Internacional - Bitcoin agora $: 11747.96
+2019-07-04 08:56:57 - Internacional - Variação do ultimo preço: 0.00%
+2019-07-04 08:56:57 - Internacional - Salvando o ultimo preço obtido... 11747.96
+2019-07-04 08:56:57 - BtcTrade - Variação obtida...
+2019-07-04 08:56:57 - BtcTrade - Low: 11052.67
+2019-07-04 08:56:57 - BtcTrade - High: 44959.00
+2019-07-04 08:56:57 - BtcTrade - Avarege: 12413.15
+2019-07-04 08:56:57 - Retorno da Requisição da API BitcoinTrade: 200
+2019-07-04 08:56:57 - BtcTrade - Limpeza efetuada dos registros obtidos antes de: 2019-07-03 08:56:57
+2019-07-04 08:56:57 - BtcTrade - Bitcoin agora R$: 44899.00
+2019-07-04 08:56:57 - BtcTrade - Variação do ultimo preço: 0.00%
+2019-07-04 08:56:57 - BtcTrade - Salvando o ultimo preço obtido... 44899.00
+2019-07-04 08:57:01 - Internacional - Variação obtida...
+2019-07-04 08:57:01 - Internacional - Low: 11052.67
+2019-07-04 08:57:01 - Internacional - High: 11782.01
+2019-07-04 08:57:01 - Internacional - Avarege: 11366.33
+2019-07-04 08:57:02 - Retorno da Requisição: 200
+2019-07-04 08:57:02 - Internacional - Limpeza efetuada dos registros obtidos antes de: 2019-07-03 08:57:02
+2019-07-04 08:57:02 - Internacional - Bitcoin agora $: 11747.96
+2019-07-04 08:57:02 - Internacional - Variação do ultimo preço: 0.00%
+2019-07-04 08:57:02 - Internacional - Salvando o ultimo preço obtido... 11747.96
+2019-07-04 08:57:02 - BtcTrade - Variação obtida...
+2019-07-04 08:57:02 - BtcTrade - Low: 11052.67
+2019-07-04 08:57:02 - BtcTrade - High: 44959.00
+2019-07-04 08:57:02 - BtcTrade - Avarege: 12427.47
+2019-07-04 08:57:02 - Retorno da Requisição da API BitcoinTrade: 200
+2019-07-04 08:57:02 - BtcTrade - Limpeza efetuada dos registros obtidos antes de: 2019-07-03 08:57:02
+2019-07-04 08:57:02 - BtcTrade - Bitcoin agora R$: 44899.00
+2019-07-04 08:57:02 - BtcTrade - Variação do ultimo preço: 0.00%
+2019-07-04 08:57:02 - BtcTrade - Salvando o ultimo preço obtido... 44899.00
+2019-07-04 08:57:06 - Internacional - Variação obtida...
+2019-07-04 08:57:06 - Internacional - Low: 11052.67
+2019-07-04 08:57:06 - Internacional - High: 11782.01
+2019-07-04 08:57:06 - Internacional - Avarege: 11366.50
+2019-07-04 08:57:07 - Retorno da Requisição: 200
+2019-07-04 08:57:07 - Internacional - Limpeza efetuada dos registros obtidos antes de: 2019-07-03 08:57:07
+2019-07-04 08:57:07 - Internacional - Bitcoin agora $: 11737.51
+2019-07-04 08:57:07 - Internacional - Variação do ultimo preço: -0.09%
+2019-07-04 08:57:07 - Internacional - Salvando o ultimo preço obtido... 11737.51
+2019-07-04 08:57:07 - BtcTrade - Variação obtida...
+2019-07-04 08:57:07 - BtcTrade - Low: 11052.67
+2019-07-04 08:57:07 - BtcTrade - High: 44959.00
+2019-07-04 08:57:07 - BtcTrade - Avarege: 12441.78
+2019-07-04 08:57:07 - Retorno da Requisição da API BitcoinTrade: 200
+2019-07-04 08:57:07 - BtcTrade - Limpeza efetuada dos registros obtidos antes de: 2019-07-03 08:57:07
+2019-07-04 08:57:07 - BtcTrade - Bitcoin agora R$: 44899.00
+2019-07-04 08:57:07 - BtcTrade - Variação do ultimo preço: 0.00%
+2019-07-04 08:57:07 - BtcTrade - Salvando o ultimo preço obtido... 44899.00
+2019-07-04 08:57:11 - Internacional - Variação obtida...
+2019-07-04 08:57:11 - Internacional - Low: 11052.67
+2019-07-04 08:57:11 - Internacional - High: 11782.01
+2019-07-04 08:57:11 - Internacional - Avarege: 11366.66
+2019-07-04 08:57:12 - Retorno da Requisição: 200
+2019-07-04 08:57:12 - Internacional - Limpeza efetuada dos registros obtidos antes de: 2019-07-03 08:57:12
+2019-07-04 08:57:12 - Internacional - Bitcoin agora $: 11737.51
+2019-07-04 08:57:12 - Internacional - Variação do ultimo preço: 0.00%
+2019-07-04 08:57:12 - Internacional - Salvando o ultimo preço obtido... 11737.51
+2019-07-04 08:57:12 - BtcTrade - Variação obtida...
+2019-07-04 08:57:12 - BtcTrade - Low: 11052.67
+2019-07-04 08:57:12 - BtcTrade - High: 44959.00
+2019-07-04 08:57:12 - BtcTrade - Avarege: 12456.07
+2019-07-04 08:57:13 - Retorno da Requisição da API BitcoinTrade: 200
+2019-07-04 08:57:13 - BtcTrade - Limpeza efetuada dos registros obtidos antes de: 2019-07-03 08:57:13
+2019-07-04 08:57:13 - BtcTrade - Bitcoin agora R$: 44899.00
+2019-07-04 08:57:13 - BtcTrade - Variação do ultimo preço: 0.00%
+2019-07-04 08:57:13 - BtcTrade - Salvando o ultimo preço obtido... 44899.00
+2019-07-04 08:57:16 - Internacional - Variação obtida...
+2019-07-04 08:57:16 - Internacional - Low: 11052.67
+2019-07-04 08:57:16 - Internacional - High: 11782.01
+2019-07-04 08:57:16 - Internacional - Avarege: 11366.66
+2019-07-04 08:57:17 - Retorno da Requisição: 200
+2019-07-04 08:57:17 - Internacional - Limpeza efetuada dos registros obtidos antes de: 2019-07-03 08:57:17
+2019-07-04 08:57:17 - Internacional - Bitcoin agora $: 11737.51
+2019-07-04 08:57:17 - Internacional - Variação do ultimo preço: 0.00%
+2019-07-04 08:57:17 - Internacional - Salvando o ultimo preço obtido... 11737.51
+2019-07-04 08:57:17 - BtcTrade - Variação obtida...
+2019-07-04 08:57:17 - BtcTrade - Low: 11052.67
+2019-07-04 08:57:17 - BtcTrade - High: 44959.00
+2019-07-04 08:57:17 - BtcTrade - Avarege: 12470.35
+2019-07-04 08:57:17 - Retorno da Requisição da API BitcoinTrade: 200
+2019-07-04 08:57:17 - BtcTrade - Limpeza efetuada dos registros obtidos antes de: 2019-07-03 08:57:17
+2019-07-04 08:57:17 - BtcTrade - Bitcoin agora R$: 44899.00
+2019-07-04 08:57:17 - BtcTrade - Variação do ultimo preço: 0.00%
+2019-07-04 08:57:18 - BtcTrade - Salvando o ultimo preço obtido... 44899.00
+2019-07-04 08:57:21 - Internacional - Variação obtida...
+2019-07-04 08:57:21 - Internacional - Low: 11052.67
+2019-07-04 08:57:21 - Internacional - High: 11782.01
+2019-07-04 08:57:21 - Internacional - Avarege: 11366.83
+2019-07-04 08:57:22 - Retorno da Requisição: 200
+2019-07-04 08:57:22 - Internacional - Limpeza efetuada dos registros obtidos antes de: 2019-07-03 08:57:22
+2019-07-04 08:57:22 - Internacional - Bitcoin agora $: 11737.51
+2019-07-04 08:57:22 - Internacional - Variação do ultimo preço: 0.00%
+2019-07-04 08:57:22 - Internacional - Salvando o ultimo preço obtido... 11737.51
+2019-07-04 08:57:22 - BtcTrade - Variação obtida...
+2019-07-04 08:57:22 - BtcTrade - Low: 11052.67
+2019-07-04 08:57:22 - BtcTrade - High: 44959.00
+2019-07-04 08:57:22 - BtcTrade - Avarege: 12484.61
+2019-07-04 08:57:23 - BtcTrade - Limpeza efetuada dos registros obtidos antes de: 2019-07-03 08:57:23
+2019-07-04 08:57:23 - Retorno da Requisição da API BitcoinTrade: 200
+2019-07-04 08:57:23 - BtcTrade - Bitcoin agora R$: 44899.00
+2019-07-04 08:57:23 - BtcTrade - Variação do ultimo preço: 0.00%
+2019-07-04 08:57:23 - BtcTrade - Salvando o ultimo preço obtido... 44899.00
+2019-07-04 08:57:26 - Internacional - Variação obtida...
+2019-07-04 08:57:26 - Internacional - Low: 11052.67
+2019-07-04 08:57:26 - Internacional - High: 11782.01
+2019-07-04 08:57:26 - Internacional - Avarege: 11366.99
+2019-07-04 08:57:27 - Retorno da Requisição: 200
+2019-07-04 08:57:27 - Internacional - Limpeza efetuada dos registros obtidos antes de: 2019-07-03 08:57:27
+2019-07-04 08:57:27 - Internacional - Bitcoin agora $: 11737.51
+2019-07-04 08:57:27 - Internacional - Variação do ultimo preço: 0.00%
+2019-07-04 08:57:27 - Internacional - Salvando o ultimo preço obtido... 11737.51
+2019-07-04 08:57:27 - BtcTrade - Variação obtida...
+2019-07-04 08:57:27 - BtcTrade - Low: 11052.67
+2019-07-04 08:57:27 - BtcTrade - High: 44959.00
+2019-07-04 08:57:27 - BtcTrade - Avarege: 12498.87
+2019-07-04 08:57:28 - Retorno da Requisição da API BitcoinTrade: 200
+2019-07-04 08:57:28 - BtcTrade - Limpeza efetuada dos registros obtidos antes de: 2019-07-03 08:57:28
+2019-07-04 08:57:28 - BtcTrade - Bitcoin agora R$: 44899.00
+2019-07-04 08:57:28 - BtcTrade - Variação do ultimo preço: 0.00%
+2019-07-04 08:57:28 - BtcTrade - Salvando o ultimo preço obtido... 44899.00
+2019-07-04 08:57:31 - Internacional - Variação obtida...
+2019-07-04 08:57:31 - Internacional - Low: 11052.67
+2019-07-04 08:57:31 - Internacional - High: 11782.01
+2019-07-04 08:57:31 - Internacional - Avarege: 11367.16
+2019-07-04 08:57:32 - Retorno da Requisição: 200
+2019-07-04 08:57:32 - Internacional - Limpeza efetuada dos registros obtidos antes de: 2019-07-03 08:57:32
+2019-07-04 08:57:32 - Internacional - Bitcoin agora $: 11737.51
+2019-07-04 08:57:32 - Internacional - Variação do ultimo preço: 0.00%
+2019-07-04 08:57:32 - Internacional - Salvando o ultimo preço obtido... 11737.51
+2019-07-04 08:57:32 - BtcTrade - Variação obtida...
+2019-07-04 08:57:32 - BtcTrade - Low: 11052.67
+2019-07-04 08:57:32 - BtcTrade - High: 44959.00
+2019-07-04 08:57:32 - BtcTrade - Avarege: 12513.11
+2019-07-04 08:57:32 - Retorno da Requisição da API BitcoinTrade: 200
+2019-07-04 08:57:32 - BtcTrade - Limpeza efetuada dos registros obtidos antes de: 2019-07-03 08:57:32
+2019-07-04 08:57:32 - BtcTrade - Bitcoin agora R$: 44899.00
+2019-07-04 08:57:32 - BtcTrade - Variação do ultimo preço: 0.00%
+2019-07-04 08:57:32 - BtcTrade - Salvando o ultimo preço obtido... 44899.00
+2019-07-04 08:57:36 - Internacional - Variação obtida...
+2019-07-04 08:57:36 - Internacional - Low: 11052.67
+2019-07-04 08:57:36 - Internacional - High: 11782.01
+2019-07-04 08:57:36 - Internacional - Avarege: 11367.32
+2019-07-04 08:57:37 - Retorno da Requisição: 200
+2019-07-04 08:57:37 - Internacional - Limpeza efetuada dos registros obtidos antes de: 2019-07-03 08:57:37
+2019-07-04 08:57:37 - Internacional - Bitcoin agora $: 11737.51
+2019-07-04 08:57:37 - Internacional - Variação do ultimo preço: 0.00%
+2019-07-04 08:57:37 - Internacional - Salvando o ultimo preço obtido... 11737.51
+2019-07-04 08:57:37 - BtcTrade - Variação obtida...
+2019-07-04 08:57:37 - BtcTrade - Low: 11052.67
+2019-07-04 08:57:37 - BtcTrade - High: 44959.00
+2019-07-04 08:57:37 - BtcTrade - Avarege: 12527.34
+2019-07-04 08:57:37 - Retorno da Requisição da API BitcoinTrade: 200
+2019-07-04 08:57:37 - BtcTrade - Limpeza efetuada dos registros obtidos antes de: 2019-07-03 08:57:37
+2019-07-04 08:57:37 - BtcTrade - Bitcoin agora R$: 44899.00
+2019-07-04 08:57:37 - BtcTrade - Variação do ultimo preço: 0.00%
+2019-07-04 08:57:37 - BtcTrade - Salvando o ultimo preço obtido... 44899.00
+2019-07-04 08:57:41 - Internacional - Variação obtida...
+2019-07-04 08:57:41 - Internacional - Low: 11052.67
+2019-07-04 08:57:41 - Internacional - High: 11782.01
+2019-07-04 08:57:41 - Internacional - Avarege: 11367.49
+2019-07-04 08:57:42 - Retorno da Requisição: 200
+2019-07-04 08:57:42 - Internacional - Limpeza efetuada dos registros obtidos antes de: 2019-07-03 08:57:42
+2019-07-04 08:57:42 - Internacional - Bitcoin agora $: 11737.51
+2019-07-04 08:57:42 - Internacional - Variação do ultimo preço: 0.00%
+2019-07-04 08:57:42 - Internacional - Salvando o ultimo preço obtido... 11737.51
+2019-07-04 08:57:42 - BtcTrade - Variação obtida...
+2019-07-04 08:57:42 - BtcTrade - Low: 11052.67
+2019-07-04 08:57:42 - BtcTrade - High: 44959.00
+2019-07-04 08:57:42 - BtcTrade - Avarege: 12541.56
+2019-07-04 08:57:42 - Retorno da Requisição da API BitcoinTrade: 200
+2019-07-04 08:57:42 - BtcTrade - Limpeza efetuada dos registros obtidos antes de: 2019-07-03 08:57:42
+2019-07-04 08:57:42 - BtcTrade - Bitcoin agora R$: 44899.00
+2019-07-04 08:57:42 - BtcTrade - Variação do ultimo preço: 0.00%
+2019-07-04 08:57:42 - BtcTrade - Salvando o ultimo preço obtido... 44899.00
+2019-07-04 08:57:46 - Internacional - Variação obtida...
+2019-07-04 08:57:46 - Internacional - Low: 11052.67
+2019-07-04 08:57:46 - Internacional - High: 11782.01
+2019-07-04 08:57:46 - Internacional - Avarege: 11367.65
+2019-07-04 08:57:47 - Retorno da Requisição: 200
+2019-07-04 08:57:47 - Internacional - Limpeza efetuada dos registros obtidos antes de: 2019-07-03 08:57:47
+2019-07-04 08:57:47 - Internacional - Bitcoin agora $: 11737.51
+2019-07-04 08:57:47 - Internacional - Variação do ultimo preço: 0.00%
+2019-07-04 08:57:47 - Internacional - Salvando o ultimo preço obtido... 11737.51
+2019-07-04 08:57:47 - BtcTrade - Variação obtida...
+2019-07-04 08:57:47 - BtcTrade - Low: 11052.67
+2019-07-04 08:57:47 - BtcTrade - High: 44959.00
+2019-07-04 08:57:47 - BtcTrade - Avarege: 12555.76
+2019-07-04 08:57:48 - Retorno da Requisição da API BitcoinTrade: 200
+2019-07-04 08:57:48 - BtcTrade - Limpeza efetuada dos registros obtidos antes de: 2019-07-03 08:57:48
+2019-07-04 08:57:48 - BtcTrade - Bitcoin agora R$: 44800.04
+2019-07-04 08:57:48 - BtcTrade - Variação do ultimo preço: -0.22%
+2019-07-04 08:57:48 - BtcTrade - Salvando o ultimo preço obtido... 44800.04
+2019-07-04 08:57:51 - Internacional - Variação obtida...
+2019-07-04 08:57:51 - Internacional - Low: 11052.67
+2019-07-04 08:57:51 - Internacional - High: 11782.01
+2019-07-04 08:57:51 - Internacional - Avarege: 11367.81
+2019-07-04 08:57:52 - Retorno da Requisição: 200
+2019-07-04 08:57:52 - Internacional - Limpeza efetuada dos registros obtidos antes de: 2019-07-03 08:57:52
+2019-07-04 08:57:52 - Internacional - Bitcoin agora $: 11737.51
+2019-07-04 08:57:52 - Internacional - Variação do ultimo preço: 0.00%
+2019-07-04 08:57:52 - Internacional - Salvando o ultimo preço obtido... 11737.51
+2019-07-04 08:57:52 - BtcTrade - Variação obtida...
+2019-07-04 08:57:52 - BtcTrade - Low: 11052.67
+2019-07-04 08:57:52 - BtcTrade - High: 44959.00
+2019-07-04 08:57:52 - BtcTrade - Avarege: 12569.91
+2019-07-04 08:57:52 - Retorno da Requisição da API BitcoinTrade: 200
+2019-07-04 08:57:52 - BtcTrade - Limpeza efetuada dos registros obtidos antes de: 2019-07-03 08:57:52
+2019-07-04 08:57:52 - BtcTrade - Bitcoin agora R$: 44800.04
+2019-07-04 08:57:52 - BtcTrade - Variação do ultimo preço: 0.00%
+2019-07-04 08:57:52 - BtcTrade - Salvando o ultimo preço obtido... 44800.04
+2019-07-04 08:57:56 - Internacional - Variação obtida...
+2019-07-04 08:57:56 - Internacional - Low: 11052.67
+2019-07-04 08:57:56 - Internacional - High: 11782.01
+2019-07-04 08:57:56 - Internacional - Avarege: 11367.98
+2019-07-04 08:57:57 - Retorno da Requisição: 200
+2019-07-04 08:57:57 - Internacional - Limpeza efetuada dos registros obtidos antes de: 2019-07-03 08:57:57
+2019-07-04 08:57:57 - Internacional - Bitcoin agora $: 11737.87
+2019-07-04 08:57:57 - Internacional - Variação do ultimo preço: 0.00%
+2019-07-04 08:57:57 - Internacional - Salvando o ultimo preço obtido... 11737.87
+2019-07-04 08:57:57 - BtcTrade - Variação obtida...
+2019-07-04 08:57:57 - BtcTrade - Low: 11052.67
+2019-07-04 08:57:57 - BtcTrade - High: 44959.00
+2019-07-04 08:57:58 - Retorno da Requisição da API BitcoinTrade: 200
+2019-07-04 08:57:58 - BtcTrade - Limpeza efetuada dos registros obtidos antes de: 2019-07-03 08:57:58
+2019-07-04 08:57:58 - BtcTrade - Bitcoin agora R$: 44800.04
+2019-07-04 08:57:58 - BtcTrade - Variação do ultimo preço: 0.00%
+2019-07-04 08:57:58 - BtcTrade - Salvando o ultimo preço obtido... 44800.04
+2019-07-04 08:57:57 - BtcTrade - Avarege: 12584.04
+2019-07-04 08:58:01 - Internacional - Variação obtida...
+2019-07-04 08:58:01 - Internacional - Low: 11052.67
+2019-07-04 08:58:01 - Internacional - High: 11782.01
+2019-07-04 08:58:01 - Internacional - Avarege: 11368.14
+2019-07-04 08:58:02 - Retorno da Requisição: 200
+2019-07-04 08:58:02 - Internacional - Limpeza efetuada dos registros obtidos antes de: 2019-07-03 08:58:02
+2019-07-04 08:58:02 - Internacional - Bitcoin agora $: 11737.51
+2019-07-04 08:58:02 - Internacional - Variação do ultimo preço: -0.00%
+2019-07-04 08:58:02 - Internacional - Salvando o ultimo preço obtido... 11737.51
+2019-07-04 08:58:02 - BtcTrade - Variação obtida...
+2019-07-04 08:58:02 - BtcTrade - Low: 11052.67
+2019-07-04 08:58:02 - BtcTrade - High: 44959.00
+2019-07-04 08:58:02 - BtcTrade - Avarege: 12598.17
+2019-07-04 08:58:03 - Retorno da Requisição da API BitcoinTrade: 200
+2019-07-04 08:58:03 - BtcTrade - Limpeza efetuada dos registros obtidos antes de: 2019-07-03 08:58:03
+2019-07-04 08:58:03 - BtcTrade - Bitcoin agora R$: 44800.04
+2019-07-04 08:58:03 - BtcTrade - Variação do ultimo preço: 0.00%
+2019-07-04 08:58:03 - BtcTrade - Salvando o ultimo preço obtido... 44800.04
+2019-07-04 08:58:06 - Internacional - Variação obtida...
+2019-07-04 08:58:06 - Internacional - Low: 11052.67
+2019-07-04 08:58:06 - Internacional - High: 11782.01
+2019-07-04 08:58:06 - Internacional - Avarege: 11368.30
+2019-07-04 08:58:07 - Retorno da Requisição: 200
+2019-07-04 08:58:07 - Internacional - Limpeza efetuada dos registros obtidos antes de: 2019-07-03 08:58:07
+2019-07-04 08:58:07 - Internacional - Bitcoin agora $: 11755.10
+2019-07-04 08:58:07 - Internacional - Variação do ultimo preço: 0.15%
+2019-07-04 08:58:07 - Internacional - Salvando o ultimo preço obtido... 11755.10
+2019-07-04 08:58:07 - BtcTrade - Variação obtida...
+2019-07-04 08:58:07 - BtcTrade - Low: 11052.67
+2019-07-04 08:58:07 - BtcTrade - High: 44959.00
+2019-07-04 08:58:07 - BtcTrade - Avarege: 12612.28
+2019-07-04 08:58:07 - Retorno da Requisição da API BitcoinTrade: 200
+2019-07-04 08:58:07 - BtcTrade - Limpeza efetuada dos registros obtidos antes de: 2019-07-03 08:58:07
+2019-07-04 08:58:07 - BtcTrade - Bitcoin agora R$: 44800.04
+2019-07-04 08:58:07 - BtcTrade - Variação do ultimo preço: 0.00%
+2019-07-04 08:58:07 - BtcTrade - Salvando o ultimo preço obtido... 44800.04
+2019-07-04 08:58:11 - Internacional - Variação obtida...
+2019-07-04 08:58:11 - Internacional - Low: 11052.67
+2019-07-04 08:58:11 - Internacional - High: 11782.01
+2019-07-04 08:58:11 - Internacional - Avarege: 11368.47
+2019-07-04 08:58:12 - Retorno da Requisição: 200
+2019-07-04 08:58:12 - Internacional - Limpeza efetuada dos registros obtidos antes de: 2019-07-03 08:58:12
+2019-07-04 08:58:12 - Internacional - Bitcoin agora $: 11737.87
+2019-07-04 08:58:12 - Internacional - Variação do ultimo preço: -0.15%
+2019-07-04 08:58:12 - BtcTrade - High: 44959.00
+2019-07-04 08:58:12 - BtcTrade - Avarege: 12626.38
+2019-07-04 08:58:12 - Retorno da Requisição da API BitcoinTrade: 200
+2019-07-04 08:58:12 - BtcTrade - Limpeza efetuada dos registros obtidos antes de: 2019-07-03 08:58:12
+2019-07-04 08:58:12 - BtcTrade - Bitcoin agora R$: 44800.04
+2019-07-04 08:58:12 - BtcTrade - Variação do ultimo preço: 0.00%
+2019-07-04 08:58:12 - BtcTrade - Salvando o ultimo preço obtido... 44800.04
+2019-07-04 08:58:12 - BtcTrade - Variação obtida...
+2019-07-04 08:58:12 - Internacional - Salvando o ultimo preço obtido... 11737.87
+2019-07-04 08:58:12 - BtcTrade - Low: 11052.67
+2019-07-04 08:58:16 - Internacional - Variação obtida...
+2019-07-04 08:58:16 - Internacional - Low: 11052.67
+2019-07-04 08:58:16 - Internacional - High: 11782.01
+2019-07-04 08:58:16 - Internacional - Avarege: 11368.64
+2019-07-04 08:58:17 - Retorno da Requisição: 200
+2019-07-04 08:58:17 - Internacional - Limpeza efetuada dos registros obtidos antes de: 2019-07-03 08:58:17
+2019-07-04 08:58:17 - Internacional - Bitcoin agora $: 11749.68
+2019-07-04 08:58:17 - Internacional - Variação do ultimo preço: 0.10%
+2019-07-04 08:58:17 - Internacional - Salvando o ultimo preço obtido... 11749.68
+2019-07-04 08:58:17 - BtcTrade - Variação obtida...
+2019-07-04 08:58:17 - BtcTrade - Low: 11052.67
+2019-07-04 08:58:17 - BtcTrade - High: 44959.00
+2019-07-04 08:58:17 - BtcTrade - Avarege: 12640.46
+2019-07-04 08:58:17 - Retorno da Requisição da API BitcoinTrade: 200
+2019-07-04 08:58:17 - BtcTrade - Limpeza efetuada dos registros obtidos antes de: 2019-07-03 08:58:17
+2019-07-04 08:58:17 - BtcTrade - Bitcoin agora R$: 44800.04
+2019-07-04 08:58:17 - BtcTrade - Variação do ultimo preço: 0.00%
+2019-07-04 08:58:17 - BtcTrade - Salvando o ultimo preço obtido... 44800.04
+2019-07-04 08:58:21 - Internacional - Variação obtida...
+2019-07-04 08:58:21 - Internacional - Low: 11052.67
+2019-07-04 08:58:21 - Internacional - High: 11782.01
+2019-07-04 08:58:21 - Internacional - Avarege: 11368.81
+2019-07-04 08:58:22 - Retorno da Requisição: 200
+2019-07-04 08:58:22 - Internacional - Limpeza efetuada dos registros obtidos antes de: 2019-07-03 08:58:22
+2019-07-04 08:58:22 - Internacional - Bitcoin agora $: 11749.68
+2019-07-04 08:58:22 - Internacional - Variação do ultimo preço: 0.00%
+2019-07-04 08:58:22 - Internacional - Salvando o ultimo preço obtido... 11749.68
+2019-07-04 08:58:22 - BtcTrade - Variação obtida...
+2019-07-04 08:58:22 - BtcTrade - Low: 11052.67
+2019-07-04 08:58:22 - BtcTrade - High: 44959.00
+2019-07-04 08:58:22 - BtcTrade - Avarege: 12654.54
+2019-07-04 08:58:23 - Retorno da Requisição da API BitcoinTrade: 200
+2019-07-04 08:58:23 - BtcTrade - Limpeza efetuada dos registros obtidos antes de: 2019-07-03 08:58:23
+2019-07-04 08:58:23 - BtcTrade - Bitcoin agora R$: 44800.04
+2019-07-04 08:58:23 - BtcTrade - Variação do ultimo preço: 0.00%
+2019-07-04 08:58:23 - BtcTrade - Salvando o ultimo preço obtido... 44800.04
+2019-07-04 08:58:26 - Internacional - Variação obtida...
+2019-07-04 08:58:26 - Internacional - Low: 11052.67
+2019-07-04 08:58:26 - Internacional - High: 11782.01
+2019-07-04 08:58:26 - Internacional - Avarege: 11368.97
+2019-07-04 08:58:27 - Retorno da Requisição: 200
+2019-07-04 08:58:27 - Internacional - Limpeza efetuada dos registros obtidos antes de: 2019-07-03 08:58:27
+2019-07-04 08:58:27 - Internacional - Bitcoin agora $: 11755.10
+2019-07-04 08:58:27 - Internacional - Variação do ultimo preço: 0.05%
+2019-07-04 08:58:27 - Internacional - Salvando o ultimo preço obtido... 11755.10
+2019-07-04 08:58:27 - BtcTrade - Variação obtida...
+2019-07-04 08:58:27 - BtcTrade - Low: 11052.67
+2019-07-04 08:58:27 - BtcTrade - High: 44959.00
+2019-07-04 08:58:27 - BtcTrade - Avarege: 12668.60
+2019-07-04 08:58:27 - Retorno da Requisição da API BitcoinTrade: 200
+2019-07-04 08:58:27 - BtcTrade - Limpeza efetuada dos registros obtidos antes de: 2019-07-03 08:58:27
+2019-07-04 08:58:27 - BtcTrade - Bitcoin agora R$: 44800.04
+2019-07-04 08:58:27 - BtcTrade - Variação do ultimo preço: 0.00%
+2019-07-04 08:58:27 - BtcTrade - Salvando o ultimo preço obtido... 44800.04
+2019-07-04 08:58:31 - Internacional - Variação obtida...
+2019-07-04 08:58:31 - Internacional - Low: 11052.67
+2019-07-04 08:58:31 - Internacional - High: 11782.01
+2019-07-04 08:58:31 - Internacional - Avarege: 11369.14
+2019-07-04 08:58:32 - Retorno da Requisição: 200
+2019-07-04 08:58:32 - Internacional - Limpeza efetuada dos registros obtidos antes de: 2019-07-03 08:58:32
+2019-07-04 08:58:32 - Internacional - Bitcoin agora $: 11755.10
+2019-07-04 08:58:32 - Internacional - Variação do ultimo preço: 0.00%
+2019-07-04 08:58:32 - Internacional - Salvando o ultimo preço obtido... 11755.10
+2019-07-04 08:58:32 - BtcTrade - Variação obtida...
+2019-07-04 08:58:32 - BtcTrade - Low: 11052.67
+2019-07-04 08:58:32 - BtcTrade - High: 44959.00
+2019-07-04 08:58:32 - BtcTrade - Avarege: 12682.65
+2019-07-04 08:58:34 - Retorno da Requisição da API BitcoinTrade: 200
+2019-07-04 08:58:34 - BtcTrade - Limpeza efetuada dos registros obtidos antes de: 2019-07-03 08:58:34
+2019-07-04 08:58:34 - BtcTrade - Bitcoin agora R$: 44800.04
+2019-07-04 08:58:34 - BtcTrade - Variação do ultimo preço: 0.00%
+2019-07-04 08:58:34 - BtcTrade - Salvando o ultimo preço obtido... 44800.04
+2019-07-04 08:58:36 - Internacional - Variação obtida...
+2019-07-04 08:58:36 - Internacional - Low: 11052.67
+2019-07-04 08:58:36 - Internacional - High: 11782.01
+2019-07-04 08:58:36 - Internacional - Avarege: 11369.31
+2019-07-04 08:58:37 - Retorno da Requisição: 200
+2019-07-04 08:58:37 - Internacional - Limpeza efetuada dos registros obtidos antes de: 2019-07-03 08:58:37
+2019-07-04 08:58:37 - Internacional - Bitcoin agora $: 11755.10
+2019-07-04 08:58:37 - Internacional - Variação do ultimo preço: 0.00%
+2019-07-04 08:58:37 - Internacional - Salvando o ultimo preço obtido... 11755.10
+2019-07-04 08:58:37 - BtcTrade - Variação obtida...
+2019-07-04 08:58:37 - BtcTrade - Low: 11052.67
+2019-07-04 08:58:37 - BtcTrade - High: 44959.00
+2019-07-04 08:58:37 - BtcTrade - Avarege: 12696.69
+2019-07-04 08:58:37 - Retorno da Requisição da API BitcoinTrade: 200
+2019-07-04 08:58:37 - BtcTrade - Limpeza efetuada dos registros obtidos antes de: 2019-07-03 08:58:37
+2019-07-04 08:58:37 - BtcTrade - Bitcoin agora R$: 44800.04
+2019-07-04 08:58:37 - BtcTrade - Variação do ultimo preço: 0.00%
+2019-07-04 08:58:37 - BtcTrade - Salvando o ultimo preço obtido... 44800.04
+2019-07-04 08:58:41 - Internacional - Variação obtida...
+2019-07-04 08:58:41 - Internacional - Low: 11052.67
+2019-07-04 08:58:41 - Internacional - High: 11782.01
+2019-07-04 08:58:41 - Internacional - Avarege: 11369.48
+2019-07-04 08:58:42 - Retorno da Requisição: 200
+2019-07-04 08:58:42 - Internacional - Limpeza efetuada dos registros obtidos antes de: 2019-07-03 08:58:42
+2019-07-04 08:58:42 - Internacional - Bitcoin agora $: 11755.10
+2019-07-04 08:58:42 - Internacional - Variação do ultimo preço: 0.00%
+2019-07-04 08:58:42 - Internacional - Salvando o ultimo preço obtido... 11755.10
+2019-07-04 08:58:42 - BtcTrade - Variação obtida...
+2019-07-04 08:58:42 - BtcTrade - Low: 11052.67
+2019-07-04 08:58:42 - BtcTrade - High: 44959.00
+2019-07-04 08:58:42 - BtcTrade - Avarege: 12710.71
+2019-07-04 08:58:43 - Retorno da Requisição da API BitcoinTrade: 200
+2019-07-04 08:58:43 - BtcTrade - Bitcoin agora R$: 44800.04
+2019-07-04 08:58:43 - BtcTrade - Limpeza efetuada dos registros obtidos antes de: 2019-07-03 08:58:43
+2019-07-04 08:58:43 - BtcTrade - Variação do ultimo preço: 0.00%
+2019-07-04 08:58:43 - BtcTrade - Salvando o ultimo preço obtido... 44800.04
+2019-07-04 08:58:46 - Internacional - Variação obtida...
+2019-07-04 08:58:46 - Internacional - Low: 11052.67
+2019-07-04 08:58:46 - Internacional - High: 11782.01
+2019-07-04 08:58:46 - Internacional - Avarege: 11369.65
+2019-07-04 08:58:47 - Retorno da Requisição: 200
+2019-07-04 08:58:47 - Internacional - Limpeza efetuada dos registros obtidos antes de: 2019-07-03 08:58:47
+2019-07-04 08:58:47 - Internacional - Bitcoin agora $: 11755.10
+2019-07-04 08:58:47 - Internacional - Variação do ultimo preço: 0.00%
+2019-07-04 08:58:47 - Internacional - Salvando o ultimo preço obtido... 11755.10
+2019-07-04 08:58:47 - BtcTrade - Variação obtida...
+2019-07-04 08:58:47 - BtcTrade - Low: 11052.67
+2019-07-04 08:58:47 - BtcTrade - High: 44959.00
+2019-07-04 08:58:47 - BtcTrade - Avarege: 12724.73
+2019-07-04 08:58:47 - Retorno da Requisição da API BitcoinTrade: 200
+2019-07-04 08:58:47 - BtcTrade - Limpeza efetuada dos registros obtidos antes de: 2019-07-03 08:58:47
+2019-07-04 08:58:47 - BtcTrade - Bitcoin agora R$: 44800.04
+2019-07-04 08:58:47 - BtcTrade - Variação do ultimo preço: 0.00%
+2019-07-04 08:58:47 - BtcTrade - Salvando o ultimo preço obtido... 44800.04
+2019-07-04 08:58:51 - Internacional - Variação obtida...
+2019-07-04 08:58:51 - Internacional - Low: 11052.67
+2019-07-04 08:58:51 - Internacional - High: 11782.01
+2019-07-04 08:58:51 - Internacional - Avarege: 11369.82
+2019-07-04 08:58:52 - Retorno da Requisição: 200
+2019-07-04 08:58:52 - Internacional - Bitcoin agora $: 11755.10
+2019-07-04 08:58:52 - Internacional - Limpeza efetuada dos registros obtidos antes de: 2019-07-03 08:58:52
+2019-07-04 08:58:52 - BtcTrade - Variação obtida...
+2019-07-04 08:58:52 - BtcTrade - Low: 11052.67
+2019-07-04 08:58:52 - BtcTrade - High: 44959.00
+2019-07-04 08:58:52 - BtcTrade - Avarege: 12738.73
+2019-07-04 08:58:52 - Retorno da Requisição da API BitcoinTrade: 200
+2019-07-04 08:58:52 - Internacional - Variação do ultimo preço: 0.00%
+2019-07-04 08:58:52 - Internacional - Salvando o ultimo preço obtido... 11755.10
+2019-07-04 08:58:52 - BtcTrade - Limpeza efetuada dos registros obtidos antes de: 2019-07-03 08:58:52
+2019-07-04 08:58:52 - BtcTrade - Bitcoin agora R$: 44800.04
+2019-07-04 08:58:52 - BtcTrade - Variação do ultimo preço: 0.00%
+2019-07-04 08:58:52 - BtcTrade - Salvando o ultimo preço obtido... 44800.04
+2019-07-04 08:58:56 - Internacional - Variação obtida...
+2019-07-04 08:58:56 - Internacional - Low: 11052.67
+2019-07-04 08:58:56 - Internacional - High: 11782.01
+2019-07-04 08:58:56 - Internacional - Avarege: 11369.99
+2019-07-04 08:58:57 - Retorno da Requisição: 200
+2019-07-04 08:58:57 - Internacional - Limpeza efetuada dos registros obtidos antes de: 2019-07-03 08:58:57
+2019-07-04 08:58:57 - Internacional - Bitcoin agora $: 11749.68
+2019-07-04 08:58:57 - Internacional - Variação do ultimo preço: -0.05%
+2019-07-04 08:58:57 - Internacional - Salvando o ultimo preço obtido... 11749.68
+2019-07-04 08:58:57 - BtcTrade - Variação obtida...
+2019-07-04 08:58:57 - BtcTrade - Low: 11052.67
+2019-07-04 08:58:57 - BtcTrade - High: 44959.00
+2019-07-04 08:58:57 - BtcTrade - Avarege: 12752.71
+2019-07-04 08:58:57 - Retorno da Requisição da API BitcoinTrade: 200
+2019-07-04 08:58:57 - BtcTrade - Limpeza efetuada dos registros obtidos antes de: 2019-07-03 08:58:57
+2019-07-04 08:58:57 - BtcTrade - Bitcoin agora R$: 44800.04
+2019-07-04 08:58:57 - BtcTrade - Variação do ultimo preço: 0.00%
+2019-07-04 08:58:57 - BtcTrade - Salvando o ultimo preço obtido... 44800.04
+2019-07-04 08:59:01 - Internacional - Variação obtida...
+2019-07-04 08:59:01 - Internacional - Low: 11052.67
+2019-07-04 08:59:01 - Internacional - High: 11782.01
+2019-07-04 08:59:01 - Internacional - Avarege: 11370.16
+2019-07-04 08:59:02 - Retorno da Requisição: 200
+2019-07-04 08:59:02 - Internacional - Limpeza efetuada dos registros obtidos antes de: 2019-07-03 08:59:02
+2019-07-04 08:59:02 - Internacional - Bitcoin agora $: 11748.90
+2019-07-04 08:59:02 - Internacional - Variação do ultimo preço: -0.01%
+2019-07-04 08:59:02 - Internacional - Salvando o ultimo preço obtido... 11748.90
+2019-07-04 08:59:02 - BtcTrade - Variação obtida...
+2019-07-04 08:59:02 - BtcTrade - Low: 11052.67
+2019-07-04 08:59:02 - BtcTrade - High: 44959.00
+2019-07-04 08:59:02 - BtcTrade - Avarege: 12766.69
+2019-07-04 08:59:02 - Retorno da Requisição da API BitcoinTrade: 200
+2019-07-04 08:59:02 - BtcTrade - Limpeza efetuada dos registros obtidos antes de: 2019-07-03 08:59:02
+2019-07-04 08:59:02 - BtcTrade - Bitcoin agora R$: 44800.04
+2019-07-04 08:59:02 - BtcTrade - Variação do ultimo preço: 0.00%
+2019-07-04 08:59:02 - BtcTrade - Salvando o ultimo preço obtido... 44800.04
+2019-07-04 08:59:06 - Internacional - Variação obtida...
+2019-07-04 08:59:06 - Internacional - Low: 11052.67
+2019-07-04 08:59:06 - Internacional - High: 11782.01
+2019-07-04 08:59:06 - Internacional - Avarege: 11370.33
+2019-07-04 08:59:07 - Retorno da Requisição: 200
+2019-07-04 08:59:07 - Internacional - Limpeza efetuada dos registros obtidos antes de: 2019-07-03 08:59:07
+2019-07-04 08:59:07 - Internacional - Bitcoin agora $: 11748.90
+2019-07-04 08:59:07 - Internacional - Variação do ultimo preço: 0.00%
+2019-07-04 08:59:07 - Internacional - Salvando o ultimo preço obtido... 11748.90
+2019-07-04 08:59:07 - BtcTrade - Variação obtida...
+2019-07-04 08:59:07 - BtcTrade - Low: 11052.67
+2019-07-04 08:59:07 - BtcTrade - High: 44959.00
+2019-07-04 08:59:07 - BtcTrade - Avarege: 12780.65
+2019-07-04 08:59:08 - Retorno da Requisição da API BitcoinTrade: 200
+2019-07-04 08:59:08 - BtcTrade - Limpeza efetuada dos registros obtidos antes de: 2019-07-03 08:59:08
+2019-07-04 08:59:08 - BtcTrade - Bitcoin agora R$: 44800.04
+2019-07-04 08:59:08 - BtcTrade - Variação do ultimo preço: 0.00%
+2019-07-04 08:59:08 - BtcTrade - Salvando o ultimo preço obtido... 44800.04
+2019-07-04 08:59:11 - Internacional - Variação obtida...
+2019-07-04 08:59:11 - Internacional - Low: 11052.67
+2019-07-04 08:59:11 - Internacional - High: 11782.01
+2019-07-04 08:59:11 - Internacional - Avarege: 11370.49
+2019-07-04 08:59:12 - Retorno da Requisição: 200
+2019-07-04 08:59:12 - Internacional - Limpeza efetuada dos registros obtidos antes de: 2019-07-03 08:59:12
+2019-07-04 08:59:12 - Internacional - Bitcoin agora $: 11748.90
+2019-07-04 08:59:12 - Internacional - Variação do ultimo preço: 0.00%
+2019-07-04 08:59:12 - Internacional - Salvando o ultimo preço obtido... 11748.90
+2019-07-04 08:59:12 - BtcTrade - Variação obtida...
+2019-07-04 08:59:12 - BtcTrade - Low: 11052.67
+2019-07-04 08:59:12 - BtcTrade - High: 44959.00
+2019-07-04 08:59:12 - BtcTrade - Avarege: 12794.61
+2019-07-04 08:59:13 - Retorno da Requisição da API BitcoinTrade: 200
+2019-07-04 08:59:13 - BtcTrade - Limpeza efetuada dos registros obtidos antes de: 2019-07-03 08:59:13
+2019-07-04 08:59:13 - BtcTrade - Bitcoin agora R$: 44800.04
+2019-07-04 08:59:13 - BtcTrade - Variação do ultimo preço: 0.00%
+2019-07-04 08:59:13 - BtcTrade - Salvando o ultimo preço obtido... 44800.04
+2019-07-04 08:59:16 - Internacional - Variação obtida...
+2019-07-04 08:59:16 - Internacional - Low: 11052.67
+2019-07-04 08:59:16 - Internacional - High: 11782.01
+2019-07-04 08:59:16 - Internacional - Avarege: 11370.66
+2019-07-04 08:59:17 - Retorno da Requisição: 200
+2019-07-04 08:59:17 - Internacional - Limpeza efetuada dos registros obtidos antes de: 2019-07-03 08:59:17
+2019-07-04 08:59:17 - Internacional - Bitcoin agora $: 11748.90
+2019-07-04 08:59:17 - Internacional - Variação do ultimo preço: 0.00%
+2019-07-04 08:59:17 - Internacional - Salvando o ultimo preço obtido... 11748.90
+2019-07-04 08:59:17 - BtcTrade - Variação obtida...
+2019-07-04 08:59:17 - BtcTrade - Low: 11052.67
+2019-07-04 08:59:17 - BtcTrade - High: 44959.00
+2019-07-04 08:59:17 - BtcTrade - Avarege: 12808.55
+2019-07-04 08:59:18 - Retorno da Requisição da API BitcoinTrade: 200
+2019-07-04 08:59:18 - BtcTrade - Limpeza efetuada dos registros obtidos antes de: 2019-07-03 08:59:18
+2019-07-04 08:59:18 - BtcTrade - Bitcoin agora R$: 44800.04
+2019-07-04 08:59:18 - BtcTrade - Variação do ultimo preço: 0.00%
+2019-07-04 08:59:18 - BtcTrade - Salvando o ultimo preço obtido... 44800.04
+2019-07-04 08:59:21 - Internacional - Variação obtida...
+2019-07-04 08:59:21 - Internacional - Low: 11052.67
+2019-07-04 08:59:21 - Internacional - High: 11782.01
+2019-07-04 08:59:21 - Internacional - Avarege: 11370.83
+2019-07-04 08:59:22 - Retorno da Requisição: 200
+2019-07-04 08:59:22 - Internacional - Limpeza efetuada dos registros obtidos antes de: 2019-07-03 08:59:22
+2019-07-04 08:59:22 - Internacional - Bitcoin agora $: 11748.90
+2019-07-04 08:59:22 - Internacional - Variação do ultimo preço: 0.00%
+2019-07-04 08:59:22 - Internacional - Salvando o ultimo preço obtido... 11748.90
+2019-07-04 08:59:22 - BtcTrade - Variação obtida...
+2019-07-04 08:59:22 - BtcTrade - Low: 11052.67
+2019-07-04 08:59:22 - BtcTrade - High: 44959.00
+2019-07-04 08:59:22 - BtcTrade - Avarege: 12822.47
+2019-07-04 08:59:22 - Retorno da Requisição da API BitcoinTrade: 200
+2019-07-04 08:59:22 - BtcTrade - Limpeza efetuada dos registros obtidos antes de: 2019-07-03 08:59:22
+2019-07-04 08:59:22 - BtcTrade - Bitcoin agora R$: 44800.04
+2019-07-04 08:59:22 - BtcTrade - Variação do ultimo preço: 0.00%
+2019-07-04 08:59:22 - BtcTrade - Salvando o ultimo preço obtido... 44800.04
+2019-07-04 08:59:26 - Internacional - Variação obtida...
+2019-07-04 08:59:26 - Internacional - Low: 11052.67
+2019-07-04 08:59:26 - Internacional - High: 11782.01
+2019-07-04 08:59:26 - Internacional - Avarege: 11370.99
+2019-07-04 08:59:27 - Retorno da Requisição: 200
+2019-07-04 08:59:27 - Internacional - Limpeza efetuada dos registros obtidos antes de: 2019-07-03 08:59:27
+2019-07-04 08:59:27 - Internacional - Bitcoin agora $: 11748.90
+2019-07-04 08:59:27 - Internacional - Variação do ultimo preço: 0.00%
+2019-07-04 08:59:27 - Internacional - Salvando o ultimo preço obtido... 11748.90
+2019-07-04 08:59:27 - BtcTrade - Variação obtida...
+2019-07-04 08:59:27 - BtcTrade - Low: 11052.67
+2019-07-04 08:59:27 - BtcTrade - High: 44959.00
+2019-07-04 08:59:27 - BtcTrade - Avarege: 12836.39
+2019-07-04 08:59:28 - Retorno da Requisição da API BitcoinTrade: 200
+2019-07-04 08:59:28 - BtcTrade - Limpeza efetuada dos registros obtidos antes de: 2019-07-03 08:59:28
+2019-07-04 08:59:28 - BtcTrade - Bitcoin agora R$: 44800.04
+2019-07-04 08:59:28 - BtcTrade - Variação do ultimo preço: 0.00%
+2019-07-04 08:59:28 - BtcTrade - Salvando o ultimo preço obtido... 44800.04
+2019-07-04 08:59:31 - Internacional - Variação obtida...
+2019-07-04 08:59:31 - Internacional - Low: 11052.67
+2019-07-04 08:59:31 - Internacional - High: 11782.01
+2019-07-04 08:59:31 - Internacional - Avarege: 11371.16
+2019-07-04 08:59:32 - Retorno da Requisição: 200
+2019-07-04 08:59:32 - Internacional - Bitcoin agora $: 11748.90
+2019-07-04 08:59:32 - Internacional - Limpeza efetuada dos registros obtidos antes de: 2019-07-03 08:59:32
+2019-07-04 08:59:32 - Internacional - Variação do ultimo preço: 0.00%
+2019-07-04 08:59:32 - Internacional - Salvando o ultimo preço obtido... 11748.90
+2019-07-04 08:59:32 - BtcTrade - Variação obtida...
+2019-07-04 08:59:32 - BtcTrade - Low: 11052.67
+2019-07-04 08:59:32 - BtcTrade - High: 44959.00
+2019-07-04 08:59:32 - BtcTrade - Avarege: 12850.29
+2019-07-04 08:59:32 - Retorno da Requisição da API BitcoinTrade: 200
+2019-07-04 08:59:32 - BtcTrade - Limpeza efetuada dos registros obtidos antes de: 2019-07-03 08:59:32
+2019-07-04 08:59:32 - BtcTrade - Bitcoin agora R$: 44800.04
+2019-07-04 08:59:32 - BtcTrade - Variação do ultimo preço: 0.00%
+2019-07-04 08:59:32 - BtcTrade - Salvando o ultimo preço obtido... 44800.04
+2019-07-04 08:59:36 - Internacional - Variação obtida...
+2019-07-04 08:59:36 - Internacional - Low: 11052.67
+2019-07-04 08:59:36 - Internacional - High: 11782.01
+2019-07-04 08:59:36 - Internacional - Avarege: 11371.32
+2019-07-04 08:59:37 - Retorno da Requisição: 200
+2019-07-04 08:59:37 - Internacional - Limpeza efetuada dos registros obtidos antes de: 2019-07-03 08:59:37
+2019-07-04 08:59:37 - Internacional - Bitcoin agora $: 11748.90
+2019-07-04 08:59:37 - Internacional - Variação do ultimo preço: 0.00%
+2019-07-04 08:59:37 - Internacional - Salvando o ultimo preço obtido... 11748.90
+2019-07-04 08:59:37 - BtcTrade - Variação obtida...
+2019-07-04 08:59:37 - BtcTrade - Low: 11052.67
+2019-07-04 08:59:37 - BtcTrade - High: 44959.00
+2019-07-04 08:59:37 - BtcTrade - Avarege: 12864.18
+2019-07-04 08:59:37 - Retorno da Requisição da API BitcoinTrade: 200
+2019-07-04 08:59:37 - BtcTrade - Limpeza efetuada dos registros obtidos antes de: 2019-07-03 08:59:37
+2019-07-04 08:59:37 - BtcTrade - Bitcoin agora R$: 44800.04
+2019-07-04 08:59:37 - BtcTrade - Variação do ultimo preço: 0.00%
+2019-07-04 08:59:37 - BtcTrade - Salvando o ultimo preço obtido... 44800.04
+2019-07-04 08:59:41 - Internacional - Variação obtida...
+2019-07-04 08:59:41 - Internacional - Low: 11052.67
+2019-07-04 08:59:41 - Internacional - High: 11782.01
+2019-07-04 08:59:41 - Internacional - Avarege: 11371.49
+2019-07-04 08:59:42 - Retorno da Requisição: 200
+2019-07-04 08:59:42 - Internacional - Limpeza efetuada dos registros obtidos antes de: 2019-07-03 08:59:42
+2019-07-04 08:59:42 - Internacional - Bitcoin agora $: 11748.90
+2019-07-04 08:59:42 - Internacional - Variação do ultimo preço: 0.00%
+2019-07-04 08:59:42 - Internacional - Salvando o ultimo preço obtido... 11748.90
+2019-07-04 08:59:42 - BtcTrade - Variação obtida...
+2019-07-04 08:59:42 - BtcTrade - Low: 11052.67
+2019-07-04 08:59:42 - BtcTrade - High: 44959.00
+2019-07-04 08:59:42 - BtcTrade - Avarege: 12878.06
+2019-07-04 08:59:43 - Retorno da Requisição da API BitcoinTrade: 200
+2019-07-04 08:59:43 - BtcTrade - Limpeza efetuada dos registros obtidos antes de: 2019-07-03 08:59:43
+2019-07-04 08:59:43 - BtcTrade - Bitcoin agora R$: 44800.04
+2019-07-04 08:59:43 - BtcTrade - Variação do ultimo preço: 0.00%
+2019-07-04 08:59:43 - BtcTrade - Salvando o ultimo preço obtido... 44800.04
+2019-07-04 08:59:46 - Internacional - Variação obtida...
+2019-07-04 08:59:46 - Internacional - Low: 11052.67
+2019-07-04 08:59:46 - Internacional - High: 11782.01
+2019-07-04 08:59:46 - Internacional - Avarege: 11371.65
+2019-07-04 08:59:47 - Retorno da Requisição: 200
+2019-07-04 08:59:47 - Internacional - Limpeza efetuada dos registros obtidos antes de: 2019-07-03 08:59:47
+2019-07-04 08:59:47 - Internacional - Bitcoin agora $: 11747.06
+2019-07-04 08:59:47 - Internacional - Variação do ultimo preço: -0.02%
+2019-07-04 08:59:47 - Internacional - Salvando o ultimo preço obtido... 11747.06
+2019-07-04 08:59:47 - BtcTrade - Variação obtida...
+2019-07-04 08:59:47 - BtcTrade - Low: 11052.67
+2019-07-04 08:59:47 - BtcTrade - High: 44959.00
+2019-07-04 08:59:47 - BtcTrade - Avarege: 12891.93
+2019-07-04 08:59:48 - Retorno da Requisição da API BitcoinTrade: 200
+2019-07-04 08:59:48 - BtcTrade - Limpeza efetuada dos registros obtidos antes de: 2019-07-03 08:59:48
+2019-07-04 08:59:48 - BtcTrade - Bitcoin agora R$: 44800.04
+2019-07-04 08:59:48 - BtcTrade - Variação do ultimo preço: 0.00%
+2019-07-04 08:59:48 - BtcTrade - Salvando o ultimo preço obtido... 44800.04
+2019-07-04 08:59:51 - Internacional - Variação obtida...
+2019-07-04 08:59:51 - Internacional - Low: 11052.67
+2019-07-04 08:59:51 - Internacional - High: 11782.01
+2019-07-04 08:59:51 - Internacional - Avarege: 11371.82
+2019-07-04 08:59:52 - Retorno da Requisição: 200
+2019-07-04 08:59:52 - Internacional - Limpeza efetuada dos registros obtidos antes de: 2019-07-03 08:59:52
+2019-07-04 08:59:52 - Internacional - Bitcoin agora $: 11748.90
+2019-07-04 08:59:52 - Internacional - Variação do ultimo preço: 0.02%
+2019-07-04 08:59:52 - Internacional - Salvando o ultimo preço obtido... 11748.90
+2019-07-04 08:59:52 - BtcTrade - Variação obtida...
+2019-07-04 08:59:52 - BtcTrade - Low: 11052.67
+2019-07-04 08:59:52 - BtcTrade - High: 44959.00
+2019-07-04 08:59:52 - BtcTrade - Avarege: 12905.78
+2019-07-04 08:59:53 - Retorno da Requisição da API BitcoinTrade: 200
+2019-07-04 08:59:53 - BtcTrade - Limpeza efetuada dos registros obtidos antes de: 2019-07-03 08:59:53
+2019-07-04 08:59:53 - BtcTrade - Bitcoin agora R$: 44800.04
+2019-07-04 08:59:53 - BtcTrade - Variação do ultimo preço: 0.00%
+2019-07-04 08:59:53 - BtcTrade - Salvando o ultimo preço obtido... 44800.04
+2019-07-04 08:59:56 - Internacional - Variação obtida...
+2019-07-04 08:59:56 - Internacional - Low: 11052.67
+2019-07-04 08:59:56 - Internacional - High: 11782.01
+2019-07-04 08:59:56 - Internacional - Avarege: 11371.98
+2019-07-04 08:59:57 - Retorno da Requisição: 200
+2019-07-04 08:59:57 - Internacional - Limpeza efetuada dos registros obtidos antes de: 2019-07-03 08:59:57
+2019-07-04 08:59:57 - Internacional - Bitcoin agora $: 11748.90
+2019-07-04 08:59:57 - Internacional - Variação do ultimo preço: 0.00%
+2019-07-04 08:59:57 - Internacional - Salvando o ultimo preço obtido... 11748.90
+2019-07-04 08:59:57 - BtcTrade - Variação obtida...
+2019-07-04 08:59:57 - BtcTrade - Low: 11052.67
+2019-07-04 08:59:57 - BtcTrade - High: 44959.00
+2019-07-04 08:59:57 - BtcTrade - Avarege: 12919.63
+2019-07-04 08:59:58 - Retorno da Requisição da API BitcoinTrade: 200
+2019-07-04 08:59:58 - BtcTrade - Limpeza efetuada dos registros obtidos antes de: 2019-07-03 08:59:58
+2019-07-04 08:59:58 - BtcTrade - Bitcoin agora R$: 44800.04
+2019-07-04 08:59:58 - BtcTrade - Variação do ultimo preço: 0.00%
+2019-07-04 08:59:58 - BtcTrade - Salvando o ultimo preço obtido... 44800.04
+2019-07-04 09:00:01 - Internacional - Variação obtida...
+2019-07-04 09:00:01 - Internacional - Low: 11052.67
+2019-07-04 09:00:01 - Internacional - High: 11782.01
+2019-07-04 09:00:01 - Internacional - Avarege: 11372.15
+2019-07-04 09:00:02 - Retorno da Requisição: 200
+2019-07-04 09:00:02 - Internacional - Limpeza efetuada dos registros obtidos antes de: 2019-07-03 09:00:02
+2019-07-04 09:00:02 - Internacional - Bitcoin agora $: 11747.06
+2019-07-04 09:00:02 - Internacional - Variação do ultimo preço: -0.02%
+2019-07-04 09:00:02 - Internacional - Salvando o ultimo preço obtido... 11747.06
+2019-07-04 09:00:02 - BtcTrade - Variação obtida...
+2019-07-04 09:00:02 - BtcTrade - Low: 11052.67
+2019-07-04 09:00:02 - BtcTrade - High: 44959.00
+2019-07-04 09:00:02 - BtcTrade - Avarege: 12933.46
+2019-07-04 09:00:03 - Retorno da Requisição da API BitcoinTrade: 200
+2019-07-04 09:00:03 - BtcTrade - Limpeza efetuada dos registros obtidos antes de: 2019-07-03 09:00:03
+2019-07-04 09:00:03 - BtcTrade - Bitcoin agora R$: 44800.04
+2019-07-04 09:00:03 - BtcTrade - Variação do ultimo preço: 0.00%
+2019-07-04 09:00:03 - BtcTrade - Salvando o ultimo preço obtido... 44800.04
+2019-07-04 09:00:06 - Internacional - Variação obtida...
+2019-07-04 09:00:06 - Internacional - Low: 11052.67
+2019-07-04 09:00:06 - Internacional - High: 11782.01
+2019-07-04 09:00:06 - Internacional - Avarege: 11372.31
+2019-07-04 09:00:07 - Retorno da Requisição: 200
+2019-07-04 09:00:07 - Internacional - Limpeza efetuada dos registros obtidos antes de: 2019-07-03 09:00:07
+2019-07-04 09:00:07 - Internacional - Bitcoin agora $: 11748.90
+2019-07-04 09:00:07 - Internacional - Variação do ultimo preço: 0.02%
+2019-07-04 09:00:07 - Internacional - Salvando o ultimo preço obtido... 11748.90
+2019-07-04 09:00:07 - BtcTrade - Variação obtida...
+2019-07-04 09:00:07 - BtcTrade - Low: 11052.67
+2019-07-04 09:00:07 - BtcTrade - High: 44959.00
+2019-07-04 09:00:07 - BtcTrade - Avarege: 12947.28
+2019-07-04 09:00:07 - Retorno da Requisição da API BitcoinTrade: 200
+2019-07-04 09:00:07 - BtcTrade - Limpeza efetuada dos registros obtidos antes de: 2019-07-03 09:00:07
+2019-07-04 09:00:07 - BtcTrade - Bitcoin agora R$: 44800.04
+2019-07-04 09:00:07 - BtcTrade - Variação do ultimo preço: 0.00%
+2019-07-04 09:00:07 - BtcTrade - Salvando o ultimo preço obtido... 44800.04
+2019-07-04 09:00:11 - Internacional - Variação obtida...
+2019-07-04 09:00:11 - Internacional - Low: 11052.67
+2019-07-04 09:00:11 - Internacional - High: 11782.01
+2019-07-04 09:00:11 - Internacional - Avarege: 11372.48
+2019-07-04 09:00:12 - Retorno da Requisição: 200
+2019-07-04 09:00:12 - Internacional - Limpeza efetuada dos registros obtidos antes de: 2019-07-03 09:00:12
+2019-07-04 09:00:12 - Internacional - Bitcoin agora $: 11747.02
+2019-07-04 09:00:12 - Internacional - Variação do ultimo preço: -0.02%
+2019-07-04 09:00:12 - Internacional - Salvando o ultimo preço obtido... 11747.02
+2019-07-04 09:00:12 - BtcTrade - Variação obtida...
+2019-07-04 09:00:12 - BtcTrade - Low: 11052.67
+2019-07-04 09:00:12 - BtcTrade - High: 44959.00
+2019-07-04 09:00:12 - BtcTrade - Avarege: 12961.08
+2019-07-04 09:00:12 - Retorno da Requisição da API BitcoinTrade: 200
+2019-07-04 09:00:12 - BtcTrade - Limpeza efetuada dos registros obtidos antes de: 2019-07-03 09:00:12
+2019-07-04 09:00:12 - BtcTrade - Bitcoin agora R$: 44800.04
+2019-07-04 09:00:12 - BtcTrade - Variação do ultimo preço: 0.00%
+2019-07-04 09:00:12 - BtcTrade - Salvando o ultimo preço obtido... 44800.04
+2019-07-04 09:00:16 - Internacional - Variação obtida...
+2019-07-04 09:00:16 - Internacional - Low: 11052.67
+2019-07-04 09:00:16 - Internacional - High: 11782.01
+2019-07-04 09:00:16 - Internacional - Avarege: 11372.64
+2019-07-04 09:00:17 - Retorno da Requisição: 200
+2019-07-04 09:00:17 - Internacional - Limpeza efetuada dos registros obtidos antes de: 2019-07-03 09:00:17
+2019-07-04 09:00:17 - Internacional - Bitcoin agora $: 11747.02
+2019-07-04 09:00:17 - Internacional - Variação do ultimo preço: 0.00%
+2019-07-04 09:00:17 - Internacional - Salvando o ultimo preço obtido... 11747.02
+2019-07-04 09:00:17 - BtcTrade - Variação obtida...
+2019-07-04 09:00:17 - BtcTrade - Low: 11052.67
+2019-07-04 09:00:17 - BtcTrade - High: 44959.00
+2019-07-04 09:00:17 - BtcTrade - Avarege: 12974.88
+2019-07-04 09:00:18 - Retorno da Requisição da API BitcoinTrade: 200
+2019-07-04 09:00:18 - BtcTrade - Limpeza efetuada dos registros obtidos antes de: 2019-07-03 09:00:18
+2019-07-04 09:00:18 - BtcTrade - Bitcoin agora R$: 44800.04
+2019-07-04 09:00:18 - BtcTrade - Variação do ultimo preço: 0.00%
+2019-07-04 09:00:18 - BtcTrade - Salvando o ultimo preço obtido... 44800.04
+2019-07-04 09:00:21 - Internacional - Variação obtida...
+2019-07-04 09:00:21 - Internacional - Low: 11052.67
+2019-07-04 09:00:21 - Internacional - High: 11782.01
+2019-07-04 09:00:21 - Internacional - Avarege: 11372.81
+2019-07-04 09:00:22 - Retorno da Requisição: 200
+2019-07-04 09:00:22 - Internacional - Limpeza efetuada dos registros obtidos antes de: 2019-07-03 09:00:22
+2019-07-04 09:00:22 - Internacional - Bitcoin agora $: 11747.02
+2019-07-04 09:00:22 - Internacional - Variação do ultimo preço: 0.00%
+2019-07-04 09:00:22 - Internacional - Salvando o ultimo preço obtido... 11747.02
+2019-07-04 09:00:22 - BtcTrade - Variação obtida...
+2019-07-04 09:00:22 - BtcTrade - Low: 11052.67
+2019-07-04 09:00:22 - BtcTrade - High: 44959.00
+2019-07-04 09:00:22 - BtcTrade - Avarege: 12988.66
+2019-07-04 09:00:22 - Retorno da Requisição da API BitcoinTrade: 200
+2019-07-04 09:00:22 - BtcTrade - Limpeza efetuada dos registros obtidos antes de: 2019-07-03 09:00:22
+2019-07-04 09:00:22 - BtcTrade - Bitcoin agora R$: 44800.04
+2019-07-04 09:00:22 - BtcTrade - Variação do ultimo preço: 0.00%
+2019-07-04 09:00:22 - BtcTrade - Salvando o ultimo preço obtido... 44800.04
+2019-07-04 09:00:26 - Internacional - Variação obtida...
+2019-07-04 09:00:26 - Internacional - Low: 11052.67
+2019-07-04 09:00:26 - Internacional - High: 11782.01
+2019-07-04 09:00:26 - Internacional - Avarege: 11372.97
+2019-07-04 09:00:27 - Retorno da Requisição: 200
+2019-07-04 09:00:27 - Internacional - Limpeza efetuada dos registros obtidos antes de: 2019-07-03 09:00:27
+2019-07-04 09:00:27 - Internacional - Bitcoin agora $: 11747.02
+2019-07-04 09:00:27 - Internacional - Variação do ultimo preço: 0.00%
+2019-07-04 09:00:27 - Internacional - Salvando o ultimo preço obtido... 11747.02
+2019-07-04 09:00:27 - BtcTrade - Variação obtida...
+2019-07-04 09:00:27 - BtcTrade - Low: 11052.67
+2019-07-04 09:00:27 - BtcTrade - High: 44959.00
+2019-07-04 09:00:27 - BtcTrade - Avarege: 13002.43
+2019-07-04 09:00:27 - Retorno da Requisição da API BitcoinTrade: 200
+2019-07-04 09:00:27 - BtcTrade - Limpeza efetuada dos registros obtidos antes de: 2019-07-03 09:00:27
+2019-07-04 09:00:27 - BtcTrade - Bitcoin agora R$: 44800.04
+2019-07-04 09:00:27 - BtcTrade - Variação do ultimo preço: 0.00%
+2019-07-04 09:00:27 - BtcTrade - Salvando o ultimo preço obtido... 44800.04
+2019-07-04 09:00:31 - Internacional - Variação obtida...
+2019-07-04 09:00:31 - Internacional - Low: 11052.67
+2019-07-04 09:00:31 - Internacional - High: 11782.01
+2019-07-04 09:00:31 - Internacional - Avarege: 11373.13
+2019-07-04 09:00:32 - Retorno da Requisição: 200
+2019-07-04 09:00:32 - Internacional - Limpeza efetuada dos registros obtidos antes de: 2019-07-03 09:00:32
+2019-07-04 09:00:32 - Internacional - Bitcoin agora $: 11747.02
+2019-07-04 09:00:32 - Internacional - Variação do ultimo preço: 0.00%
+2019-07-04 09:00:32 - Internacional - Salvando o ultimo preço obtido... 11747.02
+2019-07-04 09:00:32 - BtcTrade - Variação obtida...
+2019-07-04 09:00:32 - BtcTrade - Low: 11052.67
+2019-07-04 09:00:32 - BtcTrade - High: 44959.00
+2019-07-04 09:00:32 - BtcTrade - Avarege: 13016.19
+2019-07-04 09:00:32 - Retorno da Requisição da API BitcoinTrade: 200
+2019-07-04 09:00:32 - BtcTrade - Limpeza efetuada dos registros obtidos antes de: 2019-07-03 09:00:32
+2019-07-04 09:00:32 - BtcTrade - Bitcoin agora R$: 44800.05
+2019-07-04 09:00:32 - BtcTrade - Variação do ultimo preço: 0.00%
+2019-07-04 09:00:32 - BtcTrade - Salvando o ultimo preço obtido... 44800.05
+2019-07-04 09:00:36 - Internacional - Variação obtida...
+2019-07-04 09:00:36 - Internacional - Low: 11052.67
+2019-07-04 09:00:36 - Internacional - High: 11782.01
+2019-07-04 09:00:36 - Internacional - Avarege: 11373.29
+2019-07-04 09:00:37 - Retorno da Requisição: 200
+2019-07-04 09:00:37 - Internacional - Bitcoin agora $: 11747.02
+2019-07-04 09:00:37 - Internacional - Limpeza efetuada dos registros obtidos antes de: 2019-07-03 09:00:37
+2019-07-04 09:00:37 - Internacional - Variação do ultimo preço: 0.00%
+2019-07-04 09:00:37 - Internacional - Salvando o ultimo preço obtido... 11747.02
+2019-07-04 09:00:37 - BtcTrade - Variação obtida...
+2019-07-04 09:00:37 - BtcTrade - Low: 11052.67
+2019-07-04 09:00:37 - BtcTrade - High: 44959.00
+2019-07-04 09:00:37 - BtcTrade - Avarege: 13029.94
+2019-07-04 09:00:37 - Retorno da Requisição da API BitcoinTrade: 200
+2019-07-04 09:00:37 - BtcTrade - Limpeza efetuada dos registros obtidos antes de: 2019-07-03 09:00:37
+2019-07-04 09:00:37 - BtcTrade - Bitcoin agora R$: 44800.05
+2019-07-04 09:00:37 - BtcTrade - Variação do ultimo preço: 0.00%
+2019-07-04 09:00:37 - BtcTrade - Salvando o ultimo preço obtido... 44800.05
+2019-07-04 09:00:41 - Internacional - Variação obtida...
+2019-07-04 09:00:41 - Internacional - Low: 11052.67
+2019-07-04 09:00:41 - Internacional - High: 11782.01
+2019-07-04 09:00:41 - Internacional - Avarege: 11373.46
+2019-07-04 09:00:42 - Retorno da Requisição: 200
+2019-07-04 09:00:42 - Internacional - Limpeza efetuada dos registros obtidos antes de: 2019-07-03 09:00:42
+2019-07-04 09:00:42 - Internacional - Bitcoin agora $: 11747.02
+2019-07-04 09:00:42 - Internacional - Variação do ultimo preço: 0.00%
+2019-07-04 09:00:42 - Internacional - Salvando o ultimo preço obtido... 11747.02
+2019-07-04 09:00:42 - BtcTrade - Variação obtida...
+2019-07-04 09:00:42 - BtcTrade - Low: 11052.67
+2019-07-04 09:00:42 - BtcTrade - High: 44959.00
+2019-07-04 09:00:42 - BtcTrade - Avarege: 13043.68
+2019-07-04 09:00:42 - Retorno da Requisição da API BitcoinTrade: 200
+2019-07-04 09:00:42 - BtcTrade - Limpeza efetuada dos registros obtidos antes de: 2019-07-03 09:00:42
+2019-07-04 09:00:42 - BtcTrade - Bitcoin agora R$: 44800.05
+2019-07-04 09:00:42 - BtcTrade - Variação do ultimo preço: 0.00%
+2019-07-04 09:00:42 - BtcTrade - Salvando o ultimo preço obtido... 44800.05
+2019-07-04 09:00:46 - Internacional - Variação obtida...
+2019-07-04 09:00:46 - Internacional - Low: 11052.67
+2019-07-04 09:00:46 - Internacional - High: 11782.01
+2019-07-04 09:00:46 - Internacional - Avarege: 11373.62
+2019-07-04 09:00:47 - Retorno da Requisição: 200
+2019-07-04 09:00:47 - Internacional - Limpeza efetuada dos registros obtidos antes de: 2019-07-03 09:00:47
+2019-07-04 09:00:47 - Internacional - Bitcoin agora $: 11747.02
+2019-07-04 09:00:47 - Internacional - Variação do ultimo preço: 0.00%
+2019-07-04 09:00:47 - Internacional - Salvando o ultimo preço obtido... 11747.02
+2019-07-04 09:00:47 - BtcTrade - Variação obtida...
+2019-07-04 09:00:47 - BtcTrade - Low: 11052.67
+2019-07-04 09:00:47 - BtcTrade - High: 44959.00
+2019-07-04 09:00:47 - BtcTrade - Avarege: 13057.40
+2019-07-04 09:00:47 - Retorno da Requisição da API BitcoinTrade: 200
+2019-07-04 09:00:47 - BtcTrade - Limpeza efetuada dos registros obtidos antes de: 2019-07-03 09:00:47
+2019-07-04 09:00:47 - BtcTrade - Bitcoin agora R$: 44800.05
+2019-07-04 09:00:47 - BtcTrade - Variação do ultimo preço: 0.00%
+2019-07-04 09:00:47 - BtcTrade - Salvando o ultimo preço obtido... 44800.05
+2019-07-04 09:00:51 - Internacional - Variação obtida...
+2019-07-04 09:00:51 - Internacional - Low: 11052.67
+2019-07-04 09:00:51 - Internacional - High: 11782.01
+2019-07-04 09:00:51 - Internacional - Avarege: 11373.78
+2019-07-04 09:00:52 - Retorno da Requisição: 200
+2019-07-04 09:00:52 - Internacional - Limpeza efetuada dos registros obtidos antes de: 2019-07-03 09:00:52
+2019-07-04 09:00:52 - Internacional - Bitcoin agora $: 11747.02
+2019-07-04 09:00:52 - Internacional - Variação do ultimo preço: 0.00%
+2019-07-04 09:00:52 - Internacional - Salvando o ultimo preço obtido... 11747.02
+2019-07-04 09:00:52 - BtcTrade - Variação obtida...
+2019-07-04 09:00:52 - BtcTrade - Low: 11052.67
+2019-07-04 09:00:52 - BtcTrade - High: 44959.00
+2019-07-04 09:00:52 - BtcTrade - Avarege: 13071.11
+2019-07-04 09:00:52 - Retorno da Requisição da API BitcoinTrade: 200
+2019-07-04 09:00:52 - BtcTrade - Limpeza efetuada dos registros obtidos antes de: 2019-07-03 09:00:52
+2019-07-04 09:00:52 - BtcTrade - Bitcoin agora R$: 44800.05
+2019-07-04 09:00:52 - BtcTrade - Variação do ultimo preço: 0.00%
+2019-07-04 09:00:52 - BtcTrade - Salvando o ultimo preço obtido... 44800.05
+2019-07-04 09:00:56 - Internacional - Variação obtida...
+2019-07-04 09:00:56 - Internacional - Low: 11052.67
+2019-07-04 09:00:56 - Internacional - High: 11782.01
+2019-07-04 09:00:56 - Internacional - Avarege: 11373.95
+2019-07-04 09:00:57 - Retorno da Requisição: 200
+2019-07-04 09:00:57 - Internacional - Limpeza efetuada dos registros obtidos antes de: 2019-07-03 09:00:57
+2019-07-04 09:00:57 - Internacional - Bitcoin agora $: 11747.02
+2019-07-04 09:00:57 - Internacional - Variação do ultimo preço: 0.00%
+2019-07-04 09:00:57 - Internacional - Salvando o ultimo preço obtido... 11747.02
+2019-07-04 09:00:57 - BtcTrade - Variação obtida...
+2019-07-04 09:00:57 - BtcTrade - Low: 11052.67
+2019-07-04 09:00:57 - BtcTrade - High: 44959.00
+2019-07-04 09:00:57 - BtcTrade - Avarege: 13084.81
+2019-07-04 09:00:57 - Retorno da Requisição da API BitcoinTrade: 200
+2019-07-04 09:00:57 - BtcTrade - Limpeza efetuada dos registros obtidos antes de: 2019-07-03 09:00:57
+2019-07-04 09:00:57 - BtcTrade - Bitcoin agora R$: 44800.05
+2019-07-04 09:00:57 - BtcTrade - Variação do ultimo preço: 0.00%
+2019-07-04 09:00:57 - BtcTrade - Salvando o ultimo preço obtido... 44800.05
+2019-07-04 09:01:01 - Internacional - Variação obtida...
+2019-07-04 09:01:01 - Internacional - Low: 11052.67
+2019-07-04 09:01:01 - Internacional - High: 11782.01
+2019-07-04 09:01:01 - Internacional - Avarege: 11374.11
+2019-07-04 09:01:02 - Retorno da Requisição: 200
+2019-07-04 09:01:02 - Internacional - Limpeza efetuada dos registros obtidos antes de: 2019-07-03 09:01:02
+2019-07-04 09:01:02 - Internacional - Bitcoin agora $: 11747.02
+2019-07-04 09:01:02 - Internacional - Variação do ultimo preço: 0.00%
+2019-07-04 09:01:02 - Internacional - Salvando o ultimo preço obtido... 11747.02
+2019-07-04 09:01:02 - BtcTrade - Variação obtida...
+2019-07-04 09:01:02 - BtcTrade - Low: 11052.67
+2019-07-04 09:01:02 - BtcTrade - High: 44959.00
+2019-07-04 09:01:02 - BtcTrade - Avarege: 13098.50
+2019-07-04 09:01:02 - Retorno da Requisição da API BitcoinTrade: 200
+2019-07-04 09:01:02 - BtcTrade - Limpeza efetuada dos registros obtidos antes de: 2019-07-03 09:01:02
+2019-07-04 09:01:02 - BtcTrade - Bitcoin agora R$: 44800.05
+2019-07-04 09:01:02 - BtcTrade - Variação do ultimo preço: 0.00%
+2019-07-04 09:01:02 - BtcTrade - Salvando o ultimo preço obtido... 44800.05
+2019-07-04 09:01:06 - Internacional - Variação obtida...
+2019-07-04 09:01:06 - Internacional - Low: 11052.67
+2019-07-04 09:01:06 - Internacional - High: 11782.01
+2019-07-04 09:01:06 - Internacional - Avarege: 11374.27
+2019-07-04 09:01:07 - Retorno da Requisição: 200
+2019-07-04 09:01:07 - Internacional - Limpeza efetuada dos registros obtidos antes de: 2019-07-03 09:01:07
+2019-07-04 09:01:07 - Internacional - Bitcoin agora $: 11747.02
+2019-07-04 09:01:07 - Internacional - Variação do ultimo preço: 0.00%
+2019-07-04 09:01:07 - Internacional - Salvando o ultimo preço obtido... 11747.02
+2019-07-04 09:01:07 - BtcTrade - Variação obtida...
+2019-07-04 09:01:07 - BtcTrade - Low: 11052.67
+2019-07-04 09:01:07 - BtcTrade - High: 44959.00
+2019-07-04 09:01:07 - BtcTrade - Avarege: 13112.18
+2019-07-04 09:01:08 - Retorno da Requisição da API BitcoinTrade: 200
+2019-07-04 09:01:08 - BtcTrade - Limpeza efetuada dos registros obtidos antes de: 2019-07-03 09:01:08
+2019-07-04 09:01:08 - BtcTrade - Bitcoin agora R$: 44800.05
+2019-07-04 09:01:08 - BtcTrade - Variação do ultimo preço: 0.00%
+2019-07-04 09:01:08 - BtcTrade - Salvando o ultimo preço obtido... 44800.05
+2019-07-04 09:01:11 - Internacional - Variação obtida...
+2019-07-04 09:01:11 - Internacional - Low: 11052.67
+2019-07-04 09:01:11 - Internacional - High: 11782.01
+2019-07-04 09:01:11 - Internacional - Avarege: 11374.43
+2019-07-04 09:01:12 - Retorno da Requisição: 200
+2019-07-04 09:01:12 - Internacional - Limpeza efetuada dos registros obtidos antes de: 2019-07-03 09:01:12
+2019-07-04 09:01:12 - Internacional - Bitcoin agora $: 11738.70
+2019-07-04 09:01:12 - Internacional - Variação do ultimo preço: -0.07%
+2019-07-04 09:01:12 - Internacional - Salvando o ultimo preço obtido... 11738.70
+2019-07-04 09:01:12 - BtcTrade - Variação obtida...
+2019-07-04 09:01:12 - BtcTrade - Low: 11052.67
+2019-07-04 09:01:12 - BtcTrade - High: 44959.00
+2019-07-04 09:01:12 - BtcTrade - Avarege: 13125.84
+2019-07-04 09:01:12 - Retorno da Requisição da API BitcoinTrade: 200
+2019-07-04 09:01:12 - BtcTrade - Limpeza efetuada dos registros obtidos antes de: 2019-07-03 09:01:12
+2019-07-04 09:01:12 - BtcTrade - Bitcoin agora R$: 44800.05
+2019-07-04 09:01:12 - BtcTrade - Variação do ultimo preço: 0.00%
+2019-07-04 09:01:12 - BtcTrade - Salvando o ultimo preço obtido... 44800.05
+2019-07-04 09:01:16 - Internacional - Variação obtida...
+2019-07-04 09:01:16 - Internacional - Low: 11052.67
+2019-07-04 09:01:16 - Internacional - High: 11782.01
+2019-07-04 09:01:16 - Internacional - Avarege: 11374.59
+2019-07-04 09:01:17 - Retorno da Requisição: 200
+2019-07-04 09:01:17 - Internacional - Limpeza efetuada dos registros obtidos antes de: 2019-07-03 09:01:17
+2019-07-04 09:01:17 - Internacional - Bitcoin agora $: 11738.70
+2019-07-04 09:01:17 - Internacional - Variação do ultimo preço: 0.00%
+2019-07-04 09:01:17 - Internacional - Salvando o ultimo preço obtido... 11738.70
+2019-07-04 09:01:17 - BtcTrade - Variação obtida...
+2019-07-04 09:01:17 - BtcTrade - Low: 11052.67
+2019-07-04 09:01:17 - BtcTrade - High: 44959.00
+2019-07-04 09:01:17 - BtcTrade - Avarege: 13139.49
+2019-07-04 09:01:17 - Retorno da Requisição da API BitcoinTrade: 200
+2019-07-04 09:01:17 - BtcTrade - Limpeza efetuada dos registros obtidos antes de: 2019-07-03 09:01:17
+2019-07-04 09:01:17 - BtcTrade - Bitcoin agora R$: 44800.05
+2019-07-04 09:01:17 - BtcTrade - Variação do ultimo preço: 0.00%
+2019-07-04 09:01:17 - BtcTrade - Salvando o ultimo preço obtido... 44800.05
+2019-07-04 09:01:21 - Internacional - Variação obtida...
+2019-07-04 09:01:21 - Internacional - Low: 11052.67
+2019-07-04 09:01:21 - Internacional - High: 11782.01
+2019-07-04 09:01:21 - Internacional - Avarege: 11374.75
+2019-07-04 09:01:22 - Retorno da Requisição: 200
+2019-07-04 09:01:22 - Internacional - Limpeza efetuada dos registros obtidos antes de: 2019-07-03 09:01:22
+2019-07-04 09:01:22 - Internacional - Bitcoin agora $: 11738.70
+2019-07-04 09:01:22 - Internacional - Variação do ultimo preço: 0.00%
+2019-07-04 09:01:22 - Internacional - Salvando o ultimo preço obtido... 11738.70
+2019-07-04 09:01:22 - BtcTrade - Variação obtida...
+2019-07-04 09:01:22 - BtcTrade - Low: 11052.67
+2019-07-04 09:01:22 - BtcTrade - High: 44959.00
+2019-07-04 09:01:22 - BtcTrade - Avarege: 13153.13
+2019-07-04 09:01:22 - Retorno da Requisição da API BitcoinTrade: 200
+2019-07-04 09:01:23 - BtcTrade - Limpeza efetuada dos registros obtidos antes de: 2019-07-03 09:01:23
+2019-07-04 09:01:23 - BtcTrade - Bitcoin agora R$: 44800.05
+2019-07-04 09:01:23 - BtcTrade - Variação do ultimo preço: 0.00%
+2019-07-04 09:01:23 - BtcTrade - Salvando o ultimo preço obtido... 44800.05
+2019-07-04 09:01:26 - Internacional - Variação obtida...
+2019-07-04 09:01:26 - Internacional - Low: 11052.67
+2019-07-04 09:01:26 - Internacional - High: 11782.01
+2019-07-04 09:01:26 - Internacional - Avarege: 11374.91
+2019-07-04 09:01:27 - Retorno da Requisição: 200
+2019-07-04 09:01:27 - Internacional - Limpeza efetuada dos registros obtidos antes de: 2019-07-03 09:01:27
+2019-07-04 09:01:27 - Internacional - Bitcoin agora $: 11738.70
+2019-07-04 09:01:27 - Internacional - Variação do ultimo preço: 0.00%
+2019-07-04 09:01:27 - Internacional - Salvando o ultimo preço obtido... 11738.70
+2019-07-04 09:01:27 - BtcTrade - Variação obtida...
+2019-07-04 09:01:27 - BtcTrade - Low: 11052.67
+2019-07-04 09:01:27 - BtcTrade - High: 44959.00
+2019-07-04 09:01:27 - BtcTrade - Avarege: 13166.76
+2019-07-04 09:01:27 - Retorno da Requisição da API BitcoinTrade: 200
+2019-07-04 09:01:27 - BtcTrade - Limpeza efetuada dos registros obtidos antes de: 2019-07-03 09:01:27
+2019-07-04 09:01:27 - BtcTrade - Bitcoin agora R$: 44800.05
+2019-07-04 09:01:27 - BtcTrade - Variação do ultimo preço: 0.00%
+2019-07-04 09:01:27 - BtcTrade - Salvando o ultimo preço obtido... 44800.05
+2019-07-04 09:01:31 - Internacional - Variação obtida...
+2019-07-04 09:01:31 - Internacional - Low: 11052.67
+2019-07-04 09:01:31 - Internacional - High: 11782.01
+2019-07-04 09:01:31 - Internacional - Avarege: 11375.07
+2019-07-04 09:01:32 - Retorno da Requisição: 200
+2019-07-04 09:01:32 - Internacional - Limpeza efetuada dos registros obtidos antes de: 2019-07-03 09:01:32
+2019-07-04 09:01:32 - Internacional - Bitcoin agora $: 11738.70
+2019-07-04 09:01:32 - Internacional - Variação do ultimo preço: 0.00%
+2019-07-04 09:01:32 - Internacional - Salvando o ultimo preço obtido... 11738.70
+2019-07-04 09:01:32 - BtcTrade - Variação obtida...
+2019-07-04 09:01:32 - BtcTrade - Low: 11052.67
+2019-07-04 09:01:32 - BtcTrade - High: 44959.00
+2019-07-04 09:01:32 - BtcTrade - Avarege: 13180.38
+2019-07-04 09:01:32 - Retorno da Requisição da API BitcoinTrade: 200
+2019-07-04 09:01:32 - BtcTrade - Limpeza efetuada dos registros obtidos antes de: 2019-07-03 09:01:32
+2019-07-04 09:01:32 - BtcTrade - Bitcoin agora R$: 44800.05
+2019-07-04 09:01:32 - BtcTrade - Variação do ultimo preço: 0.00%
+2019-07-04 09:01:32 - BtcTrade - Salvando o ultimo preço obtido... 44800.05
+2019-07-04 09:01:36 - Internacional - Variação obtida...
+2019-07-04 09:01:36 - Internacional - Low: 11052.67
+2019-07-04 09:01:36 - Internacional - High: 11782.01
+2019-07-04 09:01:36 - Internacional - Avarege: 11375.22
+2019-07-04 09:01:37 - Retorno da Requisição: 200
+2019-07-04 09:01:37 - Internacional - Limpeza efetuada dos registros obtidos antes de: 2019-07-03 09:01:37
+2019-07-04 09:01:37 - Internacional - Bitcoin agora $: 11738.70
+2019-07-04 09:01:37 - Internacional - Variação do ultimo preço: 0.00%
+2019-07-04 09:01:37 - Internacional - Salvando o ultimo preço obtido... 11738.70
+2019-07-04 09:01:37 - BtcTrade - Variação obtida...
+2019-07-04 09:01:37 - BtcTrade - Low: 11052.67
+2019-07-04 09:01:37 - BtcTrade - High: 44959.00
+2019-07-04 09:01:37 - BtcTrade - Avarege: 13193.99
+2019-07-04 09:01:37 - Retorno da Requisição da API BitcoinTrade: 200
+2019-07-04 09:01:37 - BtcTrade - Limpeza efetuada dos registros obtidos antes de: 2019-07-03 09:01:37
+2019-07-04 09:01:37 - BtcTrade - Bitcoin agora R$: 44898.99
+2019-07-04 09:01:37 - BtcTrade - Variação do ultimo preço: 0.22%
+2019-07-04 09:01:37 - BtcTrade - Salvando o ultimo preço obtido... 44898.99
+2019-07-04 09:01:41 - Internacional - Variação obtida...
+2019-07-04 09:01:41 - Internacional - Low: 11052.67
+2019-07-04 09:01:41 - Internacional - High: 11782.01
+2019-07-04 09:01:41 - Internacional - Avarege: 11375.38
+2019-07-04 09:01:42 - Retorno da Requisição: 200
+2019-07-04 09:01:42 - Internacional - Limpeza efetuada dos registros obtidos antes de: 2019-07-03 09:01:42
+2019-07-04 09:01:42 - Internacional - Bitcoin agora $: 11738.70
+2019-07-04 09:01:42 - Internacional - Variação do ultimo preço: 0.00%
+2019-07-04 09:01:42 - Internacional - Salvando o ultimo preço obtido... 11738.70
+2019-07-04 09:01:42 - BtcTrade - Variação obtida...
+2019-07-04 09:01:42 - BtcTrade - Low: 11052.67
+2019-07-04 09:01:42 - BtcTrade - High: 44959.00
+2019-07-04 09:01:42 - BtcTrade - Avarege: 13207.62
+2019-07-04 09:01:42 - Retorno da Requisição da API BitcoinTrade: 200
+2019-07-04 09:01:42 - BtcTrade - Limpeza efetuada dos registros obtidos antes de: 2019-07-03 09:01:42
+2019-07-04 09:01:42 - BtcTrade - Bitcoin agora R$: 44898.99
+2019-07-04 09:01:42 - BtcTrade - Variação do ultimo preço: 0.00%
+2019-07-04 09:01:42 - BtcTrade - Salvando o ultimo preço obtido... 44898.99
+2019-07-04 09:01:46 - Internacional - Variação obtida...
+2019-07-04 09:01:46 - Internacional - Low: 11052.67
+2019-07-04 09:01:46 - Internacional - High: 11782.01
+2019-07-04 09:01:46 - Internacional - Avarege: 11375.54
+2019-07-04 09:01:47 - Retorno da Requisição: 200
+2019-07-04 09:01:47 - Internacional - Limpeza efetuada dos registros obtidos antes de: 2019-07-03 09:01:47
+2019-07-04 09:01:47 - Internacional - Bitcoin agora $: 11738.70
+2019-07-04 09:01:47 - Internacional - Variação do ultimo preço: 0.00%
+2019-07-04 09:01:47 - Internacional - Salvando o ultimo preço obtido... 11738.70
+2019-07-04 09:01:47 - BtcTrade - Variação obtida...
+2019-07-04 09:01:47 - BtcTrade - Low: 11052.67
+2019-07-04 09:01:47 - BtcTrade - High: 44959.00
+2019-07-04 09:01:47 - BtcTrade - Avarege: 13221.25
+2019-07-04 09:01:48 - Retorno da Requisição da API BitcoinTrade: 200
+2019-07-04 09:01:48 - BtcTrade - Limpeza efetuada dos registros obtidos antes de: 2019-07-03 09:01:48
+2019-07-04 09:01:48 - BtcTrade - Bitcoin agora R$: 44898.99
+2019-07-04 09:01:48 - BtcTrade - Variação do ultimo preço: 0.00%
+2019-07-04 09:01:48 - BtcTrade - Salvando o ultimo preço obtido... 44898.99
+2019-07-04 09:01:51 - Internacional - Variação obtida...
+2019-07-04 09:01:51 - Internacional - Low: 11052.67
+2019-07-04 09:01:51 - Internacional - High: 11782.01
+2019-07-04 09:01:51 - Internacional - Avarege: 11375.70
+2019-07-04 09:01:52 - Retorno da Requisição: 200
+2019-07-04 09:01:52 - Internacional - Limpeza efetuada dos registros obtidos antes de: 2019-07-03 09:01:52
+2019-07-04 09:01:52 - Internacional - Bitcoin agora $: 11738.70
+2019-07-04 09:01:52 - Internacional - Variação do ultimo preço: 0.00%
+2019-07-04 09:01:52 - Internacional - Salvando o ultimo preço obtido... 11738.70
+2019-07-04 09:01:52 - BtcTrade - Variação obtida...
+2019-07-04 09:01:52 - BtcTrade - Low: 11052.67
+2019-07-04 09:01:52 - BtcTrade - High: 44959.00
+2019-07-04 09:01:52 - BtcTrade - Avarege: 13234.86
+2019-07-04 09:01:52 - Retorno da Requisição da API BitcoinTrade: 200
+2019-07-04 09:01:52 - BtcTrade - Limpeza efetuada dos registros obtidos antes de: 2019-07-03 09:01:52
+2019-07-04 09:01:52 - BtcTrade - Bitcoin agora R$: 44898.99
+2019-07-04 09:01:52 - BtcTrade - Variação do ultimo preço: 0.00%
+2019-07-04 09:01:52 - BtcTrade - Salvando o ultimo preço obtido... 44898.99
+2019-07-04 09:01:56 - Internacional - Variação obtida...
+2019-07-04 09:01:56 - Internacional - Low: 11052.67
+2019-07-04 09:01:56 - Internacional - High: 11782.01
+2019-07-04 09:01:56 - Internacional - Avarege: 11375.85
+2019-07-04 09:01:57 - Retorno da Requisição: 200
+2019-07-04 09:01:57 - Internacional - Limpeza efetuada dos registros obtidos antes de: 2019-07-03 09:01:57
+2019-07-04 09:01:57 - Internacional - Bitcoin agora $: 11739.43
+2019-07-04 09:01:57 - Internacional - Variação do ultimo preço: 0.01%
+2019-07-04 09:01:57 - Internacional - Salvando o ultimo preço obtido... 11739.43
+2019-07-04 09:01:57 - BtcTrade - Variação obtida...
+2019-07-04 09:01:57 - BtcTrade - Low: 11052.67
+2019-07-04 09:01:57 - BtcTrade - High: 44959.00
+2019-07-04 09:01:57 - BtcTrade - Avarege: 13248.46
+2019-07-04 09:01:57 - Retorno da Requisição da API BitcoinTrade: 200
+2019-07-04 09:01:57 - BtcTrade - Limpeza efetuada dos registros obtidos antes de: 2019-07-03 09:01:57
+2019-07-04 09:01:57 - BtcTrade - Bitcoin agora R$: 44898.99
+2019-07-04 09:01:57 - BtcTrade - Variação do ultimo preço: 0.00%
+2019-07-04 09:01:57 - BtcTrade - Salvando o ultimo preço obtido... 44898.99
+2019-07-04 09:02:01 - Internacional - Variação obtida...
+2019-07-04 09:02:01 - Internacional - Low: 11052.67
+2019-07-04 09:02:01 - Internacional - High: 11782.01
+2019-07-04 09:02:01 - Internacional - Avarege: 11376.01
+2019-07-04 09:02:02 - Retorno da Requisição: 200
+2019-07-04 09:02:02 - Internacional - Limpeza efetuada dos registros obtidos antes de: 2019-07-03 09:02:02
+2019-07-04 09:02:02 - Internacional - Bitcoin agora $: 11748.19
+2019-07-04 09:02:02 - Internacional - Variação do ultimo preço: 0.07%
+2019-07-04 09:02:02 - Internacional - Salvando o ultimo preço obtido... 11748.19
+2019-07-04 09:02:02 - BtcTrade - Variação obtida...
+2019-07-04 09:02:02 - BtcTrade - Low: 11052.67
+2019-07-04 09:02:02 - BtcTrade - High: 44959.00
+2019-07-04 09:02:02 - BtcTrade - Avarege: 13262.05
+2019-07-04 09:02:03 - Retorno da Requisição da API BitcoinTrade: 200
+2019-07-04 09:02:03 - BtcTrade - Limpeza efetuada dos registros obtidos antes de: 2019-07-03 09:02:03
+2019-07-04 09:02:03 - BtcTrade - Bitcoin agora R$: 44899.00
+2019-07-04 09:02:03 - BtcTrade - Variação do ultimo preço: 0.00%
+2019-07-04 09:02:03 - BtcTrade - Salvando o ultimo preço obtido... 44899.00
+2019-07-04 09:02:06 - Internacional - Variação obtida...
+2019-07-04 09:02:06 - Internacional - Low: 11052.67
+2019-07-04 09:02:06 - Internacional - High: 11782.01
+2019-07-04 09:02:06 - Internacional - Avarege: 11376.17
+2019-07-04 09:02:07 - Retorno da Requisição: 200
+2019-07-04 09:02:07 - Internacional - Limpeza efetuada dos registros obtidos antes de: 2019-07-03 09:02:07
+2019-07-04 09:02:07 - Internacional - Bitcoin agora $: 11738.70
+2019-07-04 09:02:07 - Internacional - Variação do ultimo preço: -0.08%
+2019-07-04 09:02:07 - Internacional - Salvando o ultimo preço obtido... 11738.70
+2019-07-04 09:02:07 - BtcTrade - Variação obtida...
+2019-07-04 09:02:07 - BtcTrade - Low: 11052.67
+2019-07-04 09:02:07 - BtcTrade - High: 44959.00
+2019-07-04 09:02:07 - BtcTrade - Avarege: 13275.63
+2019-07-04 09:02:08 - Retorno da Requisição da API BitcoinTrade: 200
+2019-07-04 09:02:08 - BtcTrade - Limpeza efetuada dos registros obtidos antes de: 2019-07-03 09:02:08
+2019-07-04 09:02:08 - BtcTrade - Bitcoin agora R$: 44899.00
+2019-07-04 09:02:08 - BtcTrade - Variação do ultimo preço: 0.00%
+2019-07-04 09:02:08 - BtcTrade - Salvando o ultimo preço obtido... 44899.00
+2019-07-04 09:02:11 - Internacional - Variação obtida...
+2019-07-04 09:02:11 - Internacional - Low: 11052.67
+2019-07-04 09:02:11 - Internacional - High: 11782.01
+2019-07-04 09:02:11 - Internacional - Avarege: 11376.33
+2019-07-04 09:02:12 - Retorno da Requisição: 200
+2019-07-04 09:02:12 - Internacional - Limpeza efetuada dos registros obtidos antes de: 2019-07-03 09:02:12
+2019-07-04 09:02:12 - Internacional - Bitcoin agora $: 11748.19
+2019-07-04 09:02:12 - Internacional - Variação do ultimo preço: 0.08%
+2019-07-04 09:02:12 - Internacional - Salvando o ultimo preço obtido... 11748.19
+2019-07-04 09:02:12 - BtcTrade - Variação obtida...
+2019-07-04 09:02:12 - BtcTrade - Low: 11052.67
+2019-07-04 09:02:12 - BtcTrade - High: 44959.00
+2019-07-04 09:02:12 - BtcTrade - Avarege: 13289.20
+2019-07-04 09:02:12 - Retorno da Requisição da API BitcoinTrade: 200
+2019-07-04 09:02:12 - BtcTrade - Limpeza efetuada dos registros obtidos antes de: 2019-07-03 09:02:12
+2019-07-04 09:02:12 - BtcTrade - Bitcoin agora R$: 44899.00
+2019-07-04 09:02:12 - BtcTrade - Variação do ultimo preço: 0.00%
+2019-07-04 09:02:12 - BtcTrade - Salvando o ultimo preço obtido... 44899.00
+2019-07-04 09:02:16 - Internacional - Variação obtida...
+2019-07-04 09:02:16 - Internacional - Low: 11052.67
+2019-07-04 09:02:16 - Internacional - High: 11782.01
+2019-07-04 09:02:16 - Internacional - Avarege: 11376.49
+2019-07-04 09:02:17 - Retorno da Requisição: 200
+2019-07-04 09:02:17 - Internacional - Limpeza efetuada dos registros obtidos antes de: 2019-07-03 09:02:17
+2019-07-04 09:02:17 - Internacional - Bitcoin agora $: 11748.19
+2019-07-04 09:02:17 - Internacional - Variação do ultimo preço: 0.00%
+2019-07-04 09:02:17 - Internacional - Salvando o ultimo preço obtido... 11748.19
+2019-07-04 09:02:17 - BtcTrade - Variação obtida...
+2019-07-04 09:02:17 - BtcTrade - Low: 11052.67
+2019-07-04 09:02:17 - BtcTrade - High: 44959.00
+2019-07-04 09:02:17 - BtcTrade - Avarege: 13302.75
+2019-07-04 09:02:17 - Retorno da Requisição da API BitcoinTrade: 200
+2019-07-04 09:02:17 - BtcTrade - Limpeza efetuada dos registros obtidos antes de: 2019-07-03 09:02:17
+2019-07-04 09:02:17 - BtcTrade - Bitcoin agora R$: 44899.00
+2019-07-04 09:02:17 - BtcTrade - Variação do ultimo preço: 0.00%
+2019-07-04 09:02:17 - BtcTrade - Salvando o ultimo preço obtido... 44899.00
+2019-07-04 09:02:21 - Internacional - Variação obtida...
+2019-07-04 09:02:21 - Internacional - Low: 11052.67
+2019-07-04 09:02:21 - Internacional - High: 11782.01
+2019-07-04 09:02:21 - Internacional - Avarege: 11376.65
+2019-07-04 09:02:22 - Retorno da Requisição: 200
+2019-07-04 09:02:22 - Internacional - Limpeza efetuada dos registros obtidos antes de: 2019-07-03 09:02:22
+2019-07-04 09:02:22 - Internacional - Bitcoin agora $: 11748.19
+2019-07-04 09:02:22 - Internacional - Variação do ultimo preço: 0.00%
+2019-07-04 09:02:22 - Internacional - Salvando o ultimo preço obtido... 11748.19
+2019-07-04 09:02:22 - BtcTrade - Variação obtida...
+2019-07-04 09:02:22 - BtcTrade - Low: 11052.67
+2019-07-04 09:02:22 - BtcTrade - High: 44959.00
+2019-07-04 09:02:22 - BtcTrade - Avarege: 13316.29
+2019-07-04 09:02:23 - Retorno da Requisição da API BitcoinTrade: 200
+2019-07-04 09:02:23 - BtcTrade - Limpeza efetuada dos registros obtidos antes de: 2019-07-03 09:02:23
+2019-07-04 09:02:23 - BtcTrade - Bitcoin agora R$: 44899.00
+2019-07-04 09:02:23 - BtcTrade - Variação do ultimo preço: 0.00%
+2019-07-04 09:02:23 - BtcTrade - Salvando o ultimo preço obtido... 44899.00

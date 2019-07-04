@@ -15,6 +15,7 @@ util.showLog("App Started...");
 function monitoringExternal() {
     modulesExternal.checkVariationPrice();
     modulesExternal.getPrice();
+    monitoringBtcTrade();
 }
 
 function monitoringBtcTrade() {
@@ -27,7 +28,7 @@ function recursive() {
     server.startServer();
 
     setInterval(() => {
-        monitoringBtcTrade()
+        monitoringExternal()
     }, 5000);
 }
 
