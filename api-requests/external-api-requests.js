@@ -1,18 +1,13 @@
 var util = require('../utils/utils');
+var generalApiRequests = require('./general-api-requests');
+
 module.exports = {
 
-
     getPrice: function() {
-        url = 'https://blockchain.info/ticker';
-        var XMLHttpRequest = require("xmlhttprequest").XMLHttpRequest;
-        var xmlHttp = new XMLHttpRequest();
-        xmlHttp.open("GET", url, false);
-        xmlHttp.send(null);
-        util.showLog("Retorno da Requisição: " + xmlHttp.status);
-        var json = JSON.parse(xmlHttp.responseText);
+        var responseRequest = generalApiRequests.httpResponse('https://blockchain.info/ticker', 'Internacional');
         return {
-            httpResponseStatus: xmlHttp.status,
-            httpResponseText: getPriceSpecifyCurrency('USD', json)
+            httpResponseStatus: responseRequest.httpResponseStatus,
+            httpResponseText: getPriceSpecifyCurrency('USD', JSON.parse(responseRequest.httpResponseText))
         };
     }
 };

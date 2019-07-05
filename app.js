@@ -29,7 +29,7 @@ function recursive() {
 
     setInterval(() => {
         monitoringExternal()
-    }, 5000);
+    }, 7100);
 }
 
 //apiRequest.getPrice();

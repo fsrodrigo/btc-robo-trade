@@ -1,3 +1,5 @@
+var path = require('path');
+var appDir = path.dirname(require.main.filename);
 module.exports = {
 
     showLog: function(msg) {
@@ -48,7 +50,23 @@ module.exports = {
         percentual = (delta * 100) / oldPrice;
         return percentual.toFixed(2);
 
+    },
+
+    createSimpleJsonInitial: function(key, value) {
+        json = '{\n' + '"' + key + '" : ' + value + '\n}';
+        return json;
+    },
+
+    makeBackupFile: function(origem, destino) {
+        this.showLog("criando um backup do arquivo: " + origem);
+        conteudoOrigem = this.readFileSync(origem);
+        //console.log(conteudoOrigem);
+        this.saveInFile(destino, conteudoOrigem, 'w');
+    },
+    testesGerais: function() {
+        console.log(appDir);
     }
 };
 
-//module.exports.getVariacaoPercent(1000, 1100);
+//module.exports.makeBackupFile('./db_resources/priceHistory.txt', './db_resources/priceHistoryBackup.txt');
+module.exports.testesGerais();
