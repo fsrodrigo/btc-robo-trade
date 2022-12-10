@@ -4,7 +4,7 @@
     "description": "This is a btc trade Robot.. Nothing more.",
     "main": "app.js",
     "dependencies": {
-        "express": "^4.17.1",
+        "express": "^4.17.3",
         "node-datetime": "^2.1.2",
         "xmlhttprequest": "^1.8.0"
     },
